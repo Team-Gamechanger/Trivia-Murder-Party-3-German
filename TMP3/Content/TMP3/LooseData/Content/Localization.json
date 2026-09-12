@@ -1,0 +1,263 @@
+{
+ "content": [
+  {
+   "filename": "Localization.json",
+   "id": "119674",
+   "priority": 0,
+   "properties": [
+    {
+     "textKey": "TUT_CANOES_0",
+     "value": [
+     "Gefährdete Spieler wählen ein Kanu, in das sie sich setzen."
+     ]
+    },
+    {
+     "textKey": "TUT_CANOES_1",
+     "value": [
+     "Wählt ihr alle dasselbe Kanu, stirbt niemand."
+     ]
+    },
+    {
+     "textKey": "TUT_CANOES_3",
+     "value": [
+     "Seid ihr euch nicht einig, bestrafe ich die schwerere Seite."
+     ]
+    },
+    {
+     "textKey": "TUT_PITS_0",
+     "value": [
+     "Gefährdete Spieler wählen einen Punkthaufen."
+     ]
+    },
+    {
+     "textKey": "TUT_PITS_1",
+     "value": [
+     "Ihr behaltet ihn, wenn niemand denselben Haufen wählt."
+     ]
+    },
+    {
+     "textKey": "TUT_PITS_2",
+     "value": [
+     "Andernfalls fallt ihr in die Grube."
+     ]
+    },
+    {
+     "textKey": "TUT_MINDMELD_0",
+     "value": [
+     "Ihr bekommt eine Vorgabe. Gebt eine gültige und einzigartige Antwort."
+     ]
+    },
+    {
+     "textKey": "TUT_MINDMELD_1",
+     "value": [
+     "Seid ihr gefährdet und jemand gibt dieselbe Antwort, sterbt ihr."
+     ]
+    },
+    {
+     "textKey": "TUT_JUMPSCARE_0",
+     "value": [
+     "Jeder Spieler kann in dieser Partie mindestens einen Schreckmoment auslösen."
+     ]
+    },
+    {
+     "textKey": "TUT_JUMPSCARE_1",
+     "value": [
+     "Der Knopf zum Auslösen befindet sich oben auf eurem Gerät."
+     ]
+    },
+    {
+     "textKey": "TUT_JUMPSCARE_2",
+     "value": [
+     "Dort seht ihr auch, wie viele ihr noch habt. Setzt sie klug ein."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_0",
+     "value": [
+     "Gleich fallen jede Menge Augäpfel vom Himmel."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_1",
+     "value": [
+     "Schätzt, wie viele im Gefäß landen."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_2",
+     "value": [
+     "Wer am weitesten danebenliegt, wird bestraft!"
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_SAFE_0",
+     "value": [
+     "Gleich fallen jede Menge Augäpfel vom Himmel."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_SAFE_1",
+     "value": [
+     "Schätzt, wie viele im Gefäß landen."
+     ]
+    },
+    {
+     "textKey": "TUT_COUNTING_SAFE_2",
+     "value": [
+     "Schätzt ein sicherer Spieler besser als ihr, sterbt ihr!"
+     ]
+    },
+    {
+     "textKey": "TUT_KILLERCAM_0",
+     "value": [
+     "Ich kreise mit einer Kettensäge um euch herum."
+     ]
+    },
+    {
+     "textKey": "TUT_KILLERCAM_1",
+     "value": [
+     "Ich zeige euch ein Bild von der Stelle, an der ich zusteche."
+     ]
+    },
+    {
+     "textKey": "TUT_KILLERCAM_2",
+     "value": [
+     "Orientiert euch am Graffiti und geht aus dem Weg."
+     ]
+    },
+    {
+     "textKey": "TUT_KILLERCAM_3",
+     "value": [
+     "Berührt euch meine Kettensäge, verliert ihr."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_0",
+     "value": [
+     "Ihr bekommt einen Opferbecher mit einer bestimmten Menge Blut."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_1",
+     "value": [
+     "Schätzt, wie viel mehr Blut nötig ist, um ihn zu füllen."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_2",
+     "value": [
+     "Haltet auf eurem Gerät den Messbecher für die fehlende Menge gedrückt."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_3",
+     "value": [
+     "Anschließend wird der Messbecher in euren Opferbecher geleert."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_4",
+     "value": [
+     "Ich bestrafe euch, wenn er überläuft oder ihr am wenigsten Blut habt."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_1",
+     "value": [
+     "Schätzt, wie viel mehr Blut nötig ist, um ihn zu füllen."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_2",
+     "value": [
+     "Haltet auf eurem Gerät den Messbecher für die fehlende Menge gedrückt."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_3",
+     "value": [
+     "Anschließend wird der Messbecher in euren Opferbecher geleert."
+     ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_4",
+     "value": [
+     "Ich bestrafe euch, wenn er überläuft oder ihr weniger habt als ein sicherer Spieler."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_0",
+     "value": [
+     "Alle wählen heimlich einen Kelch zum Vergiften."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_1",
+     "value": [
+     "Danach wählt jeder einen Kelch zum Trinken."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_2",
+     "value": [
+     "Enthält euer Getränk Gift, sterbt ihr."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_SAFE_0",
+     "value": [
+     "Jeder sichere Spieler vergiftet heimlich einen Kelch."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_SAFE_1",
+     "value": [
+     "Danach wählen die gefährdeten Spieler einen Kelch zum Trinken."
+     ]
+    },
+    {
+     "textKey": "TUT_CHALICES_SAFE_2",
+     "value": [
+     "Enthält euer Getränk Gift, sterbt ihr."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_0",
+     "value": [
+     "Löst so viele einfache Gleichungen wie möglich, bevor die Zeit abläuft."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_1",
+     "value": [
+     "Aber Vorsicht: Bei einem Fehler müsst ihr kurz aussetzen."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_2",
+     "value": [
+     "Wer die niedrigste Punktzahl hat, stirbt."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_SAFE_0",
+     "value": [
+     "Löst so viele einfache Gleichungen wie möglich, bevor die Zeit abläuft."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_SAFE_1",
+     "value": [
+     "Aber Vorsicht: Bei einem Fehler müsst ihr kurz aussetzen."
+     ]
+    },
+    {
+     "textKey": "TUT_MATH_SAFE_2",
+     "value": [
+     "Erzielt ein sicherer Spieler mehr Punkte als ihr, sterbt ihr."
+     ]
+    }
+   ]
+  }
+ ]
+}

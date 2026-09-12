@@ -1,0 +1,882 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "text": "Nachokäse niesen"
+    },
+    {
+     "text": "Guacamole kacken"
+    }
+   ],
+   "id": "105961",
+   "outro": "",
+   "question": "Würdest du lieber Nachokäse niesen oder Guacamole kacken?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ertrinken"
+    },
+    {
+     "text": "von einem Kissen erstickt werden"
+    }
+   ],
+   "id": "105962",
+   "outro": "",
+   "question": "Würdest du lieber ertrinken oder von einem Kissen erstickt werden?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Mähx Giesinger"
+    },
+    {
+     "text": "Nicole Kidman"
+    }
+   ],
+   "id": "105964",
+   "outro": "",
+   "question": "Welcher Name passt besser zu einer Hausziege?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Salz"
+    },
+    {
+     "text": "Ungarisch"
+    }
+   ],
+   "id": "105965",
+   "outro": "",
+   "question": "Welche Chips-Sorte ist besser?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ein freilaufender Skorpion im Haus"
+    },
+    {
+     "text": "ein Keller voller ungiftiger Schlangen"
+    }
+   ],
+   "id": "106219",
+   "outro": "",
+   "question": "Was ist gruseliger?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ja"
+    },
+    {
+     "text": "nein"
+    }
+   ],
+   "id": "106220",
+   "outro": "",
+   "question": "Können Menschen sich wirklich ändern?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Gitterpommes"
+    },
+    {
+     "text": "Curly Fries"
+    }
+   ],
+   "id": "106221",
+   "outro": "",
+   "question": "Welche Pommesform ist die beste?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ja"
+    },
+    {
+     "text": "nein"
+    }
+   ],
+   "id": "106222",
+   "outro": "",
+   "question": "Ist es jemals okay, an der Selbstbedienungskasse eines Großmarkts eine Packung Kaugummi mitgehen zu lassen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Vulkane"
+    },
+    {
+     "text": "Autos"
+    }
+   ],
+   "id": "107575",
+   "outro": "",
+   "question": "Was interessiert dich mehr: Vulkane oder Autos?"
+  },
+  {
+   "choices": [
+    {
+     "text": "jemand rutscht auf einer Bananenschale aus"
+    },
+    {
+     "text": "jemand bekommt eine Torte ins Gesicht"
+    }
+   ],
+   "id": "107583",
+   "outro": "",
+   "question": "Was ist lustiger?"
+  },
+  {
+   "choices": [
+    {
+     "text": "vor Publikum sprechen"
+    },
+    {
+     "text": "enge Räume"
+    }
+   ],
+   "id": "107584",
+   "outro": "",
+   "question": "Wovor hast du mehr Angst?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Zylinder"
+    },
+    {
+     "text": "Korsett"
+    }
+   ],
+   "id": "107586",
+   "outro": "",
+   "question": "Welches altmodische Kleidungsstück würdest du lieber jeden Tag tragen müssen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "du rockst jedes Karaoke"
+    },
+    {
+     "text": "du musst nie zum Friseur bezahlen"
+    }
+   ],
+   "id": "107587",
+   "outro": "",
+   "question": "Welche Superkraft hättest du lieber?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Blaubeerkuchen"
+    },
+    {
+     "text": "Schwarzwälder Kirschtorte"
+    }
+   ],
+   "id": "107588",
+   "outro": "",
+   "question": "Welcher Nachtisch schmeckt besser?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Stachelschwein"
+    },
+    {
+     "text": "Krabbe"
+    }
+   ],
+   "id": "107589",
+   "outro": "",
+   "question": "Als welches Tier würdest du lieber wiedergeboren werden?"
+  },
+  {
+   "choices": [
+    {
+     "text": "was nach dem Tod passiert"
+    },
+    {
+     "text": "ob Außerirdische existieren"
+    }
+   ],
+   "id": "107595",
+   "outro": "",
+   "question": "Was würdest du lieber wissen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Stracciatella"
+    },
+    {
+     "text": "Cookies"
+    }
+   ],
+   "id": "107596",
+   "outro": "",
+   "question": "Welche Eissorte ist die beste?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Hip-Hop"
+    },
+    {
+     "text": "Jazz"
+    }
+   ],
+   "id": "107621",
+   "outro": "",
+   "question": "Wähle einen Musikstil, den du für den Rest deines Lebens hören musst."
+  },
+  {
+   "choices": [
+    {
+     "text": "[i]Cats[/i]"
+    },
+    {
+     "text": "[i]Mamma Mia![/i]"
+    }
+   ],
+   "id": "107622",
+   "outro": "",
+   "question": "Welches Musical würdest du dir eher bis zum Ende ansehen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "einen Oscar"
+    },
+    {
+     "text": "olympisches Gold"
+    }
+   ],
+   "id": "107624",
+   "outro": "",
+   "question": "Was würdest du lieber gewinnen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Geschirr spülen"
+    },
+    {
+     "text": "staubsaugen"
+    }
+   ],
+   "id": "107626",
+   "outro": "",
+   "question": "Welche Hausarbeit macht mehr Spaß?"
+  },
+  {
+   "choices": [
+    {
+     "text": "einem gruseligen Clown"
+    },
+    {
+     "text": "einem hungrigen Bären"
+    }
+   ],
+   "id": "107627",
+   "outro": "",
+   "question": "Wem würdest du lieber im Wald begegnen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Geige"
+    },
+    {
+     "text": "Schlagzeug"
+    }
+   ],
+   "id": "107628",
+   "outro": "",
+   "question": "Welches Instrument würdest du lieber meisterhaft spielen können?"
+  },
+  {
+   "choices": [
+    {
+     "text": "eine Katze mit Sonnenbrille"
+    },
+    {
+     "text": "eine Schlange mit Cowboyhut"
+    }
+   ],
+   "id": "107636",
+   "outro": "",
+   "question": "Wer ist cooler?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ja"
+    },
+    {
+     "text": "nein"
+    }
+   ],
+   "id": "107637",
+   "outro": "",
+   "question": "Ist Pepsi auch okay?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Fenster"
+    },
+    {
+     "text": "Gang"
+    }
+   ],
+   "id": "107638",
+   "outro": "",
+   "question": "Welchen Sitzplatz bevorzugst du im Flugzeug?"
+  },
+  {
+   "choices": [
+    {
+     "text": "dir den Hals tätowieren lassen"
+    },
+    {
+     "text": "nur noch mit dem Skateboard reisen"
+    }
+   ],
+   "id": "107640",
+   "outro": "",
+   "question": "Was würdest du lieber tun?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ja"
+    },
+    {
+     "text": "nein"
+    }
+   ],
+   "id": "107641",
+   "outro": "",
+   "question": "Ist es okay, bei rot über die Ampel zu gehen, wenn kein Auto kommt?"
+  },
+  {
+   "choices": [
+    {
+     "text": "mehrere Schlangen besitzen"
+    },
+    {
+     "text": "nie Trinkgeld geben"
+    }
+   ],
+   "id": "107642",
+   "outro": "",
+   "question": "Welches Verhalten ist die größere Red Flag?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Pietro Lombardi"
+    },
+    {
+     "text": "Günther Jauch"
+    }
+   ],
+   "id": "107643",
+   "outro": "",
+   "question": "Mit welchem Star würdest du lieber zu Abend essen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "eisiger Schneesturm"
+    },
+    {
+     "text": "brütende Hitze"
+    }
+   ],
+   "id": "107644",
+   "outro": "",
+   "question": "Welches Wetter ist dir lieber?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Phantasialand"
+    },
+    {
+     "text": "Paris"
+    }
+   ],
+   "id": "107645",
+   "outro": "",
+   "question": "Wo würdest du lieber Urlaub machen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "in die Vergangenheit"
+    },
+    {
+     "text": "in die Zukunft"
+    }
+   ],
+   "id": "107651",
+   "outro": "",
+   "question": "Wohin würdest du lieber zeitreisen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "„Griechischer Wein“"
+    },
+    {
+     "text": "„Bohemian Rhapsody“"
+    }
+   ],
+   "id": "107654",
+   "outro": "",
+   "question": "Welches Lied würdest du lieber beim Karaoke singen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "6"
+    },
+    {
+     "text": "110.471"
+    }
+   ],
+   "id": "109922",
+   "outro": "",
+   "question": "Wähle völlig zufällig eine Zahl."
+  },
+  {
+   "choices": [
+    {
+     "text": "Erdnussbutter"
+    },
+    {
+     "text": "Gewürzgurken"
+    }
+   ],
+   "id": "109923",
+   "outro": "",
+   "question": "Welches Lebensmittel ist besser?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ja, natürlich"
+    },
+    {
+     "text": "nein, das ist seltsam"
+    }
+   ],
+   "id": "111184",
+   "outro": "",
+   "question": "Hast du eine Lieblingszahl?"
+  },
+  {
+   "choices": [
+    {
+     "text": "eine bekannte Person"
+    },
+    {
+     "text": "fünf fremde Personen"
+    }
+   ],
+   "id": "111404",
+   "intro": {
+    "versions": [
+     {
+      "subtitle": "Zeit für das Trolley-Problem!"
+     }
+    ]
+   },
+   "outro": "",
+   "question": "Wen soll die Straßenbahn zermatschen: eine Person, die du kennst, oder fünf Fremde?"
+  },
+  {
+   "choices": [
+    {
+     "text": "das ist lustig"
+    },
+    {
+     "text": "das ist nicht lustig"
+    }
+   ],
+   "id": "111408",
+   "outro": "",
+   "question": "Pipi Kacka"
+  },
+  {
+   "choices": [
+    {
+     "text": "Rick"
+    },
+    {
+     "text": "Chris"
+    }
+   ],
+   "id": "111411",
+   "outro": "",
+   "question": "Welcher Name klingt mehr nach einem heißen Typen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "den Verlauf meiner Eltern sehen"
+    },
+    {
+     "text": "meinen Verlauf meinen Eltern zeigen"
+    }
+   ],
+   "id": "111415",
+   "outro": "",
+   "question": "Würdest du lieber den Suchverlauf deiner Eltern sehen oder ihnen deinen zeigen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Pfannkuchen"
+    },
+    {
+     "text": "Eierkuchen"
+    }
+   ],
+   "id": "111422",
+   "outro": "",
+   "question": "Pfannkuchen oder Eierkuchen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ja"
+    },
+    {
+     "text": "nein"
+    }
+   ],
+   "id": "111431",
+   "outro": "",
+   "question": "Glaubst du an Geister?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Rapsöl"
+    },
+    {
+     "text": "Essig"
+    }
+   ],
+   "id": "111471",
+   "outro": "",
+   "question": "Du musst einen ganzen Becher davon trinken. Was darf’s sein?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Einkaufszentrum an Heiligabend"
+    },
+    {
+     "text": "in Köln zum Karneval"
+    }
+   ],
+   "id": "111472",
+   "outro": "",
+   "question": "Wo würdest du lieber ein paar Stunden verbringen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Döner"
+    },
+    {
+     "text": "Dürüm"
+    }
+   ],
+   "id": "111534",
+   "outro": "",
+   "question": "Was ist leckerer? Döner oder Dürüm?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Ernie"
+    },
+    {
+     "text": "Bert"
+    }
+   ],
+   "id": "111536",
+   "outro": "",
+   "question": "Von wem würdest du dich lieber umarmen lassen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Himbeere"
+    },
+    {
+     "text": "Erdbeere"
+    }
+   ],
+   "id": "111537",
+   "outro": "",
+   "question": "Welche Marmelade gehört aufs Brot?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Deko-Schwerter an der Wand"
+    },
+    {
+     "text": "gar keine Deko an der Wand"
+    }
+   ],
+   "id": "111538",
+   "outro": "",
+   "question": "Was ist beim Dating die größere Red Flag?",
+   "x": true
+  },
+  {
+   "choices": [
+    {
+     "text": "noch eine Karte"
+    },
+    {
+     "text": "halten"
+    }
+   ],
+   "id": "111664",
+   "intro": {
+    "versions": [
+     {
+      "subtitle": "Wie wär's mit einem kleinen Kartenspiel?"
+     }
+    ]
+   },
+   "outro": "",
+   "question": "Du hast beim Blackjack 16. Ziehen oder halten?",
+   "x": true
+  },
+  {
+   "choices": [
+    {
+     "text": "links"
+    },
+    {
+     "text": "rechts"
+    }
+   ],
+   "id": "111677",
+   "intro": {
+    "versions": [
+     {
+      "subtitle": "Beängstigend: Du stehst kurz vor einer sozialen Interaktion."
+     }
+    ]
+   },
+   "outro": "",
+   "question": "Du läufst beinahe in jemanden hinein. Weichst du instinktiv nach links oder rechts aus?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Pflanze"
+    },
+    {
+     "text": "Kerze"
+    }
+   ],
+   "id": "111698",
+   "outro": "",
+   "question": "Was würdest du lieber geschenkt bekommen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Trampolin"
+    },
+    {
+     "text": "Skateboard"
+    }
+   ],
+   "id": "111699",
+   "outro": "",
+   "question": "Womit hättest du mehr Spaß?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Kaffee"
+    },
+    {
+     "text": "Nickerchen"
+    }
+   ],
+   "id": "111702",
+   "outro": "",
+   "question": "Es ist 14 Uhr und du bist müde. Was hilft besser?"
+  },
+  {
+   "choices": [
+    {
+     "text": "bester Freund"
+    },
+    {
+     "text": "Erzfeind"
+    }
+   ],
+   "id": "111707",
+   "intro": {
+    "versions": [
+     {}
+    ]
+   },
+   "outro": "",
+   "question": "Was wäre dir lieber: Deinem besten Freund passiert etwas Tolles oder deinem Erzfeind etwas Schlimmes?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ja"
+    },
+    {
+     "text": "nein"
+    }
+   ],
+   "id": "111709",
+   "outro": "",
+   "question": "Schaltest du bei Filmen Untertitel ein?"
+  },
+  {
+   "choices": [
+    {
+     "text": "ja"
+    },
+    {
+     "text": "nein"
+    }
+   ],
+   "id": "111710",
+   "intro": {
+    "versions": [
+     {}
+    ]
+   },
+   "outro": "",
+   "question": "Glaubst du, du würdest einen Horrorfilm überleben?"
+  },
+  {
+   "choices": [
+    {
+     "text": "einen ausgeklügelten Raubzug"
+    },
+    {
+     "text": "eine unvergessliche Party"
+    }
+   ],
+   "id": "111717",
+   "outro": "",
+   "question": "Was würdest du lieber erfolgreich durchziehen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Kürbis-Vanille"
+    },
+    {
+     "text": "Leder & Moos"
+    }
+   ],
+   "id": "111718",
+   "outro": "",
+   "question": "Welche Duftkerze würdest du lieber zu Hause anzünden?"
+  },
+  {
+   "choices": [
+    {
+     "text": "töten"
+    },
+    {
+     "text": "freilassen"
+    }
+   ],
+   "id": "111965",
+   "outro": "",
+   "question": "Wenn du ein Krabbeltier im Haus findest: töten oder draußen freilassen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Thermomix"
+    },
+    {
+     "text": "Heißluftfritteuse"
+    }
+   ],
+   "id": "112074",
+   "outro": "",
+   "question": "Du darfst nur eines haben: Welches Küchengerät wählst du?"
+  },
+  {
+   "choices": [
+    {
+     "text": "herumbrüllen"
+    },
+    {
+     "text": "Charme spielen lassen"
+    }
+   ],
+   "id": "112076",
+   "outro": "",
+   "question": "Wie gehst du vor, wenn du etwas vom Kundendienst brauchst?"
+  },
+  {
+   "choices": [
+    {
+     "text": "sehr enger Tunnel unter der Erde"
+    },
+    {
+     "text": "Rand einer sehr hohen Klippe"
+    }
+   ],
+   "id": "112087",
+   "outro": "",
+   "question": "An welchem Ort wärst du gestresster?"
+  },
+  {
+   "choices": [
+    {
+     "text": "schwingende Saloontüren"
+    },
+    {
+     "text": "hängender Perlenvorhang"
+    }
+   ],
+   "id": "112089",
+   "outro": "",
+   "question": "Wodurch macht es mehr Spaß, dramatisch hindurchzustürmen?"
+  },
+  {
+   "choices": [
+    {
+     "text": "Great Barrier Reef"
+    },
+    {
+     "text": "Grand Canyon"
+    }
+   ],
+   "id": "112090",
+   "outro": "",
+   "question": "Wenn wir Naturwunder bewerten müssen: Welches ist wundersamer?"
+  }
+ ]
+}
