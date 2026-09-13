@@ -46854,97 +46854,97 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Von Weird Al parodierte Songs",
+   "categoryName": "Von den Lochis parodierte Songs",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Another One Bites the Dust”"
+     "text": "“I Need Your Love”"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“My Sharona”"
+     "text": "“Whatever”"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Beat It”"
+     "text": "“Rather Be”"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Gangsta’s Paradise”"
+     "text": "“Traum”"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Like a Virgin”"
+     "text": "“Ai Se Eu Te Pego”"
     },
     {
      "correct": true,
+     "difficulty": "NORMAL",
+     "text": "“Hangover”"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "“Whistle”"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "“Geronimo”"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "“Someone Like You”"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "“Sorry”"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "“There She Goes”"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "“It Will Rain”"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "“Shape of You”"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "“Rolling in the Deep”"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "“Uptown Funk”"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "“Shake It Off”"
+    },
+    {
+     "correct": false,
      "difficulty": "NORMAL",
      "text": "“Happy”"
     },
     {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "“Smells Like Teen Spirit”"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "“U Can’t Touch This”"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "“Lola”"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "“Piano Man”"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "“American Pie”"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "“Ridin’”"
-    },
-    {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Purple Rain”"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "“Imagine”"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "“Bad Day”"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "“Johnny B. Goode”"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "“Fight the Power”"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "“Strawberry Fields Forever”"
+     "text": "“Roar”"
     }
    ],
    "context": "",
