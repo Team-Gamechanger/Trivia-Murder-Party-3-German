@@ -1,0 +1,3390 @@
+{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "McDonald’s"
+    },
+    {
+     "correct": false,
+     "text": "Subway"
+    },
+    {
+     "correct": false,
+     "text": "Nordsee"
+    },
+    {
+     "correct": true,
+     "text": "Burger King"
+    }
+   ],
+   "id": "114679",
+   "intro": "",
+   "outro": "",
+   "question": "Wo kannst du einen Whopper essen, aber nicht „Ich liebe es“ sagen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "15"
+    },
+    {
+     "correct": true,
+     "text": "18"
+    },
+    {
+     "correct": false,
+     "text": "17"
+    },
+    {
+     "correct": false,
+     "text": "21"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "114680",
+   "intro": "",
+   "outro": "",
+   "question": "Ab welchem Alter darf man in Deutschland ohne Begleitung Auto fahren?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Thomas Müller"
+    },
+    {
+     "correct": false,
+     "text": "Manuel Neuer"
+    },
+    {
+     "correct": false,
+     "text": "Toni Kroos"
+    },
+    {
+     "correct": false,
+     "text": "Miroslav Klose"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "114681",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher deutsche Fußballer trug beim FC Bayern lange die Nummer 25?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Oasis"
+    },
+    {
+     "correct": true,
+     "text": "The Rolling Stones"
+    },
+    {
+     "correct": false,
+     "text": "The Beatles"
+    },
+    {
+     "correct": false,
+     "text": "The Jackson 5"
+    }
+   ],
+   "id": "114682",
+   "intro": "",
+   "outro": "",
+   "question": "Wenn ich 64 bin, höre ich welche fünfköpfige britische Band?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Gelb"
+    },
+    {
+     "correct": false,
+     "text": "Rot"
+    },
+    {
+     "correct": false,
+     "text": "Grün"
+    },
+    {
+     "correct": false,
+     "text": "Orange"
+    }
+   ],
+   "id": "114683",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Farbe trägt Deadpools Freund Wolverine auf seinem Anzug?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Usain Bolt"
+    },
+    {
+     "correct": false,
+     "text": "Simone Biles"
+    },
+    {
+     "correct": false,
+     "text": "Naomi Osaka"
+    },
+    {
+     "correct": true,
+     "text": "Michael Phelps"
+    }
+   ],
+   "id": "114684",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Sportler ist dafür bekannt, blitzschnell ins Schwimmbecken zu sprinten?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Gerhard Schröder"
+    },
+    {
+     "correct": true,
+     "text": "Helmut Schmidt"
+    },
+    {
+     "correct": false,
+     "text": "Willy Brandt"
+    },
+    {
+     "correct": false,
+     "text": "Konrad Adenauer"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "114685",
+   "intro": "",
+   "outro": "",
+   "question": "Wer war unmittelbar vor Helmut Kohl deutscher Bundeskanzler?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "13"
+    },
+    {
+     "correct": false,
+     "text": "14"
+    },
+    {
+     "correct": true,
+     "text": "17"
+    },
+    {
+     "correct": false,
+     "text": "20"
+    }
+   ],
+   "id": "114686",
+   "intro": "",
+   "outro": "",
+   "question": "Welche dieser Zahlen ist die zweitkleinste Primzahl?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Michael Jackson"
+    },
+    {
+     "correct": false,
+     "text": "Louis Armstrong"
+    },
+    {
+     "correct": false,
+     "text": "Whitney Houston"
+    },
+    {
+     "correct": true,
+     "text": "Adele"
+    }
+   ],
+   "id": "114687",
+   "intro": "",
+   "outro": "",
+   "question": "Wer sang „Hello“, mein absolutes Lieblingslied?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sascha Hehn"
+    },
+    {
+     "correct": false,
+     "text": "Rufus Beck"
+    },
+    {
+     "correct": true,
+     "text": "Santiago Ziesmer"
+    },
+    {
+     "correct": false,
+     "text": "Manfred Lehmann"
+    }
+   ],
+   "id": "114688",
+   "intro": "",
+   "outro": "",
+   "question": "Wer sprach in [i]Shrek[/i] dessen Freund, den Pfefferkuchenmann?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Grün"
+    },
+    {
+     "correct": false,
+     "text": "Orange"
+    },
+    {
+     "correct": true,
+     "text": "Lila"
+    },
+    {
+     "correct": false,
+     "text": "Blau"
+    }
+   ],
+   "id": "114720",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Farbe entsteht, wenn man Rot mit Blau, aber nicht mit Gelb mischt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Manuel Neuer"
+    },
+    {
+     "correct": true,
+     "text": "Marc-André ter Stegen"
+    },
+    {
+     "correct": false,
+     "text": "Thomas Müller"
+    },
+    {
+     "correct": false,
+     "text": "Oliver Kahn"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "114722",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Fußballer ist Torwart, spielte aber nie für den FC Bayern?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Frankreich"
+    },
+    {
+     "correct": true,
+     "text": "Argentinien"
+    },
+    {
+     "correct": false,
+     "text": "Ägypten"
+    },
+    {
+     "correct": false,
+     "text": "Neuseeland"
+    }
+   ],
+   "id": "114723",
+   "intro": "",
+   "outro": "",
+   "question": "In welchem Land liegen die Anden, aber nicht die großen Pyramiden?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Britney Spears"
+    },
+    {
+     "correct": false,
+     "text": "Madonna"
+    },
+    {
+     "correct": false,
+     "text": "Katy Perry"
+    },
+    {
+     "correct": true,
+     "text": "Dua Lipa"
+    }
+   ],
+   "id": "114725",
+   "intro": "",
+   "outro": "",
+   "question": "Welche britische Popsängerin ist häufig in der [i]Vogue[/i] zu sehen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Zellkern"
+    },
+    {
+     "correct": false,
+     "text": "DNA"
+    },
+    {
+     "correct": true,
+     "text": "Zellwand"
+    },
+    {
+     "correct": false,
+     "text": "Mitochondrien"
+    }
+   ],
+   "id": "114726",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Teil einer Zelle umgibt das Kraftwerk der Zelle?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Contact[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Arrival[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]E.T. – Der Außerirdische[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Alien[/i]"
+    }
+   ],
+   "id": "114728",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Film-Alien frisst Menschen und muss nicht nach Hause telefonieren?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Der Herr der Ringe[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Game of Thrones[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Dune[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Das Rad der Zeit[/i]"
+    }
+   ],
+   "id": "114729",
+   "intro": "",
+   "outro": "",
+   "question": "In welcher Fantasy-Reihe tobt ein Sturm der Schwerter in Mittelerde?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Zitrone"
+    },
+    {
+     "correct": true,
+     "text": "Orange"
+    },
+    {
+     "correct": false,
+     "text": "Pommes"
+    },
+    {
+     "correct": false,
+     "text": "Kokosnuss"
+    }
+   ],
+   "id": "114730",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Frucht hat dieselbe Farbe wie ein Basketball?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Harfe"
+    },
+    {
+     "correct": true,
+     "text": "Cello"
+    },
+    {
+     "correct": false,
+     "text": "Gitarre"
+    },
+    {
+     "correct": false,
+     "text": "Klavier"
+    }
+   ],
+   "id": "114731",
+   "intro": "",
+   "outro": "",
+   "question": "Von welchem Saiteninstrument schwärmen Cellisten ständig?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "The Flash"
+    },
+    {
+     "correct": false,
+     "text": "Batman"
+    },
+    {
+     "correct": true,
+     "text": "Wonder Woman"
+    },
+    {
+     "correct": false,
+     "text": "Captain America"
+    }
+   ],
+   "id": "114732",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Superheldin benutzt ein Lasso statt eines Vibraniumschilds?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Spotlight[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]One Battle After Another[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Blood & Sinners[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Oppenheimer[/i]"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "114733",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Film gewann zehn Jahre nach 2016 den Oscar als bester Film?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "flüssig"
+    },
+    {
+     "correct": true,
+     "text": "fest"
+    },
+    {
+     "correct": false,
+     "text": "gasförmig"
+    },
+    {
+     "correct": false,
+     "text": "Plasma"
+    }
+   ],
+   "id": "114750",
+   "intro": "",
+   "outro": "",
+   "question": "Welchen Aggregatzustand hätte flüssiger Kaffee, wenn du ihn einfrierst?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Til Schweiger"
+    },
+    {
+     "correct": false,
+     "text": "Elyas M’Barek"
+    },
+    {
+     "correct": false,
+     "text": "Matthias Schweighöfer"
+    },
+    {
+     "correct": true,
+     "text": "Jürgen Prochnow"
+    }
+   ],
+   "id": "114751",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Schauspieler spielte den Kapitän in [i]Das Boot[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Hannibal Lecter"
+    },
+    {
+     "correct": true,
+     "text": "The Dude"
+    },
+    {
+     "correct": false,
+     "text": "James Bond"
+    },
+    {
+     "correct": false,
+     "text": "Don Draper"
+    }
+   ],
+   "excludeFollowupIds": [],
+   "id": "116146",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Nicht-Brite mag seinen White Russian geschüttelt, nicht gerührt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Serena Williams"
+    },
+    {
+     "correct": false,
+     "text": "Addison Rae"
+    },
+    {
+     "correct": false,
+     "text": "Billie Jean King"
+    },
+    {
+     "correct": false,
+     "text": "Ariana Grande"
+    }
+   ],
+   "id": "116147",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Superstar sagte 2022 „thank u, next“ zum Profitennis?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "China"
+    },
+    {
+     "correct": false,
+     "text": "Russland"
+    },
+    {
+     "correct": true,
+     "text": "Italien"
+    },
+    {
+     "correct": false,
+     "text": "Frankreich"
+    }
+   ],
+   "id": "116148",
+   "intro": "",
+   "outro": "",
+   "question": "Welches ist das größte Land der Welt, das Risotto erfunden hat?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Cats[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Les Misérables[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Book of Mormon[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Das Phantom der Oper[/i]"
+    }
+   ],
+   "id": "116150",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Musical handelt von den Elenden – und von Katzen in einem Opernhaus?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Bremen"
+    },
+    {
+     "correct": false,
+     "text": "Hessen"
+    },
+    {
+     "correct": false,
+     "text": "Thüringen"
+    },
+    {
+     "correct": false,
+     "text": "Sachsen"
+    }
+   ],
+   "countrySpecific": true,
+   "excludeFollowupIds": [],
+   "id": "116151",
+   "intro": "",
+   "outro": "",
+   "question": "Welches dieser Bundesländer ist zugleich eine Stadt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Dreieck"
+    },
+    {
+     "correct": false,
+     "text": "Quadrat"
+    },
+    {
+     "correct": false,
+     "text": "Fünfeck"
+    },
+    {
+     "correct": true,
+     "text": "Sechseck"
+    }
+   ],
+   "id": "116152",
+   "intro": "",
+   "outro": "",
+   "question": "Welche coole geometrische Form hat 1 + 1 + 1 + 1 + 1 + 1 Seiten?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Blauwal"
+    },
+    {
+     "correct": false,
+     "text": "Biene"
+    },
+    {
+     "correct": true,
+     "text": "Gepard"
+    },
+    {
+     "correct": false,
+     "text": "Oktopus"
+    }
+   ],
+   "id": "116153",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Landtier stellt keinen süßen, süßen Honig her?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Ratatouille[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Die Monster AG[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Findet Nemo[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Toy Story[/i]"
+    }
+   ],
+   "id": "116155",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Pixar-Film handelt weder von Fischen noch von Spielzeug oder einer französischen Ratte?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Miss Piggy"
+    },
+    {
+     "correct": false,
+     "text": "Fozzie Bär"
+    },
+    {
+     "correct": true,
+     "text": "Kermit der Frosch"
+    },
+    {
+     "correct": false,
+     "text": "Bibo"
+    }
+   ],
+   "id": "116158",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Muppet-Figur ist brokkoligrün statt rosa oder blau?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Rambo"
+    },
+    {
+     "correct": false,
+     "text": "Thron"
+    },
+    {
+     "correct": true,
+     "text": "Katamaran"
+    },
+    {
+     "correct": false,
+     "text": "Haftpflicht"
+    }
+   ],
+   "id": "116160",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Wort hat so viele Silben wie Mississippi, aber nicht wie Rambo?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "München"
+    },
+    {
+     "correct": false,
+     "text": "Madrid"
+    },
+    {
+     "correct": false,
+     "text": "Rom"
+    },
+    {
+     "correct": true,
+     "text": "Leipzig"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "116200",
+   "intro": "",
+   "outro": "",
+   "question": "In welcher Stadt spielen die Roten Bullen in der Bundesliga?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "OutKast"
+    },
+    {
+     "correct": false,
+     "text": "Natriumhydrogencarbonat"
+    },
+    {
+     "correct": true,
+     "text": "Salt-N-Pepa"
+    },
+    {
+     "correct": false,
+     "text": "Ionenbindung"
+    }
+   ],
+   "id": "116203",
+   "intro": "",
+   "outro": "",
+   "question": "NaCl ist die Hälfte des Namens welches Rap-Duos der Neunziger?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Blase"
+    },
+    {
+     "correct": false,
+     "text": "Nieren"
+    },
+    {
+     "correct": false,
+     "text": "Leber"
+    },
+    {
+     "correct": false,
+     "text": "Bauchspeicheldrüse"
+    }
+   ],
+   "id": "116205",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Organ produziert keine Galle, eignet sich aber hervorragend zur Urinspeicherung?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Justin Bieber"
+    },
+    {
+     "correct": false,
+     "text": "Eishockey"
+    },
+    {
+     "correct": false,
+     "text": "Ahornblatt"
+    },
+    {
+     "correct": false,
+     "text": "Justin Trudeau"
+    }
+   ],
+   "id": "116206",
+   "intro": "",
+   "outro": "",
+   "question": "Kanadier sagen gern „Sorry“ – ein Hit welches Kanadiers?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "The Beatles"
+    },
+    {
+     "correct": false,
+     "text": "Green Day"
+    },
+    {
+     "correct": false,
+     "text": "Steely Dan"
+    },
+    {
+     "correct": false,
+     "text": "Fleetwood Mac"
+    }
+   ],
+   "id": "116210",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Rockband besteht aus zwei Typen, diesem anderen Typen und noch einem Typen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Yard"
+    },
+    {
+     "correct": false,
+     "text": "Meter"
+    },
+    {
+     "correct": true,
+     "text": "Kilometer"
+    },
+    {
+     "correct": false,
+     "text": "Meile"
+    }
+   ],
+   "id": "116226",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Längeneinheit ist – nach Buchstaben gerechnet – am längsten?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Winter"
+    },
+    {
+     "correct": false,
+     "text": "Frühling"
+    },
+    {
+     "correct": true,
+     "text": "Sommer"
+    },
+    {
+     "correct": false,
+     "text": "Herbst"
+    }
+   ],
+   "id": "116227",
+   "intro": "",
+   "outro": "",
+   "question": "In welcher Jahreszeit feiern Australier Weihnachten?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "1"
+    },
+    {
+     "correct": true,
+     "text": "2"
+    },
+    {
+     "correct": false,
+     "text": "4"
+    },
+    {
+     "correct": false,
+     "text": "6"
+    }
+   ],
+   "id": "116228",
+   "intro": "",
+   "outro": "",
+   "question": "Wie viele Esslöffel Tee entsprechen zwei Esslöffeln Tee?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "A, U"
+    },
+    {
+     "correct": false,
+     "text": "B, F"
+    },
+    {
+     "correct": false,
+     "text": "A, P"
+    },
+    {
+     "correct": false,
+     "text": "O, U"
+    }
+   ],
+   "id": "116232",
+   "intro": "",
+   "outro": "",
+   "question": "_ B C D E F G H I J K L M N O P Q R S T _ V W X Y Z?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Superman"
+    },
+    {
+     "correct": false,
+     "text": "Spider-Man"
+    },
+    {
+     "correct": false,
+     "text": "Thanos"
+    },
+    {
+     "correct": true,
+     "text": "Batman"
+    }
+   ],
+   "id": "116233",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher fantastische Superheld beschützt die etwa New-York-große Stadt Gotham?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "„Bad Romance“"
+    },
+    {
+     "correct": true,
+     "text": "Aretha Franklin"
+    },
+    {
+     "correct": false,
+     "text": "„Poker Face“"
+    },
+    {
+     "correct": false,
+     "text": "Tina Turner"
+    }
+   ],
+   "id": "116234",
+   "intro": "",
+   "outro": "",
+   "question": "Lady Gaga sang nicht „Respect“ ... aber wer war es dann?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "3"
+    },
+    {
+     "correct": false,
+     "text": "Berlin"
+    },
+    {
+     "correct": false,
+     "text": "0"
+    },
+    {
+     "correct": false,
+     "text": "Bonn"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "116236",
+   "intro": "",
+   "outro": "",
+   "question": "Wie viele waagerechte Farbstreifen hat die deutsche Flagge in Frankreich?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ostern"
+    },
+    {
+     "correct": false,
+     "text": "Tag der Arbeit"
+    },
+    {
+     "correct": false,
+     "text": "Rosenmontag"
+    },
+    {
+     "correct": true,
+     "text": "Heiligabend"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "116237",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Feiertag liegt knapp drei Monate nach dem Tag der Deutschen Einheit?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Dracula[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Wer die Nachtigall stört[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Der große Gatsby[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Schöne neue Welt[/i]"
+    }
+   ],
+   "id": "116238",
+   "intro": "",
+   "outro": "",
+   "question": "„Nennt mich Ismael“? Nein, dieses Buch handelt von einem Typen namens Jay!!!"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "5"
+    },
+    {
+     "correct": false,
+     "text": "6"
+    },
+    {
+     "correct": false,
+     "text": "7"
+    },
+    {
+     "correct": true,
+     "text": "8"
+    }
+   ],
+   "id": "116239",
+   "intro": "",
+   "outro": "",
+   "question": "Was ist die Quadratwurzel einer Zahl, die größer als 7 × 7 ist?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Peperoni"
+    },
+    {
+     "correct": true,
+     "text": "Merkur"
+    },
+    {
+     "correct": false,
+     "text": "Olive"
+    },
+    {
+     "correct": false,
+     "text": "Venus"
+    }
+   ],
+   "id": "116240",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Pizzabelag – Entschuldigung, Planet – ist der kleinste?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Japan"
+    },
+    {
+     "correct": false,
+     "text": "USA"
+    },
+    {
+     "correct": false,
+     "text": "Indien"
+    },
+    {
+     "correct": true,
+     "text": "Mexiko"
+    }
+   ],
+   "id": "116242",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Land hat lieber den Peso als Yen, Rupie oder Dollar?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Michelangelo"
+    },
+    {
+     "correct": true,
+     "text": "Claude Monet"
+    },
+    {
+     "correct": false,
+     "text": "Vincent van Gogh"
+    },
+    {
+     "correct": false,
+     "text": "Banksy"
+    }
+   ],
+   "id": "116246",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher französische Maler schnitt sich 1888 nicht sein eigenes linkes Ohr ab?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Elefant"
+    },
+    {
+     "correct": true,
+     "text": "Oktopus"
+    },
+    {
+     "correct": false,
+     "text": "Alligator"
+    },
+    {
+     "correct": false,
+     "text": "Fischotter"
+    }
+   ],
+   "id": "116250",
+   "intro": "",
+   "outro": "",
+   "question": "Welches niedliche Wassertier hat vier Beine mehr als vier Beine?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sabrina Carpenter"
+    },
+    {
+     "correct": false,
+     "text": "Britney Spears"
+    },
+    {
+     "correct": true,
+     "text": "Chappell Roan"
+    },
+    {
+     "correct": false,
+     "text": "Elton John"
+    }
+   ],
+   "id": "116251",
+   "intro": "",
+   "outro": "",
+   "question": "Wer singt „Hot to Go“ – und weder „Tiny Dancer“ noch „Lucky“?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Paris"
+    },
+    {
+     "correct": false,
+     "text": "Berlin"
+    },
+    {
+     "correct": true,
+     "text": "Canberra"
+    },
+    {
+     "correct": false,
+     "text": "Kabul"
+    }
+   ],
+   "id": "116252",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Stadt ist die Hauptstadt des Landes, das mit A beginnt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Paella"
+    },
+    {
+     "correct": false,
+     "text": "Risotto"
+    },
+    {
+     "correct": true,
+     "text": "Fettuccine Alfredo"
+    },
+    {
+     "correct": false,
+     "text": "Lasagne"
+    }
+   ],
+   "excludeFollowupIds": [],
+   "id": "116253",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Gericht ist weiße Pasta ganz ohne Tomaten?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Leonardo"
+    },
+    {
+     "correct": false,
+     "text": "Michelangelo"
+    },
+    {
+     "correct": false,
+     "text": "Raphael"
+    },
+    {
+     "correct": false,
+     "text": "Donatello"
+    }
+   ],
+   "id": "116404",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher radikale Typ zeichnete in [i]Titanic[/i] ein berühmtes Aktmodell?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Der Rabe[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Der Goldkäfer[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Die letzten Jedi[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Kung Fu Panda 3[/i]"
+    }
+   ],
+   "id": "116425",
+   "intro": "",
+   "outro": "",
+   "question": "In welchem Werk kämpft unser Mann Poe gegen Vizeadmiralin Holdo?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "V"
+    },
+    {
+     "correct": true,
+     "text": "VI"
+    },
+    {
+     "correct": false,
+     "text": "VII"
+    },
+    {
+     "correct": false,
+     "text": "VIII"
+    }
+   ],
+   "id": "116432",
+   "intro": "",
+   "outro": "",
+   "question": "Wie viele Ehefrauen hatte der achte englische König Heinrich?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "1894"
+    },
+    {
+     "correct": true,
+     "text": "1949"
+    },
+    {
+     "correct": false,
+     "text": "1984"
+    },
+    {
+     "correct": false,
+     "text": "2001"
+    }
+   ],
+   "id": "116434",
+   "intro": "",
+   "outro": "",
+   "question": "Wann erschien George Orwells dystopischer Big-Brother-Roman?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Dortmund"
+    },
+    {
+     "correct": false,
+     "text": "Gelsenkirchen"
+    },
+    {
+     "correct": false,
+     "text": "Bochum"
+    },
+    {
+     "correct": false,
+     "text": "Essen"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "116741",
+   "intro": "",
+   "outro": "",
+   "question": "Woher kommt der BVB, der im Revierderby gegen Schalke kämpft?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Jackie Chan"
+    },
+    {
+     "correct": false,
+     "text": "Tom Cruise"
+    },
+    {
+     "correct": false,
+     "text": "Keanu Reeves"
+    },
+    {
+     "correct": false,
+     "text": "Daniel Craig"
+    }
+   ],
+   "id": "116742",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Schauspieler erledigte die riskanten Stunts in [i]Rush Hour[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Anne Hathaway"
+    },
+    {
+     "correct": false,
+     "text": "William Shakespeare"
+    },
+    {
+     "correct": true,
+     "text": "Taylor Swift"
+    },
+    {
+     "correct": false,
+     "text": "Olivia Rodrigo"
+    }
+   ],
+   "id": "116744",
+   "intro": "",
+   "outro": "",
+   "question": "Romeo und Julia tauchen in „Love Story“ auf – von welcher großen Dichterin?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Wort"
+    },
+    {
+     "correct": false,
+     "text": "Zeit"
+    },
+    {
+     "correct": true,
+     "text": "Frage"
+    },
+    {
+     "correct": false,
+     "text": "dieser"
+    }
+   ],
+   "id": "116745",
+   "intro": "",
+   "outro": "",
+   "question": "Zeit fürs Korrekturlesen! Welches Wort ist in dieser Frgae falsch geschrieben?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "!"
+    },
+    {
+     "correct": true,
+     "text": "?"
+    },
+    {
+     "correct": false,
+     "text": ";"
+    },
+    {
+     "correct": false,
+     "text": ","
+    }
+   ],
+   "id": "116746",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Satzzeichen steht in dieser Frage?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Madame Tussauds"
+    },
+    {
+     "correct": false,
+     "text": "National Air and Space Museum"
+    },
+    {
+     "correct": false,
+     "text": "Louvre"
+    },
+    {
+     "correct": false,
+     "text": "Akropolismuseum"
+    }
+   ],
+   "id": "116756",
+   "intro": "",
+   "outro": "",
+   "question": "Welches historische Museum zeigt zahlreiche Staatsoberhäupter und Stars aus Wachs?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Dua Lipa"
+    },
+    {
+     "correct": true,
+     "text": "Elisabeth I."
+    },
+    {
+     "correct": false,
+     "text": "Freddie Mercury"
+    },
+    {
+     "correct": false,
+     "text": "Maria I."
+    }
+   ],
+   "id": "116770",
+   "intro": "",
+   "outro": "",
+   "question": "Welche englische Königin besiegte 1588 die spanische Armada, statt „Don’t Start Now“ zu singen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Andorra"
+    },
+    {
+     "correct": false,
+     "text": "Belgien"
+    },
+    {
+     "correct": true,
+     "text": "Belize"
+    },
+    {
+     "correct": false,
+     "text": "Brasilien"
+    }
+   ],
+   "id": "116784",
+   "intro": "",
+   "outro": "",
+   "question": "Welches mit „Be“ beginnende Land grenzt nicht an Frankreich?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Addison Rae"
+    },
+    {
+     "correct": false,
+     "text": "Charli XCX"
+    },
+    {
+     "correct": false,
+     "text": "Lana Del Rey"
+    },
+    {
+     "correct": false,
+     "text": "Tate McRae"
+    }
+   ],
+   "id": "116785",
+   "intro": "",
+   "outro": "",
+   "question": "Nach wem ist Addison Raes selbstbetiteltes Debütalbum benannt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "AC"
+    },
+    {
+     "correct": false,
+     "text": "DC"
+    },
+    {
+     "correct": true,
+     "text": "AC/DC"
+    },
+    {
+     "correct": false,
+     "text": "Static"
+    }
+   ],
+   "id": "116786",
+   "intro": "",
+   "outro": "",
+   "question": "Edison starb, bevor welche Band haarsträubenden Strom entfesselte?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Krähe"
+    },
+    {
+     "correct": false,
+     "text": "Glühwürmchen"
+    },
+    {
+     "correct": true,
+     "text": "Pinguin"
+    },
+    {
+     "correct": false,
+     "text": "Giftefeu"
+    }
+   ],
+   "id": "116787",
+   "intro": "",
+   "outro": "",
+   "question": "Fledermaus, Mann, Katze und Rotkehlchen findet man in Nordamerika. Was nicht?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "4"
+    },
+    {
+     "correct": false,
+     "text": "2"
+    },
+    {
+     "correct": false,
+     "text": "3"
+    },
+    {
+     "correct": false,
+     "text": "5"
+    }
+   ],
+   "id": "116790",
+   "intro": "",
+   "outro": "",
+   "question": "Wie viele Rentiere hast du, wenn du zu zweien noch zwei dazunimmst?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Jackson Pollock"
+    },
+    {
+     "correct": false,
+     "text": "Madonna"
+    },
+    {
+     "correct": true,
+     "text": "Andy Warhol"
+    },
+    {
+     "correct": false,
+     "text": "Stevie Nicks"
+    }
+   ],
+   "id": "116791",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Künstler wurde als Ikone der Pop-Art weltberühmt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Lena Meyer-Landrut"
+    },
+    {
+     "correct": false,
+     "text": "Nena"
+    },
+    {
+     "correct": false,
+     "text": "Sarah Connor"
+    },
+    {
+     "correct": true,
+     "text": "Nina Chuba"
+    }
+   ],
+   "id": "117192",
+   "intro": "",
+   "outro": "",
+   "question": "Wer sang den Hit „3 Uhr Nachts“?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Franz Kafka"
+    },
+    {
+     "correct": true,
+     "text": "Johann Wolfgang von Goethe"
+    },
+    {
+     "correct": false,
+     "text": "Friedrich Schiller"
+    },
+    {
+     "correct": false,
+     "text": "Bertolt Brecht"
+    }
+   ],
+   "id": "117194",
+   "intro": "",
+   "outro": "",
+   "question": "Gretchen ist mit welchem legendären Schöpfer von [i]Faust[/i] verbunden?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Brandenburg"
+    },
+    {
+     "correct": true,
+     "text": "Sachsen"
+    },
+    {
+     "correct": false,
+     "text": "Bremen"
+    },
+    {
+     "correct": false,
+     "text": "Saarland"
+    }
+   ],
+   "countrySpecific": true,
+   "excludeFollowupIds": [
+    null
+   ],
+   "id": "117195",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Bundesland grenzt sowohl an Bayern als auch an Tschechien?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Florian Henckel von Donnersmarck"
+    },
+    {
+     "correct": false,
+     "text": "Ulrich Mühe"
+    },
+    {
+     "correct": false,
+     "text": "Tom Tykwer"
+    },
+    {
+     "correct": false,
+     "text": "Michael Herbig"
+    }
+   ],
+   "id": "117196",
+   "intro": "",
+   "outro": "",
+   "question": "Wer führte Regie beim deutschen Oscar-Gewinner [i]Das Leben der Anderen[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Peru"
+    },
+    {
+     "correct": true,
+     "text": "Mali"
+    },
+    {
+     "correct": false,
+     "text": "Ecuador"
+    },
+    {
+     "correct": false,
+     "text": "Bohnenstadt"
+    }
+   ],
+   "id": "117282",
+   "intro": "",
+   "outro": "",
+   "question": "Der Name welches Landes besteht aus denselben Buchstaben wie Lima?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Merkur"
+    },
+    {
+     "correct": false,
+     "text": "Venus"
+    },
+    {
+     "correct": false,
+     "text": "Aphrodite"
+    },
+    {
+     "correct": false,
+     "text": "Spargel"
+    }
+   ],
+   "id": "117284",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Planet ist nicht nach der römischen Liebesgöttin benannt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Jake Gyllenhaal"
+    },
+    {
+     "correct": false,
+     "text": "Sir Edmund Hillary"
+    },
+    {
+     "correct": false,
+     "text": "Tupac Shakur"
+    },
+    {
+     "correct": false,
+     "text": "Bear Grylls"
+    }
+   ],
+   "id": "117294",
+   "intro": "",
+   "outro": "",
+   "question": "Wer bestieg den Everest in diesem Film über die Besteigung des Everest?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Monica"
+    },
+    {
+     "correct": false,
+     "text": "Weiderind"
+    },
+    {
+     "correct": false,
+     "text": "Opal"
+    },
+    {
+     "correct": true,
+     "text": "Steve Harvey"
+    }
+   ],
+   "id": "117295",
+   "intro": "",
+   "outro": "",
+   "question": "Warum gehst du nicht ein Risiko ein und wählst D als richtige Antwort?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Schaf"
+    },
+    {
+     "correct": true,
+     "text": "Hund"
+    },
+    {
+     "correct": false,
+     "text": "Kuh"
+    },
+    {
+     "correct": false,
+     "text": "Katze"
+    }
+   ],
+   "excludeFollowupIds": [],
+   "id": "117296",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Tier sagt niemals „Muh“ oder „Mäh“, bellt aber für sein Leben gern?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Der Teufel trägt Prada[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Encanto[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Der weiße Hai[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Taxi Driver[/i]"
+    }
+   ],
+   "id": "117297",
+   "intro": "",
+   "outro": "",
+   "question": "In welchem Haifilm sagt niemand: „Redest du mit mir?“"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Berlin"
+    },
+    {
+     "correct": false,
+     "text": "Hotdog"
+    },
+    {
+     "correct": false,
+     "text": "Tokio"
+    },
+    {
+     "correct": true,
+     "text": "Machu Picchu"
+    }
+   ],
+   "id": "117305",
+   "intro": "",
+   "outro": "",
+   "question": "Wo kannst du „Konnichiwa“ zu ein paar alten Inka-Ruinen sagen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Millimeter"
+    },
+    {
+     "correct": false,
+     "text": "Zentimeter"
+    },
+    {
+     "correct": false,
+     "text": "Meter"
+    },
+    {
+     "correct": false,
+     "text": "Kilometer"
+    }
+   ],
+   "id": "117306",
+   "intro": "",
+   "outro": "",
+   "question": "Welche dieser metrischen Längeneinheiten ist die kürzeste?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Angela Merkel"
+    },
+    {
+     "correct": false,
+     "text": "Spider-Man"
+    },
+    {
+     "correct": false,
+     "text": "Erdferkel"
+    },
+    {
+     "correct": false,
+     "text": "Ludwig XIV."
+    }
+   ],
+   "id": "117311",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Bundeskanzlerin wusste: „Wir schaffen das“?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "18"
+    },
+    {
+     "correct": false,
+     "text": "22"
+    },
+    {
+     "correct": false,
+     "text": "Angst"
+    },
+    {
+     "correct": false,
+     "text": "15"
+    }
+   ],
+   "id": "117312",
+   "intro": "",
+   "outro": "",
+   "question": "Wie viele Bagels sind ein Bäckerdutzend plus zwei plus noch einmal drei?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kolibri"
+    },
+    {
+     "correct": true,
+     "text": "Schienbein"
+    },
+    {
+     "correct": false,
+     "text": "Lady Gaga"
+    },
+    {
+     "correct": false,
+     "text": "Kies"
+    }
+   ],
+   "id": "117313",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Knochen ist der beste? Wir lieben sie alle, aber welcher gewinnt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Vin Diesel"
+    },
+    {
+     "correct": false,
+     "text": "Alexander Graham Bell"
+    },
+    {
+     "correct": true,
+     "text": "Steve Jobs"
+    },
+    {
+     "correct": false,
+     "text": "Ludacris"
+    }
+   ],
+   "id": "117314",
+   "intro": "",
+   "outro": "",
+   "question": "Wer war rasend schnell und wütend dabei, ein Apple-Handy zu erfinden?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "sechs"
+    },
+    {
+     "correct": false,
+     "text": "Charlotte"
+    },
+    {
+     "correct": false,
+     "text": "Netz"
+    },
+    {
+     "correct": false,
+     "text": "acht"
+    }
+   ],
+   "id": "117352",
+   "intro": "",
+   "outro": "",
+   "question": "Wie viele Beine hat eine wunderschöne Spinne mit sechs Beinen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ananas"
+    },
+    {
+     "correct": true,
+     "text": "Grün"
+    },
+    {
+     "correct": false,
+     "text": "Guacamole"
+    },
+    {
+     "correct": false,
+     "text": "Schwarz"
+    }
+   ],
+   "id": "117353",
+   "intro": "",
+   "outro": "",
+   "question": "Was hat dieselbe Farbe wie das Innere von vier großen Avocados?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Stockholm"
+    },
+    {
+     "correct": false,
+     "text": "Jakarta"
+    },
+    {
+     "correct": false,
+     "text": "Paris"
+    },
+    {
+     "correct": true,
+     "text": "San Francisco"
+    }
+   ],
+   "id": "117354",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Stadt besitzt eine orangefarbene Brücke, die in den Louvre gehört?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Aurora"
+    },
+    {
+     "correct": false,
+     "text": "Belle"
+    },
+    {
+     "correct": false,
+     "text": "Tiana"
+    },
+    {
+     "correct": true,
+     "text": "Jasmin"
+    }
+   ],
+   "id": "117355",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Disney-Prinzessin hatte Beine, Haare und einen Tiger als Haustier?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "0"
+    },
+    {
+     "correct": true,
+     "text": "365"
+    },
+    {
+     "correct": false,
+     "text": "730"
+    },
+    {
+     "correct": false,
+     "text": "800"
+    }
+   ],
+   "id": "117356",
+   "intro": "",
+   "outro": "",
+   "question": "Wie viele Tage hat ein Jahr ohne zusätzlichen Tag oder sonstigen Schnickschnack?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kampffische"
+    },
+    {
+     "correct": false,
+     "text": "Kaninchen"
+    },
+    {
+     "correct": false,
+     "text": "Affen"
+    },
+    {
+     "correct": true,
+     "text": "Schlangen"
+    }
+   ],
+   "id": "117357",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Tiere schlängeln sich gern, während Affen lieber herumalbern?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "USA"
+    },
+    {
+     "correct": false,
+     "text": "Indien"
+    },
+    {
+     "correct": true,
+     "text": "Kanada"
+    },
+    {
+     "correct": false,
+     "text": "Spanien"
+    }
+   ],
+   "id": "117358",
+   "intro": "",
+   "outro": "",
+   "question": "Justin Trudeau – woher kommt der noch gleich? Weiß das jemand? Hmmmmmm?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Erde"
+    },
+    {
+     "correct": false,
+     "text": "Mars"
+    },
+    {
+     "correct": false,
+     "text": "Jupiter"
+    },
+    {
+     "correct": false,
+     "text": "Pluto"
+    }
+   ],
+   "id": "117360",
+   "intro": "",
+   "outro": "",
+   "question": "So blau! Welchen wahrhaft ikonischen Planeten beschreibe ich?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Dreieck"
+    },
+    {
+     "correct": false,
+     "text": "Jared Leto"
+    },
+    {
+     "correct": false,
+     "text": "Jay-Z"
+    },
+    {
+     "correct": false,
+     "text": "Quadrat"
+    }
+   ],
+   "id": "117361",
+   "intro": "",
+   "outro": "",
+   "question": "30 Seconds to Mars? Beyoncé? SZA? Nein! Wählt eine dreiseitige Form!"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Johannes Gutenberg"
+    },
+    {
+     "correct": false,
+     "text": "Thomas Edison"
+    },
+    {
+     "correct": false,
+     "text": "Usain Bolt"
+    },
+    {
+     "correct": false,
+     "text": "Eliud Kipchoge"
+    }
+   ],
+   "id": "117362",
+   "intro": "",
+   "outro": "",
+   "question": "Wer entwickelte eine Druckerpresse und lief nie einen Marathon?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "1"
+    },
+    {
+     "correct": true,
+     "text": "12"
+    },
+    {
+     "correct": false,
+     "text": "[i]Rent[/i]"
+    },
+    {
+     "correct": false,
+     "text": "Jonathan Larson"
+    }
+   ],
+   "id": "117364",
+   "intro": "",
+   "outro": "",
+   "question": "525.600 Minuten entsprechen wie vielen Monatsmieten?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mustang"
+    },
+    {
+     "correct": false,
+     "text": "Clydesdale"
+    },
+    {
+     "correct": false,
+     "text": "Vollblut"
+    },
+    {
+     "correct": false,
+     "text": "Einhorn"
+    }
+   ],
+   "id": "117366",
+   "intro": "",
+   "outro": "",
+   "question": "Zoom! Dieses Pony in meiner Garage fliegt mit voller Pferdestärke davon."
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tony der Tiger"
+    },
+    {
+     "correct": false,
+     "text": "Michelin-Männchen"
+    },
+    {
+     "correct": true,
+     "text": "Clippy"
+    },
+    {
+     "correct": false,
+     "text": "Käpt’n Crunch"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117379",
+   "intro": "",
+   "outro": "",
+   "question": "Welches berühmte Maskottchen hilft dir, in Microsoft Word GRRRoßartig zu sein?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Dennis Schröder"
+    },
+    {
+     "correct": true,
+     "text": "Dirk Nowitzki"
+    },
+    {
+     "correct": false,
+     "text": "Detlef Schrempf"
+    },
+    {
+     "correct": false,
+     "text": "Franz Wagner"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117381",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher deutsche Basketballstar trug bei den Dallas Mavericks die Nummer 41?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Theresienwiese"
+    },
+    {
+     "correct": false,
+     "text": "Olympiapark"
+    },
+    {
+     "correct": false,
+     "text": "Marienplatz"
+    },
+    {
+     "correct": false,
+     "text": "Englischer Garten"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117387",
+   "intro": "",
+   "outro": "",
+   "question": "Wo finden Promis beim Münchner Oktoberfest das große Schaulaufen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Rechteck"
+    },
+    {
+     "correct": false,
+     "text": "Kreis"
+    },
+    {
+     "correct": true,
+     "text": "Kugel"
+    },
+    {
+     "correct": false,
+     "text": "Pyramide"
+    }
+   ],
+   "id": "117390",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Form ist anders als ein Quadrat rund und dreidimensional?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Demi Moore"
+    },
+    {
+     "correct": false,
+     "text": "Andie MacDowell"
+    },
+    {
+     "correct": true,
+     "text": "Dennis Quaid"
+    },
+    {
+     "correct": false,
+     "text": "Jack Quaid"
+    }
+   ],
+   "id": "117391",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Schauspieler aus [i]The Substance[/i] ist der Vater von Jack Quaid?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Vereinigtes Königreich"
+    },
+    {
+     "correct": true,
+     "text": "Nintendo"
+    },
+    {
+     "correct": false,
+     "text": "Russland"
+    },
+    {
+     "correct": false,
+     "text": "Meta"
+    }
+   ],
+   "id": "117393",
+   "intro": "",
+   "outro": "",
+   "question": "Wer führte Krieg gegen die führende japanische Konsole PlayStation?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Fettuccine Alfredo"
+    },
+    {
+     "correct": false,
+     "text": "Löwe"
+    },
+    {
+     "correct": false,
+     "text": "Spaghetti Bolognese"
+    },
+    {
+     "correct": true,
+     "text": "Elefant"
+    }
+   ],
+   "id": "117398",
+   "intro": "",
+   "outro": "",
+   "question": "Welches schwere Tier mit Nudelnase ernährt sich völlig fleischlos?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Cody Rhodes"
+    },
+    {
+     "correct": false,
+     "text": "Napoleon"
+    },
+    {
+     "correct": true,
+     "text": "Julius Cäsar"
+    },
+    {
+     "correct": false,
+     "text": "Brock Lesnar"
+    }
+   ],
+   "id": "117401",
+   "intro": "",
+   "outro": "",
+   "question": "Wessen römische Herrschaft endete durch die Speere eines Senats-Tag-Teams?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "eine Tonne Federn"
+    },
+    {
+     "correct": true,
+     "text": "eine Tonne Ziegelsteine"
+    },
+    {
+     "correct": false,
+     "text": "beides gleich viel"
+    },
+    {
+     "correct": false,
+     "text": "ein Pfund Federn"
+    }
+   ],
+   "id": "117408",
+   "intro": "",
+   "outro": "",
+   "question": "Was wiegt mehr: ein Pfund Federn oder eine Tonne Ziegelsteine?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Backstreet Boys"
+    },
+    {
+     "correct": false,
+     "text": "Beach Boys"
+    },
+    {
+     "correct": false,
+     "text": "Beastie Boys"
+    },
+    {
+     "correct": false,
+     "text": "Saja Boys"
+    }
+   ],
+   "id": "117409",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Boygroup hat einschließlich Nick Carter fünf Mitglieder?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Serena Williams"
+    },
+    {
+     "correct": false,
+     "text": "Michelle Williams"
+    },
+    {
+     "correct": true,
+     "text": "Venus Williams"
+    },
+    {
+     "correct": false,
+     "text": "Vanessa Williams"
+    }
+   ],
+   "id": "117411",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Williams trägt den Namen eines Planeten nahe der Sonne und eines Filmklassikers?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Fuji"
+    },
+    {
+     "correct": true,
+     "text": "Zugspitze"
+    },
+    {
+     "correct": false,
+     "text": "Kilimandscharo"
+    },
+    {
+     "correct": false,
+     "text": "Everest"
+    }
+   ],
+   "id": "117412",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Berg ist der höchste Deutschlands und eignet sich für einen Apfel?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Harz"
+    },
+    {
+     "correct": true,
+     "text": "Jasmund"
+    },
+    {
+     "correct": false,
+     "text": "Eifel"
+    },
+    {
+     "correct": false,
+     "text": "Bayerischer Wald"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117446",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher deutsche Nationalpark ist berühmt für seine weißen Kreidefelsen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mais"
+    },
+    {
+     "correct": false,
+     "text": "Zitronenbaum"
+    },
+    {
+     "correct": false,
+     "text": "Tomate"
+    },
+    {
+     "correct": false,
+     "text": "Kaktus"
+    }
+   ],
+   "id": "117447",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Pflanze trägt Kolben statt Zitronen und besitzt Blätter?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "18"
+    },
+    {
+     "correct": false,
+     "text": "22"
+    },
+    {
+     "correct": false,
+     "text": "Angst"
+    },
+    {
+     "correct": true,
+     "text": "15"
+    }
+   ],
+   "id": "117484",
+   "intro": "",
+   "outro": "",
+   "question": "Wie viele Bagels sind ein Bäckerdutzend plus zwei plus noch einmal null?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Andorra"
+    },
+    {
+     "correct": true,
+     "text": "Belgien"
+    },
+    {
+     "correct": false,
+     "text": "Belize"
+    },
+    {
+     "correct": false,
+     "text": "Brasilien"
+    }
+   ],
+   "id": "117485",
+   "intro": "",
+   "outro": "",
+   "question": "Welches mit „Be“ beginnende Land grenzt fröhlich an Frankreich?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Superman"
+    },
+    {
+     "correct": true,
+     "text": "Spider-Man"
+    },
+    {
+     "correct": false,
+     "text": "Thanos"
+    },
+    {
+     "correct": false,
+     "text": "Batman"
+    }
+   ],
+   "id": "117486",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher fantastische Superheld beschützt die New-York-große Stadt New York?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sabrina Carpenter"
+    },
+    {
+     "correct": false,
+     "text": "Britney Spears"
+    },
+    {
+     "correct": false,
+     "text": "Chappell Roan"
+    },
+    {
+     "correct": true,
+     "text": "Elton John"
+    }
+   ],
+   "id": "117487",
+   "intro": "",
+   "outro": "",
+   "question": "Wer singt „Tiny Dancer“ – und weder „Lucky“ noch „Hot to Go“?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Japan"
+    },
+    {
+     "correct": false,
+     "text": "USA"
+    },
+    {
+     "correct": true,
+     "text": "Indien"
+    },
+    {
+     "correct": false,
+     "text": "Mexiko"
+    }
+   ],
+   "id": "117488",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Land hat lieber die Rupie als Yen, Peso oder Dollar?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tag der Deutschen Einheit"
+    },
+    {
+     "correct": true,
+     "text": "Tag der Arbeit"
+    },
+    {
+     "correct": false,
+     "text": "Rosenmontag"
+    },
+    {
+     "correct": false,
+     "text": "Halloween"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117489",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher deutsche Feiertag wird am 1. Mai begangen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "The Beatles"
+    },
+    {
+     "correct": true,
+     "text": "Green Day"
+    },
+    {
+     "correct": false,
+     "text": "Steely Dan"
+    },
+    {
+     "correct": false,
+     "text": "Fleetwood Mac"
+    }
+   ],
+   "id": "117491",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Rockband besteht aus einem Typen, diesem anderen Typen und noch einem Typen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Miss Piggy"
+    },
+    {
+     "correct": false,
+     "text": "Fozzie Bär"
+    },
+    {
+     "correct": false,
+     "text": "Kermit der Frosch"
+    },
+    {
+     "correct": true,
+     "text": "Bibo"
+    }
+   ],
+   "id": "117492",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Muppet-Figur ist sonnengelb statt rosa oder blau?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Ratatouille[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Die Monster AG[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Findet Nemo[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Toy Story[/i]"
+    }
+   ],
+   "id": "117494",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Pixar-Film handelt nicht von Fischen oder Spielzeug, sondern von einer französischen Ratte?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Dreieck"
+    },
+    {
+     "correct": false,
+     "text": "Quadrat"
+    },
+    {
+     "correct": true,
+     "text": "Fünfeck"
+    },
+    {
+     "correct": false,
+     "text": "Sechseck"
+    }
+   ],
+   "id": "117495",
+   "intro": "",
+   "outro": "",
+   "question": "Welche coole geometrische Form hat 1 + 0 + 1 + 2 + 1 + 0 Seiten?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "The Flash"
+    },
+    {
+     "correct": false,
+     "text": "Batman"
+    },
+    {
+     "correct": false,
+     "text": "Wonder Woman"
+    },
+    {
+     "correct": true,
+     "text": "Captain America"
+    }
+   ],
+   "id": "117497",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Superheld benutzt ein Vibraniumschild statt eines Lassos?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Grün"
+    },
+    {
+     "correct": true,
+     "text": "Orange"
+    },
+    {
+     "correct": false,
+     "text": "Lila"
+    },
+    {
+     "correct": false,
+     "text": "Blau"
+    }
+   ],
+   "id": "117498",
+   "intro": "",
+   "outro": "",
+   "question": "Welche Farbe entsteht, wenn man Rot nicht mit Blau, sondern mit Gelb mischt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Manuel Neuer"
+    },
+    {
+     "correct": false,
+     "text": "Marc-André ter Stegen"
+    },
+    {
+     "correct": false,
+     "text": "Oliver Baumann"
+    },
+    {
+     "correct": false,
+     "text": "Bernd Leno"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117499",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Torwart spielte für den FC Bayern und wurde 2014 Weltmeister?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kolibri"
+    },
+    {
+     "correct": false,
+     "text": "Schienbein"
+    },
+    {
+     "correct": false,
+     "text": "Lady Gaga"
+    },
+    {
+     "correct": false,
+     "text": "Kies"
+    }
+   ],
+   "id": "117500",
+   "intro": "",
+   "outro": "",
+   "question": "Welcher Vogel ist der beste? Wir lieben sie alle, aber welcher gewinnt?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Millimeter"
+    },
+    {
+     "correct": false,
+     "text": "Zentimeter"
+    },
+    {
+     "correct": false,
+     "text": "Meter"
+    },
+    {
+     "correct": true,
+     "text": "Kilometer"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117501",
+   "intro": "",
+   "outro": "",
+   "question": "Welche dieser metrischen Längeneinheiten ist länger als alle anderen?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Monica"
+    },
+    {
+     "correct": true,
+     "text": "Weiderind"
+    },
+    {
+     "correct": false,
+     "text": "Opal"
+    },
+    {
+     "correct": false,
+     "text": "Steve Harvey"
+    }
+   ],
+   "id": "117502",
+   "intro": "",
+   "outro": "",
+   "question": "Warum gehst du nicht ein Risiko ein und wählst B als richtige Antwort?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Wort"
+    },
+    {
+     "correct": true,
+     "text": "Zeit"
+    },
+    {
+     "correct": false,
+     "text": "Frage"
+    },
+    {
+     "correct": false,
+     "text": "dieser"
+    }
+   ],
+   "id": "117503",
+   "intro": "",
+   "outro": "",
+   "question": "Ziet fürs Korrekturlesen! Welches Wort ist in dieser Frage falsch geschrieben?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "A, U"
+    },
+    {
+     "correct": false,
+     "text": "B, F"
+    },
+    {
+     "correct": false,
+     "text": "A, P"
+    },
+    {
+     "correct": true,
+     "text": "O, U"
+    }
+   ],
+   "id": "117504",
+   "intro": "",
+   "outro": "",
+   "question": "A B C D E F G H I J K L M N _ P Q R S T _ V W X Y Z?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Rambo"
+    },
+    {
+     "correct": false,
+     "text": "Thron"
+    },
+    {
+     "correct": false,
+     "text": "Katamaran"
+    },
+    {
+     "correct": false,
+     "text": "Verantwortlichkeit"
+    }
+   ],
+   "id": "117505",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Wort hat so viele Silben wie nicht Mississippi, sondern Rambo?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Cats[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Les Misérables[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]The Book of Mormon[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Das Phantom der Oper[/i]"
+    }
+   ],
+   "id": "117506",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Musical handelt von den Elenden – und von Katzen auf Missionsreise?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "China"
+    },
+    {
+     "correct": false,
+     "text": "Russland"
+    },
+    {
+     "correct": false,
+     "text": "Italien"
+    },
+    {
+     "correct": true,
+     "text": "Frankreich"
+    }
+   ],
+   "id": "117507",
+   "intro": "",
+   "outro": "",
+   "question": "Welches ist das größte Land der Welt, das Brie erfunden hat?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Oasis"
+    },
+    {
+     "correct": false,
+     "text": "The Rolling Stones"
+    },
+    {
+     "correct": false,
+     "text": "The Beatles"
+    },
+    {
+     "correct": true,
+     "text": "The Jackson 5"
+    }
+   ],
+   "id": "117508",
+   "intro": "",
+   "outro": "",
+   "question": "Wenn ich 64 bin, höre ich welche fünfköpfige amerikanische Band?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Gerhard Schröder"
+    },
+    {
+     "correct": false,
+     "text": "Helmut Schmidt"
+    },
+    {
+     "correct": false,
+     "text": "Angela Merkel"
+    },
+    {
+     "correct": false,
+     "text": "Willy Brandt"
+    }
+   ],
+   "countrySpecific": true,
+   "id": "117509",
+   "intro": "",
+   "outro": "",
+   "question": "Wer war unmittelbar nach Helmut Kohl deutscher Bundeskanzler?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Blauwal"
+    },
+    {
+     "correct": true,
+     "text": "Biene"
+    },
+    {
+     "correct": false,
+     "text": "Gepard"
+    },
+    {
+     "correct": false,
+     "text": "Oktopus"
+    }
+   ],
+   "id": "117510",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Landtier stellt liebend gern süßen, süßen Honig her?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Blase"
+    },
+    {
+     "correct": false,
+     "text": "Nieren"
+    },
+    {
+     "correct": true,
+     "text": "Leber"
+    },
+    {
+     "correct": false,
+     "text": "Bauchspeicheldrüse"
+    }
+   ],
+   "id": "117511",
+   "intro": "",
+   "outro": "",
+   "question": "Welches Organ produziert Galle, eignet sich aber nicht zur Urinspeicherung?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "good 4 u"
+    },
+    {
+     "correct": false,
+     "text": "2 much"
+    },
+    {
+     "correct": false,
+     "text": ";)"
+    },
+    {
+     "correct": false,
+     "text": "no worries"
+    }
+   ],
+   "id": "117524",
+   "intro": "",
+   "outro": "",
+   "question": "Kannst du einen Song von Olivia Rodrigo auswählen, oder ist das „overwhelming“?"
+  }
+ ]
+}
