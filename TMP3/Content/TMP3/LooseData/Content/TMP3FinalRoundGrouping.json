@@ -1,87 +1,102 @@
 {
  "content": [
   {
-   "categoryName": "Filme von John Waters",
+   "categoryName": "Nordseeinseln",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Multiple Maniacs[/i]"
+     "text": "Borkum"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Pink Flamingos[/i]"
+     "text": "Juist"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Female Trouble[/i]"
+     "text": "Norderney"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Polyester[/i]"
+     "text": "Baltrum"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Hairspray[/i]"
+     "text": "Langeoog"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Cry-Baby[/i]"
+     "text": "Spiekeroog"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Serial Mom[/i]"
+     "text": "Wangerooge"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Cecil B. Demented[/i]"
+     "text": "Sylt"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]A Dirty Shame[/i]"
+     "text": "Föhr"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Amrum"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Pellworm"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Helgoland"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Neuwerk"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]The Rocky Horror Picture Show[/i]"
+     "text": "Rügen"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Der Tod steht ihr gut[/i]"
+     "text": "Usedom"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Meine liebe Rabenmutter[/i]"
+     "text": "Fehmarn"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Barbarella[/i]"
+     "text": "Hiddensee"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Das Tal der Puppen[/i]"
+     "text": "Poel"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Grey Gardens[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Paris is Burning[/i]"
+     "text": "Mainau"
     }
    ],
    "context": "",
@@ -1021,87 +1036,107 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Teile des klassischen Mr. Potato Head",
+   "categoryName": "Kann auf dem deutschen Personalausweis stehen",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Kartoffelkörper"
+     "text": "Familienname"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Füße"
+     "text": "Geburtsname"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Arme"
+     "text": "Vornamen"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Ohren"
+     "text": "Doktorgrad"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Mund"
+     "text": "Geburtsdatum"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Nase"
+     "text": "Geburtsort"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Augen"
+     "text": "Staatsangehörigkeit"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Schnurrbart"
+     "text": "Gültigkeitsdatum"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Brille"
+     "text": "Anschrift"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Melone"
+     "text": "Augenfarbe"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Körpergröße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Zugangsnummer (CAN)"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Dokumentennummer"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Ausstellende Behörde"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Fliege"
+     "text": "Familienstand"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Augenbrauen"
+     "text": "Beruf"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Muttermal"
+     "text": "Religionszugehörigkeit"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Haare"
+     "text": "Blutgruppe"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Handschuhe"
+     "text": "Steuer-ID"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Bart"
+     "text": "Krankenversicherungsnummer"
     }
    ],
    "context": "",
@@ -1690,117 +1725,82 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Mitwirkende bei „We Are the World“",
+   "categoryName": "Teilnehmer der ersten Staffel von [i]7 vs. Wild[/i]",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Paul Simon"
+     "text": "Fritz Meinecke"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Dan Aykroyd"
+     "text": "Survival Mattin"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Bette Midler"
+     "text": "Fabio Schäfer"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Bob Dylan"
+     "text": "Niklas on Fire"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Tina Turner"
+     "text": "Bommel"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Diana Ross"
+     "text": "Dave"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Ray Charles"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Bruce Springsteen"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "Michael Jackson"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "Stevie Wonder"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Willie Nelson"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Cyndi Lauper"
+     "text": "Chris (Reloadiak)"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Madonna"
+     "text": "Knossi"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "David Bowie"
+     "text": "Sascha Huber"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Elton John"
+     "text": "Joey Kelly"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Kate Bush"
+     "text": "Papaplatte"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Ozzy Osbourne"
+     "text": "Trymacs"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Mariah Carey"
+     "text": "Reeze"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Tupac Shakur"
+     "text": "Joris"
     },
     {
      "correct": false,
-     "difficulty": "EASY",
-     "text": "Fatboy Slim"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Garth Brooks"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Björk"
+     "difficulty": "NORMAL",
+     "text": "Nova"
     }
    ],
    "context": "",
@@ -1897,87 +1897,97 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Vornamen, die zugleich deutsche Substantive sind",
+   "categoryName": "Palindrome",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Ernst"
+     "text": "Rentner"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Rose"
+     "text": "Reittier"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Wolf"
+     "text": "Reliefpfeiler"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Roman"
+     "text": "Lagerregal"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Iris"
+     "text": "Regallager"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Jasmin"
+     "text": "Kajak"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Mark"
+     "text": "Radar"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Linde"
+     "text": "Rotor"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Otto"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Anna"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "neben"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "stets"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Peter"
+     "text": "Spiegel"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Michael"
+     "text": "Antwort"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Julia"
+     "text": "Berlin"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Sarah"
+     "text": "Straße"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Thomas"
+     "text": "Rätsel"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Claudia"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Stefan"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Laura"
+     "text": "Frage"
     }
    ],
    "context": "",
@@ -5191,117 +5201,87 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Deutsche Bundesländer",
+   "categoryName": "Deutsche Landeshauptstädte ohne den Buchstaben E",
    "choices": [
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Baden-Württemberg"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Bayern"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Berlin"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Brandenburg"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Bremen"
-    },
     {
      "correct": true,
      "difficulty": "NORMAL",
      "text": "Hamburg"
     },
     {
-     "correct": true,
+     "correct": false,
      "difficulty": "NORMAL",
-     "text": "Hessen"
+     "text": "München"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Mecklenburg-Vorpommern"
+     "text": "Stuttgart"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Niedersachsen"
+     "text": "Mainz"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Nordrhein-Westfalen"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Rheinland-Pfalz"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Saarland"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Sachsen"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Sachsen-Anhalt"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Schleswig-Holstein"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Thüringen"
+     "text": "Potsdam"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Franken"
+     "text": "Berlin"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Ostfriesland"
+     "text": "Bremen"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Pfalz"
+     "text": "Dresden"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Pommern"
+     "text": "Düsseldorf"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Preußen"
+     "text": "Erfurt"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Westfalen"
+     "text": "Hannover"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Kiel"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Magdeburg"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Saarbrücken"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Schwerin"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Wiesbaden"
     }
    ],
    "context": "",
@@ -6874,97 +6854,97 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Nach einer Geschichte von Philip K. Dick",
+   "categoryName": "Bücher von Michael Ende",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Paycheck[/i]"
+     "text": "[i]Momo[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Der Plan[/i]"
+     "text": "[i]Die unendliche Geschichte[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Minority Report[/i]"
+     "text": "[i]Jim Knopf und Lukas der Lokomotivführer[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]The Man in the High Castle[/i]"
+     "text": "[i]Jim Knopf und die Wilde 13[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Total Recall – Die totale Erinnerung[/i]"
+     "text": "[i]Der satanarchäolügenialkohöllische Wunschpunsch[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Blade Runner[/i]"
+     "text": "[i]Der Spiegel im Spiegel[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]A Scanner Darkly – Der dunkle Schirm[/i]"
+     "text": "[i]Das Traumfresserchen[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Next[/i]"
+     "text": "[i]Tranquilla Trampeltreu[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Das kleine Lumpenkasperle[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Die Schattennähmaschine[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Das Gefängnis der Freiheit[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Die Zauberschule und andere Geschichten[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Running Man[/i]"
+     "text": "[i]Emil und die Detektive[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Arrival[/i]"
+     "text": "[i]Das doppelte Lottchen[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Inception[/i]"
+     "text": "[i]Der Räuber Hotzenplotz[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Ad Astra[/i]"
+     "text": "[i]Krabat[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Terminator[/i]"
+     "text": "[i]Die kleine Hexe[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Gravity[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Cloverfield[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Avatar[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Frankenstein[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Alien[/i]"
+     "text": "[i]Tintenherz[/i]"
     }
    ],
    "context": "",
@@ -7257,97 +7237,102 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Generäle",
+   "categoryName": "Menschen aus Deutschland, die im Weltraum waren",
    "choices": [
     {
      "correct": true,
-     "difficulty": "EASY",
-     "text": "George Washington"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "Ulysses S. Grant"
+     "difficulty": "NORMAL",
+     "text": "Sigmund Jähn"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Robert E. Lee"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "Dwight D. Eisenhower"
+     "text": "Ulf Merbold"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "William Tecumseh Sherman"
+     "text": "Reinhard Furrer"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Andrew Jackson"
+     "text": "Ernst Messerschmid"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Douglas MacArthur"
+     "text": "Klaus-Dietrich Flade"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "George C. Marshall"
+     "text": "Ulrich Walter"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "George S. Patton"
+     "text": "Hans Schlegel"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "William Westmoreland"
+     "text": "Reinhold Ewald"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Colin Powell"
+     "text": "Thomas Reiter"
     },
     {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Abraham Lincoln"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Thomas Jefferson"
-    },
-    {
-     "correct": false,
+     "correct": true,
      "difficulty": "NORMAL",
-     "text": "Franklin D. Roosevelt"
+     "text": "Gerhard Thiele"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Alexander Gerst"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Matthias Maurer"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Rabea Rogge"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "John McCain"
+     "text": "Samantha Cristoforetti"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Donald Rumsfeld"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Bill Clinton"
+     "text": "Thomas Pesquet"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "John Glenn"
+     "text": "Tim Peake"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "André Kuipers"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Eberhard Köllner"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Renate Brümmer"
     }
    ],
    "context": "",
@@ -9146,117 +9131,102 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Dokumentarfilme von Ken Burns",
+   "categoryName": "Offizielle Bezeichnungen auf der Beaufortskala",
    "choices": [
     {
      "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Der Amerikanische Bürgerkrieg[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Baseball[/i]"
+     "difficulty": "NORMAL",
+     "text": "Windstille"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Lewis & Clark[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Jazz[/i]"
+     "text": "Leiser Zug"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Mark Twain[/i]"
+     "text": "Leichte Brise"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Die Nationalparks[/i]"
+     "text": "Schwache Brise"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Die Prohibition[/i]"
+     "text": "Mäßige Brise"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Die Dust Bowl[/i]"
+     "text": "Frische Brise"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Die Central Park Five[/i]"
+     "text": "Starker Wind"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Der Vietnamkrieg[/i]"
+     "text": "Steifer Wind"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Country-Musik[/i]"
+     "text": "Stürmischer Wind"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Die Amerikanische Revolution[/i]"
+     "text": "Sturm"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Schwerer Sturm"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Orkanartiger Sturm"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Orkan"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Paris Is Burning[/i]"
+     "text": "Sanfter Hauch"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Eine unbequeme Wahrheit[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Die Reise der Pinguine[/i]"
+     "text": "Windbruch"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Blackfish[/i]"
+     "text": "Vollsturm"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Man on Wire[/i]"
+     "text": "Superorkan"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Free Solo[/i]"
+     "text": "Wellenwind"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Der Fall Randall Adams[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Grey Gardens[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Grizzly Man[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Super Size Me[/i]"
+     "text": "Donnerbrise"
     }
    ],
    "context": "",
@@ -10849,112 +10819,87 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Filme mit Denzel Washington",
+   "categoryName": "Filme mit Sandra Hüller",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Glory[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Malcolm X[/i]"
+     "text": "[i]Requiem[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Philadelphia[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Gegen jede Regel[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Training Day[/i]"
+     "text": "[i]Toni Erdmann[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Mann unter Feuer[/i]"
+     "text": "[i]In den Gängen[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]The Equalizer[/i]"
+     "text": "[i]Anatomie eines Falls[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Fences[/i]"
+     "text": "[i]The Zone of Interest[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Gladiator II[/i]"
+     "text": "[i]Ich bin dein Mensch[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Highest 2 Lowest[/i]"
+     "text": "[i]Sisi & Ich[/i]"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]The Book of Eli[/i]"
+     "text": "[i]Finsterworld[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Sibyl[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Proxima – Die Astronautin[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Do the Right Thing[/i]"
+     "text": "[i]Das Lehrerzimmer[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Se7en[/i]"
+     "text": "[i]Systemsprenger[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Blade[/i]"
+     "text": "[i]Victoria[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Shakespeare in Love[/i]"
+     "text": "[i]Aus dem Nichts[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Dreamgirls[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]I, Robot[/i]"
+     "text": "[i]Good Bye, Lenin![/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Ali[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Pulp Fiction[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Gladiator[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Good Will Hunting[/i]"
+     "text": "[i]Das Leben der Anderen[/i]"
     }
    ],
    "context": "",
@@ -14215,117 +14160,127 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Filmmusik von Danny Elfman",
+   "categoryName": "Aus dem Japanischen ins Deutsche übernommen",
    "choices": [
     {
      "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Beetlejuice[/i]"
+     "difficulty": "NORMAL",
+     "text": "Anime"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Edward mit den Scherenhänden[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Nightmare Before Christmas[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Pee-Wees irre Abenteuer[/i]"
+     "text": "Manga"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Big Fish[/i]"
+     "text": "Karaoke"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Good Will Hunting[/i]"
+     "text": "Emoji"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Mission: Impossible[/i]"
+     "text": "Sushi"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Men in Black[/i]"
+     "text": "Tsunami"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Spider-Man[/i]"
+     "text": "Karate"
     },
     {
      "correct": true,
-     "difficulty": "HARD",
-     "text": "[i]Milk[/i]"
+     "difficulty": "NORMAL",
+     "text": "Judo"
     },
     {
      "correct": true,
-     "difficulty": "HARD",
-     "text": "[i]Silver Linings[/i]"
+     "difficulty": "NORMAL",
+     "text": "Origami"
     },
     {
      "correct": true,
-     "difficulty": "HARD",
-     "text": "[i]Fifty Shades of Grey[/i]"
+     "difficulty": "NORMAL",
+     "text": "Kimono"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Bonsai"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Sudoku"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Futon"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Haiku"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Samurai"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Ninja"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Koi"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Sake"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Sweeney Todd[/i]"
+     "text": "Kung-Fu"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Inception[/i]"
+     "text": "Taekwondo"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Black Hawk Down[/i]"
+     "text": "Kimchi"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Top Gun[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Das Imperium schlägt zurück[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Jurassic Park[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Jäger des verlorenen Schatzes[/i]"
+     "text": "Mahjong"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Das Schweigen der Lämmer[/i]"
+     "text": "Feng-Shui"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Die Fliege[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Mrs. Doubtfire[/i]"
+     "text": "Yoga"
     }
    ],
    "context": "",
@@ -18639,107 +18594,107 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Schlug über 500 Homeruns",
+   "categoryName": "Mindestens 100 Tore in der Fußball-Bundesliga",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Barry Bonds"
+     "text": "Gerd Müller"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Hank Aaron"
+     "text": "Robert Lewandowski"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Babe Ruth"
+     "text": "Klaus Fischer"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Albert Pujols"
+     "text": "Jupp Heynckes"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Alex Rodriguez"
+     "text": "Manfred Burgsmüller"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Willie Mays"
+     "text": "Claudio Pizarro"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Ken Griffey Jr."
+     "text": "Ulf Kirsten"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Sammy Sosa"
+     "text": "Stefan Kuntz"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Mark McGwire"
+     "text": "Dieter Müller"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Mickey Mantle"
+     "text": "Klaus Allofs"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Hannes Löhr"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Karl-Heinz Rummenigge"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Mario Gómez"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Thomas Müller"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Lou Gehrig"
+     "text": "Manuel Neuer"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Jason Giambi"
+     "text": "Philipp Lahm"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Joe DiMaggio"
+     "text": "Bastian Schweinsteiger"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Roberto Clemente"
+     "text": "Toni Kroos"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Jackie Robinson"
+     "text": "Mesut Özil"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "José Canseco"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Cal Ripken Jr."
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Darryl Strawberry"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Derek Jeter"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Pete Rose"
+     "text": "Sami Khedira"
     }
    ],
    "context": "",
@@ -26959,42 +26914,12 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "EGOT-Gewinner",
+   "categoryName": "Künstlernamen",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Rita Moreno"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Audrey Hepburn"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Mel Brooks"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Whoopi Goldberg"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Andrew Lloyd Webber"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "John Legend"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Viola Davis"
+     "text": "Bruno Mars"
     },
     {
      "correct": true,
@@ -27004,62 +26929,72 @@
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Steven Spielberg"
+     "text": "Natalie Portman"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Jennifer Hudson"
+     "text": "Jamie Foxx"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Nicolas Cage"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Michael Keaton"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Olivia Wilde"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Meg Ryan"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Julianne Moore"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Calvin Harris"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Katherine Hepburn"
+     "text": "Taylor Swift"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Maggie Smith"
+     "text": "Justin Bieber"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Jimmy Stewart"
+     "text": "Jennifer Lopez"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Cary Grant"
+     "text": "Keanu Reeves"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Fred Astaire"
+     "text": "Denzel Washington"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Robin Williams"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Stanley Kubrick"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Marilyn Monroe"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Bette Davis"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Mr. T"
+     "text": "Margot Robbie"
     }
    ],
    "context": "",
@@ -28972,87 +28907,97 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Nagellackfarben mit ziemlich echten Namen",
+   "categoryName": "Im Skatblatt enthalten",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Lincoln Park After Dark"
+     "text": "Sieben"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "I’m Not Really a Waitress"
+     "text": "Acht"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Big Apple Red"
+     "text": "Neun"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Bubble Bath"
+     "text": "Zehn"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Cajun Shrimp"
+     "text": "Bube"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "You Don’t Know Jacques!"
+     "text": "Dame"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Suzi Needs a Loch-Smith"
+     "text": "König"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "My Private Jet"
+     "text": "Ass"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Kreuz"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Pik"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Herz"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Karo"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Steuererklärung in Beige"
+     "text": "Zwei"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Gerhard Schröders Haartönung"
+     "text": "Drei"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Socken in Sandalen"
+     "text": "Vier"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Mettigel bei Mondschein"
+     "text": "Fünf"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Faxgerät-Fuchsia"
+     "text": "Sechs"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Parkticket-Perlmutt"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Raufaser-Romantik"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Döner um drei"
+     "text": "Joker"
     }
    ],
    "context": "",
@@ -30924,7 +30869,7 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Bekannte deutschsprachige Weihnachtslieder",
+   "categoryName": "Bekannte Weihnachtslieder",
    "choices": [
     {
      "correct": true,
@@ -33953,87 +33898,82 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Wörter im deutschen Buchtitel [i]Grünes Ei mit Speck[/i]",
+   "categoryName": "Halten Winterschlaf",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Grünes"
+     "text": "Igel"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Ei"
+     "text": "Fledermäuse"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "mit"
+     "text": "Siebenschläfer"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Speck"
+     "text": "Gartenschläfer"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Haselmäuse"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Feldhamster"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Alpenmurmeltiere"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Schinken"
+     "text": "Eichhörnchen"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Sam"
+     "text": "Dachse"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Fuchs"
+     "text": "Waschbären"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Haus"
+     "text": "Braunbären"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Auto"
+     "text": "Rehe"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Zug"
+     "text": "Wildschweine"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "dunkel"
+     "text": "Rotfüchse"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "überall"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "grün"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Eier"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "und"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Brot"
+     "text": "Maulwürfe"
     }
    ],
    "context": "",
@@ -34625,97 +34565,117 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Instrumente auf [i]Pet Sounds[/i]",
+   "categoryName": "Instrumente in einem Blasorchester",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Coca-Cola-Dosen"
+     "text": "Piccoloflöte"
     },
     {
      "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Querflöte"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Oboe"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Fagott"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Klarinette"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Saxofon"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Trompete"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Flügelhorn"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Waldhorn"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Posaune"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Tenorhorn"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Baritonhorn"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Tuba"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Große Trommel"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Kleine Trommel"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Becken"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Violine"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Viola"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Violoncello"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Harfe"
+    },
+    {
+     "correct": false,
      "difficulty": "NORMAL",
      "text": "Cembalo"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Cello"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Essstäbchen"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Fahrradklingel"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Vibrafon"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Orangensaftkrüge"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Bongos"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Schlittenglöckchen"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "Altsaxofon"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Popcorneimer"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Waschbrett"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Löffel"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Xylofon"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Sitar"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
      "text": "Laute"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Borat[/i]-Soundboard"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Windspiel"
     }
    ],
    "context": "",
@@ -36179,97 +36139,87 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Gastauftritt bei [i]Friends[/i]",
+   "categoryName": "Spielte sich selbst in [i]Pastewka[/i]",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Brad Pitt"
+     "text": "Anke Engelke"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Winona Ryder"
+     "text": "Michael Kessler"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Gary Oldman"
+     "text": "Hugo Egon Balder"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Reese Witherspoon"
+     "text": "Annette Frier"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Bruce Willis"
+     "text": "Ingolf Lück"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Tom Selleck"
+     "text": "Martin Semmelrogge"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Paul Rudd"
+     "text": "Olli Dittrich"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Christina Applegate"
+     "text": "Christoph Maria Herbst"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Danny DeVito"
+     "text": "Wigald Boning"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Greg Kinnear"
+     "text": "Roger Willemsen"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Meg Ryan"
+     "text": "Hazel Brugger"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Emilio Estevez"
+     "text": "Carolin Kebekus"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Tom Hanks"
+     "text": "Hape Kerkeling"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Justin Timberlake"
+     "text": "Otto Waalkes"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Fran Drescher"
+     "text": "Kaya Yanar"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Sarah Michelle Gellar"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Pedro Pascal"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Hugh Grant"
+     "text": "Torsten Sträter"
     }
    ],
    "context": "",
@@ -37573,87 +37523,112 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Comics von Alan Moore",
+   "categoryName": "Comicfiguren",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Watchmen[/i]"
+     "text": "Werner"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]V for Vendetta[/i]"
+     "text": "Meister Röhrich"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Batman: Killing Joke[/i]"
+     "text": "Fix"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]From Hell[/i]"
+     "text": "Foxi"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Swamp Thing[/i]"
+     "text": "Lupo"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Neonomicon[/i]"
+     "text": "Professor Knox"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Abrax"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Brabax"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Califax"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Dig"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Dag"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Digedag"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Ritter Runkel"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Nick Knatterton"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Das Kleine Arschloch"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Persepolis[/i]"
+     "text": "Asterix"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Fun Home[/i]"
+     "text": "Tim"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Ghost World[/i]"
+     "text": "Lucky Luke"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Locke & Key[/i]"
+     "text": "Spirou"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Am liebsten mag ich Monster[/i]"
+     "text": "Calvin"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Eight Billion Genies[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]American Born Chinese[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Road to Perdition[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Saga[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Y: The Last Man[/i]"
+     "text": "Garfield"
     }
    ],
    "context": "",
@@ -40300,97 +40275,147 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "In Gordon Ramsays Beef Wellington",
+   "categoryName": "Straßen im klassischen [i]Monopoly[/i]",
    "choices": [
     {
      "correct": true,
-     "difficulty": "EASY",
-     "text": "Waldpilze"
+     "difficulty": "NORMAL",
+     "text": "Badstraße"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Thymian"
+     "text": "Turmstraße"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Parmaschinken"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "Blätterteig"
+     "text": "Chausseestraße"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Schalotten"
+     "text": "Elisenstraße"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Pfefferkörner"
+     "text": "Poststraße"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Rotwein"
+     "text": "Seestraße"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Rinderfond"
+     "text": "Hafenstraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Neue Straße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Münchner Straße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Wiener Straße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Berliner Straße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Theaterstraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Museumstraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Opernplatz"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Lessingstraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Schillerstraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Goethestraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Rathausplatz"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Hauptstraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Bahnhofstraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Parkstraße"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Schlossallee"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Butter"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Coca-Cola"
+     "text": "Reeperbahn"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Tomatenmark"
+     "text": "Königsallee"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Granny-Smith-Apfel"
+     "text": "Unter den Linden"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Sellerie"
+     "text": "Zeil"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Spinat"
+     "text": "Maximilianstraße"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Zitronensaft"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Pop Rocks"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Bacon"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "Karotte"
+     "text": "Kurfürstendamm"
     }
    ],
    "context": "",
@@ -40398,97 +40423,82 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Umamireiche Lebensmittel",
+   "categoryName": "Motive auf offiziellen GHS-Gefahrstoffpiktogrammen",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Algen"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "Sojasauce"
+     "text": "Explodierende Bombe"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Parmesan"
+     "text": "Flamme"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Kimchi"
+     "text": "Flamme über einem Kreis"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Sardinen"
+     "text": "Gasflasche"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Bacon"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "Tomate"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "Pilze"
+     "text": "Säure auf Hand und Metall"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Austernsauce"
+     "text": "Totenkopf mit gekreuzten Knochen"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Knoblauch"
+     "text": "Ausrufezeichen"
     },
     {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Zitrone"
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Menschlicher Oberkörper mit Stern"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Toter Baum und toter Fisch"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Cranberrys"
+     "text": "Blitz"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Schokolade"
+     "text": "Regenschirm"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Tamarinde"
+     "text": "Rotes Kreuz"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Croissant"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "Rucola"
+     "text": "Geballte Faust"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Vanilleeis"
+     "text": "Durchgestrichene Zigarette"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Kaffee"
+     "text": "Schraubenschlüssel"
     }
    ],
    "context": "",
@@ -41893,97 +41903,87 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Songs von Phoebe Bridgers",
+   "categoryName": "Bands der Hamburger Schule",
    "choices": [
     {
      "correct": true,
-     "difficulty": "EASY",
-     "text": "“Motion Sickness”"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "“Lost Boys”"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "“Kyoto”"
+     "difficulty": "NORMAL",
+     "text": "Tocotronic"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Savior Complex”"
+     "text": "Blumfeld"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“I Know the End”"
+     "text": "Die Sterne"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“The Governor’s Waltz”"
+     "text": "Kolossale Jugend"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Haunted”"
+     "text": "Cpt. Kirk &"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Lost Weekend”"
+     "text": "Huah!"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Smoke Signals”"
+     "text": "Die Erde"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Demi Moore”"
+     "text": "Ostzonensuppenwürfelmachenkrebs"
     },
     {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "“Kill Bill”"
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Die Braut haut ins Auge"
     },
     {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "“Paint the Town Red”"
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Die Goldenen Zitronen"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Choosin’ Texas”"
+     "text": "Wir sind Helden"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Man I Need”"
+     "text": "Juli"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Dracula”"
+     "text": "Silbermond"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Midnight Sun”"
+     "text": "Kraftklub"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Stupid Song”"
+     "text": "AnnenMayKantereit"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“House Tour”"
+     "text": "Von Wegen Lisbeth"
     }
    ],
    "context": "",
@@ -42863,87 +42863,87 @@
    "triviaType": "UNCONVENTIONAL"
   },
   {
-   "categoryName": "Niederländische Gemälde",
+   "categoryName": "Gemälde von Caspar David Friedrich",
    "choices": [
     {
      "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Das Mädchen mit dem Perlenohrring[/i]"
+     "difficulty": "NORMAL",
+     "text": "[i]Der Wanderer über dem Nebelmeer[/i]"
     },
     {
      "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Die Nachtwache[/i]"
+     "difficulty": "NORMAL",
+     "text": "[i]Kreidefelsen auf Rügen[/i]"
     },
     {
      "correct": true,
-     "difficulty": "EASY",
+     "difficulty": "NORMAL",
+     "text": "[i]Der Mönch am Meer[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Abtei im Eichwald[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Das Eismeer[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Lebensstufen[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Der einsame Baum[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Hünengrab im Schnee[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Zwei Männer in Betrachtung des Mondes[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Der Watzmann[/i]"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "[i]Der Kuss[/i]"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
      "text": "[i]Sternennacht[/i]"
     },
     {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "[i]Der Distelfink[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "[i]Der Garten der Lüste[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "[i]Genter Altar[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "[i]Broadway Boogie Woogie[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "NORMAL",
-     "text": "[i]Die Jäger im Schnee[/i]"
-    },
-    {
      "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Der vitruvianische Mensch[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Die Geburt der Venus[/i]"
+     "difficulty": "NORMAL",
+     "text": "[i]Das Mädchen mit dem Perlenohrring[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Die Freiheit führt das Volk[/i]"
+     "text": "[i]Die Nachtwache[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Automat[/i]"
+     "text": "[i]Der Schrei[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Las Meninas[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Pietà[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Die Ballettklasse[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "[i]Redefreiheit[/i]"
+     "text": "[i]Das Frühstück im Grünen[/i]"
     }
    ],
    "context": "",
@@ -44283,87 +44283,107 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Serien von Ryan Murphy",
+   "categoryName": "Teile eines Fahrrads",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Nip/Tuck[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Glee[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]American Horror Story[/i]"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "[i]Pose[/i]"
+     "text": "Kette"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]9-1-1[/i]"
+     "text": "Speiche"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]The Shards[/i]"
+     "text": "Nabe"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]All’s Fair[/i]"
+     "text": "Felge"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Feud[/i]"
+     "text": "Kurbel"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Doctor Odyssey[/i]"
+     "text": "Pedal"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "[i]Scream Queens[/i]"
+     "text": "Lenker"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Vorbau"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Sattel"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Rahmen"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Gabel"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Schaltwerk"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Kassette"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Bremsscheibe"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Midnight Mass[/i]"
+     "text": "Kolben"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Private Practice[/i]"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "[i]Scandal[/i]"
+     "text": "Zündkerze"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Heartstopper[/i]"
+     "text": "Auspuff"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Anatomy of a Scandal[/i]"
+     "text": "Kupplung"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "[i]Dopesick[/i]"
+     "text": "Differenzial"
+    },
+    {
+     "correct": false,
+     "difficulty": "NORMAL",
+     "text": "Zylinderkopf"
     }
    ],
    "context": "",
@@ -46530,97 +46550,97 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Von Dolly Parton geschrieben",
+   "categoryName": "Von Loriot geschaffen oder erfunden",
    "choices": [
     {
      "correct": true,
-     "difficulty": "EASY",
-     "text": "“Jolene”"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "“I Will Always Love You”"
+     "difficulty": "NORMAL",
+     "text": "Wum"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“The Seeker”"
-    },
-    {
-     "correct": true,
-     "difficulty": "EASY",
-     "text": "“9 to 5”"
+     "text": "Wendelin"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Coat of Many Colors”"
+     "text": "Familie Hoppenstedt"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Rainbowland”"
+     "text": "Erwin Lindemann"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“The Stranger”"
+     "text": "Herr Müller-Lüdenscheidt"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“Tennessee Homesick Blues”"
+     "text": "Dr. Klöbner"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "“To Daddy’”"
+     "text": "Die Steinlaus"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Das Jodeldiplom"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Der Kosakenzipfel"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Ödipussi[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Pappa ante portas[/i]"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "[i]Herren im Bad[/i]"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Islands in the Stream”"
+     "text": "Die Mainzelmännchen"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Real Love”"
+     "text": "Bernd das Brot"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Here You Come Again”"
+     "text": "Die Ottifanten"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Heartbreaker”"
+     "text": "Hein Blöd"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“Starting Over Again”"
+     "text": "Herr Holm"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "“But You Know I Love You”"
-    },
-    {
-     "correct": false,
-     "difficulty": "EASY",
-     "text": "“Coal Miner’s Daughter”"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "“Stand By Your Man”"
-    },
-    {
-     "correct": false,
-     "difficulty": "NORMAL",
-     "text": "“Soon As I Hang Up The Phone”"
+     "text": "Didi"
     }
    ],
    "context": "",
@@ -47800,87 +47820,117 @@
    "triviaType": "CONVENTIONAL"
   },
   {
-   "categoryName": "Zehn wichtige Dinge fürs Wandern",
+   "categoryName": "Begriffe aus dem Geocaching",
    "choices": [
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Orientierungshilfe"
+     "text": "Traditional Cache"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Sonnenschutz"
+     "text": "Multi-Cache"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "zusätzliche Kleidung"
+     "text": "Mystery Cache"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Erste-Hilfe-Ausrüstung"
+     "text": "EarthCache"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Lichtquelle"
+     "text": "Letterbox Hybrid"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Feuerzeug oder Streichhölzer"
+     "text": "Wherigo Cache"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Reparaturwerkzeug"
+     "text": "Event Cache"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "zusätzlicher Proviant"
+     "text": "Travel Bug"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "zusätzliches Wasser"
+     "text": "Geocoin"
     },
     {
      "correct": true,
      "difficulty": "NORMAL",
-     "text": "Notunterkunft"
+     "text": "Trackable"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Logbuch"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Muggle"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "FTF"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "DNF"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "ROT13"
+    },
+    {
+     "correct": true,
+     "difficulty": "NORMAL",
+     "text": "Power Trail"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Deodorant"
+     "text": "Compass Combo"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Seife"
+     "text": "Trail Trophy"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "aufblasbares Kissen"
+     "text": "Geo-Joker"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Regenschirm"
+     "text": "Waypoint Bingo"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Campingstuhl"
+     "text": "Cache Royale"
     },
     {
      "correct": false,
      "difficulty": "NORMAL",
-     "text": "Flasche Rotwein"
+     "text": "Muggle Pass"
     }
    ],
    "context": "",
