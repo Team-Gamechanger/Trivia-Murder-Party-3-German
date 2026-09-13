@@ -3004,7 +3004,7 @@
       "choices": [
         {
           "correct": true,
-          "text": "Kleiner Bär"
+          "text": "Kleiner Wagen"
         },
         {
           "correct": false,
@@ -4364,11 +4364,11 @@
     {
       "choices": [
         {
-          "correct": false,
+          "correct": true,
           "text": "Apfel"
         },
         {
-          "correct": true,
+          "correct": false,
           "text": "Erdbeere"
         },
         {
@@ -4384,7 +4384,7 @@
       "difficulty": "NORMAL",
       "id": "105620",
       "outro": "",
-      "question": "Welche Geschmacksrichtung haben die grünen Haribo-Goldbären?"
+      "question": "Welche Geschmacksrichtung haben die grünen Haribo-Goldbären heutzutage?"
     },
     {
       "choices": [
@@ -5184,7 +5184,7 @@
           }
         ]
       },
-      "outro": "Drei Herzen – und keins davon schlägt für dich.",
+      "outro": "",
       "question": "Wie viele Herzen hat ein Oktopus?"
     },
     {
@@ -7418,11 +7418,11 @@
         },
         {
           "correct": false,
-          "text": "Gatorade Lemon-Lime"
+          "text": "Fanta"
         },
         {
           "correct": false,
-          "text": "Mountain Dew"
+          "text": "Sprite"
         },
         {
           "correct": false,
