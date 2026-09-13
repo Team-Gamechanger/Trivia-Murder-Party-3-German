@@ -1,0 +1,5839 @@
+{
+ "content": [
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Cars"
+    },
+    {
+     "altSpellings": [
+      "Cars II"
+     ],
+     "answer": "Cars 2"
+    },
+    {
+     "altSpellings": [
+      "Cars III"
+     ],
+     "answer": "Cars 3"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Chicken Little"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Cinderella"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Coco"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "112819",
+   "prompt": "ein animierter Disney-Film, der mit C beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Schmidt"
+     ],
+     "answer": "Helmut Schmidt"
+    },
+    {
+     "altSpellings": [
+      "Schröder",
+      "Schroeder",
+      "Gerd Schröder"
+     ],
+     "answer": "Gerhard Schröder"
+    },
+    {
+     "altSpellings": [
+      "Scholz"
+     ],
+     "answer": "Olaf Scholz"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "countrySpecific": true,
+   "id": "112827",
+   "prompt": "ein deutscher Bundeskanzler, dessen Nachname mit S beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Baden-Württemberg"
+    },
+    {
+     "altSpellings": [
+      "Freistaat Bayern"
+     ],
+     "answer": "Bayern"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Berlin"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Brandenburg"
+    },
+    {
+     "altSpellings": [
+      "Freie Hansestadt Bremen"
+     ],
+     "answer": "Bremen"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "countrySpecific": true,
+   "id": "112831",
+   "prompt": "ein deutsches Bundesland, das mit B beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Na"
+     ],
+     "answer": "Natrium"
+    },
+    {
+     "altSpellings": [
+      "Nd"
+     ],
+     "answer": "Neodym"
+    },
+    {
+     "altSpellings": [
+      "Ne"
+     ],
+     "answer": "Neon"
+    },
+    {
+     "altSpellings": [
+      "Np"
+     ],
+     "answer": "Neptunium"
+    },
+    {
+     "altSpellings": [
+      "Ni"
+     ],
+     "answer": "Nickel"
+    },
+    {
+     "altSpellings": [
+      "Nh"
+     ],
+     "answer": "Nihonium"
+    },
+    {
+     "altSpellings": [
+      "Nb",
+      "Niobium"
+     ],
+     "answer": "Niob"
+    },
+    {
+     "altSpellings": [
+      "No"
+     ],
+     "answer": "Nobelium"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "112837",
+   "prompt": "ein chemisches Element, das mit N beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Hf"
+     ],
+     "answer": "Hafnium"
+    },
+    {
+     "altSpellings": [
+      "Hs"
+     ],
+     "answer": "Hassium"
+    },
+    {
+     "altSpellings": [
+      "He"
+     ],
+     "answer": "Helium"
+    },
+    {
+     "altSpellings": [
+      "Ho"
+     ],
+     "answer": "Holmium"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "112838",
+   "prompt": "ein chemisches Element, das mit H beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Rumaenien",
+      "Romania"
+     ],
+     "answer": "Rumänien"
+    },
+    {
+     "altSpellings": [
+      "Russia"
+     ],
+     "answer": "Russland"
+    },
+    {
+     "altSpellings": [
+      "Rwanda"
+     ],
+     "answer": "Ruanda"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "112839",
+   "prompt": "ein Land, das mit R beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Laos"
+    },
+    {
+     "altSpellings": [
+      "Latvia"
+     ],
+     "answer": "Lettland"
+    },
+    {
+     "altSpellings": [
+      "Lebanon"
+     ],
+     "answer": "Libanon"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Lesotho"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Liberia"
+    },
+    {
+     "altSpellings": [
+      "Libya"
+     ],
+     "answer": "Libyen"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Liechtenstein"
+    },
+    {
+     "altSpellings": [
+      "Lithuania"
+     ],
+     "answer": "Litauen"
+    },
+    {
+     "altSpellings": [
+      "Luxembourg"
+     ],
+     "answer": "Luxemburg"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "112840",
+   "prompt": "ein Land, das mit L beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Afghanistan"
+    },
+    {
+     "altSpellings": [
+      "Albania"
+     ],
+     "answer": "Albanien"
+    },
+    {
+     "altSpellings": [
+      "Algeria"
+     ],
+     "answer": "Algerien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Andorra"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Angola"
+    },
+    {
+     "altSpellings": [
+      "Antigua and Barbuda",
+      "Antigua & Barbuda"
+     ],
+     "answer": "Antigua und Barbuda"
+    },
+    {
+     "altSpellings": [
+      "Argentina"
+     ],
+     "answer": "Argentinien"
+    },
+    {
+     "altSpellings": [
+      "Armenia"
+     ],
+     "answer": "Armenien"
+    },
+    {
+     "altSpellings": [
+      "Azerbaijan"
+     ],
+     "answer": "Aserbaidschan"
+    },
+    {
+     "altSpellings": [
+      "Australia"
+     ],
+     "answer": "Australien"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "countrySpecific": true,
+   "id": "112841",
+   "prompt": "ein Land, das mit A beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Äpfel"
+     ],
+     "answer": "Apfel"
+    },
+    {
+     "altSpellings": [
+      "Himbeer",
+      "Himbeeren",
+      "Himmere"
+     ],
+     "answer": "Himbeere"
+    },
+    {
+     "altSpellings": [
+      "Erdbeer",
+      "Erdbeeren"
+     ],
+     "answer": "Erdbeere"
+    },
+    {
+     "altSpellings": [
+      "Orangen",
+      "Apfelsine",
+      "Apfelsinen"
+     ],
+     "answer": "Orange"
+    },
+    {
+     "altSpellings": [
+      "Zitronen",
+      "Citrus",
+      "Limone"
+     ],
+     "answer": "Zitrone"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ananas"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "countrySpecific": true,
+   "id": "112842",
+   "prompt": "Eine der sechs klassischen Geschmackssorten von “[i]Haribo Goldbären[/i]”"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Peter Pan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pinocchio"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pocahontas"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "112845",
+   "prompt": "ein animierter Disney-Film, der mit P beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Roller"
+    },
+    {
+     "altSpellings": [
+        "Poko"
+     ],
+     "answer": "Poco"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Höffner"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Globus"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hagebaumarkt"
+    },
+    {
+     "altSpellings": [],
+     "answer": "toom"
+    },
+    {
+     "altSpellings": [],
+     "answer": "HORNBACH"
+    },
+    {
+     "altSpellings": [],
+     "answer": "BAUHAUS"
+    },
+    {
+     "altSpellings": [],
+     "answer": "OBI"
+    },
+    {
+     "altSpellings": [],
+     "answer": "IKEA"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "112846",
+   "prompt": "eines der 10 umsatzstärksten Möbelhäuser und Baumärkte in Deutschland"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Saarland"
+    },
+    {
+     "altSpellings": [
+      "Freistaat Sachsen"
+     ],
+     "answer": "Sachsen"
+    },
+    {
+     "altSpellings": [
+      "Sachsen Anhalt"
+     ],
+     "answer": "Sachsen-Anhalt"
+    },
+    {
+     "altSpellings": [
+      "Schleswig Holstein"
+     ],
+     "answer": "Schleswig-Holstein"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "countrySpecific": true,
+   "id": "112847",
+   "prompt": "ein deutsches Bundesland, das mit S beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Sylvana"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sarafina"
+    },
+    {
+     "altSpellings": [
+        "Jeremy Pascal",
+        "Jeremy Paskal",
+        "Jeremy",
+        "Pascal"
+     ],
+     "answer": "Jeremy-Pascal"
+    },
+    {
+     "altSpellings": [
+        "Sarah",
+        "Jane",
+        "Sarah Jane",
+        "Sara Jane"
+     ],
+     "answer": "Sarah-Jane"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Lavinia"
+    },
+    {
+     "altSpellings": [
+        "Kalantha",
+        "Calanta",
+        "Calantha-Lelanie"
+     ],
+     "answer": "Calantha"
+    },
+    {
+     "altSpellings": [
+        "Estephania"
+     ],
+     "answer": "Estefania"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Loredana"
+    },
+    {
+     "altSpellings": [
+        "Jessika"
+     ],
+     "answer": "Jessica"
+    },
+    {
+     "altSpellings": [
+        "Patrik"
+     ],
+     "answer": "Patrick"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sascha"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "112868",
+   "prompt": "ein Vorname der Wollny-Kinder"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Zeus"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Poseidon"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hera"
+    },
+    {
+     "altSpellings": [
+      "Athena"
+     ],
+     "answer": "Athene"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ares"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Artemis"
+    },
+    {
+     "altSpellings": [
+      "Apollo"
+     ],
+     "answer": "Apollon"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Aphrodite"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Demeter"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hermes"
+    },
+    {
+     "altSpellings": [
+      "Hephaestus"
+     ],
+     "answer": "Hephaistos"
+    },
+    {
+     "altSpellings": [
+      "Dionysus"
+     ],
+     "answer": "Dionysos"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112926",
+   "prompt": "einer der zwölf olympischen Götter"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Shaggy Rogers",
+      "Norville",
+      "Norville Rogers",
+      "Norville Shaggy Rogers"
+     ],
+     "answer": "Shaggy"
+    },
+    {
+     "altSpellings": [
+      "Fred Jones",
+      "Freddie",
+      "Freddie Jones",
+      "Freddy",
+      "Freddy Jones",
+      "Frederick",
+      "Frederick Jones",
+      "Fredward",
+      "Fredward Jones"
+     ],
+     "answer": "Fred"
+    },
+    {
+     "altSpellings": [
+      "Velma Dinkley"
+     ],
+     "answer": "Velma"
+    },
+    {
+     "altSpellings": [
+      "Daphne Blake"
+     ],
+     "answer": "Daphne"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112927",
+   "prompt": "einer von Scooby-Doos menschlichen Freunden"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "He"
+     ],
+     "answer": "Helium"
+    },
+    {
+     "altSpellings": [
+      "Ne"
+     ],
+     "answer": "Neon"
+    },
+    {
+     "altSpellings": [
+      "Ar"
+     ],
+     "answer": "Argon"
+    },
+    {
+     "altSpellings": [
+      "Kr"
+     ],
+     "answer": "Krypton"
+    },
+    {
+     "altSpellings": [
+      "Xe"
+     ],
+     "answer": "Xenon"
+    },
+    {
+     "altSpellings": [
+      "Rn"
+     ],
+     "answer": "Radon"
+    },
+    {
+     "altSpellings": [
+      "Og"
+     ],
+     "answer": "Oganesson"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112928",
+   "prompt": "ein Edelgas"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Rot"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gelb"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Grün"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Blau"
+    },
+    {
+     "altSpellings": [
+        "Weiss"
+     ],
+     "answer": "Weiß"
+    },
+    {
+     "altSpellings": [
+      "Lila",
+      "Purpur"
+     ],
+     "answer": "Violett"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": false,
+   "id": "112930",
+   "prompt": "eine der sechs klassischen Cluedo-Farben"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Rot"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Orange"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gelb"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Grün"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Blau"
+    },
+    {
+     "altSpellings": [
+      "Violett"
+     ],
+     "answer": "Lila"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112931",
+   "prompt": "eine Farbe der traditionellen Pride-Flagge"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Mario"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Luigi"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Donkey Kong"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Link"
+    },
+    {
+     "altSpellings": [
+      "Samus Aran"
+     ],
+     "answer": "Samus"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Yoshi"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kirby"
+    },
+    {
+     "altSpellings": [
+      "Fox McCloud"
+     ],
+     "answer": "Fox"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pikachu"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pummeluff"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ness"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Captain Falcon"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112932",
+   "prompt": "einer der Kämpfer im ersten [i]Super Smash Bros.[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Panama"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Costa Rica"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Nicaragua"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Honduras"
+    },
+    {
+     "altSpellings": [],
+     "answer": "El Salvador"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Guatemala"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Belize"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112934",
+   "prompt": "ein Land in Mittelamerika"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "John",
+      "Lennon"
+     ],
+     "answer": "John Lennon"
+    },
+    {
+     "altSpellings": [
+      "Paul",
+      "McCartney"
+     ],
+     "answer": "Paul McCartney"
+    },
+    {
+     "altSpellings": [
+      "George",
+      "Harrison"
+     ],
+     "answer": "George Harrison"
+    },
+    {
+     "altSpellings": [
+      "Ringo",
+      "Starr"
+     ],
+     "answer": "Ringo Starr"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112935",
+   "prompt": "einer der Beatles"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Berlin"
+    },
+    {
+     "altSpellings": [
+      "Freie Hansestadt Bremen"
+     ],
+     "answer": "Bremen"
+    },
+    {
+     "altSpellings": [
+      "Freie und Hansestadt Hamburg"
+     ],
+     "answer": "Hamburg"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "112936",
+   "prompt": "einer der drei deutschen Stadtstaaten"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Daumen"
+    },
+    {
+     "altSpellings": [
+      "Indexfinger"
+     ],
+     "answer": "Zeigefinger"
+    },
+    {
+     "altSpellings": [
+      "Stinkefinger"
+     ],
+     "answer": "Mittelfinger"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ringfinger"
+    },
+    {
+     "altSpellings": [
+      "kleiner",
+      "Pinky"
+     ],
+     "answer": "Kleiner Finger"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112937",
+   "prompt": "einer der fünf Finger einer menschlichen Hand"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Atlantischer Ozean"
+     ],
+     "answer": "Atlantik"
+    },
+    {
+     "altSpellings": [
+      "Pazifischer Ozean",
+      "Stiller Ozean"
+     ],
+     "answer": "Pazifik"
+    },
+    {
+     "altSpellings": [
+      "Indik"
+     ],
+     "answer": "Indischer Ozean"
+    },
+    {
+     "altSpellings": [
+      "Nordpolarmeer",
+      "Arktik"
+     ],
+     "answer": "Arktischer Ozean"
+    },
+    {
+     "altSpellings": [
+      "Suedlicher Ozean",
+      "Antarktischer Ozean",
+      "Südpolarmeer",
+      "Antarktik"
+     ],
+     "answer": "Südlicher Ozean"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112938",
+   "prompt": "einer der fünf Ozeane"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Hähnchenbrustfiletstreifen",
+      "Haehnchenbrustfiletstreifen",
+      "Hähnchenbrust",
+      "Haehnchenbrust",
+      "Hähnchen",
+      "Haehnchen",
+      "Hähnchenfleisch",
+      "Haehnchenfleisch",
+      "Chicken"
+     ],
+     "answer": "Hähnchenbruststreifen"
+    },
+    {
+     "altSpellings": [
+      "Teriyaki Marinade",
+      "Teriyakisauce",
+      "Teriyaki-Sauce",
+      "Teriyaki Sauce",
+      "Teriyaki-Soße",
+      "Teriyaki Soße",
+      "Teriyaki-Sosse",
+      "Teriyaki Sosse"
+     ],
+     "answer": "Teriyaki-Marinade"
+    },
+    {
+     "altSpellings": [
+      "Weißbrot",
+      "Weissbrot",
+      "Italian",
+      "Italian Brot",
+      "Italian-Brot"
+     ],
+     "answer": "Italian (Weißbrot)"
+    },
+    {
+     "altSpellings": [
+      "Salat"
+     ],
+     "answer": "Eisbergsalat"
+    },
+    {
+     "altSpellings": [
+      "Tomate",
+      "Tomatenscheiben"
+     ],
+     "answer": "Tomaten"
+    },
+    {
+     "altSpellings": [
+      "Gurke",
+      "Salatgurke",
+      "Salatgurken",
+      "frische Gurke",
+      "frische Gurken",
+      "Gurkenscheiben"
+     ],
+     "answer": "Gurken"
+    },
+    {
+     "altSpellings": [
+      "Paprika",
+      "grüne Paprikaschoten",
+      "gruene Paprika",
+      "gruene Paprikaschoten",
+      "Paprikascheiben"
+     ],
+     "answer": "grüne Paprika"
+    },
+    {
+     "altSpellings": [
+      "Zwiebeln",
+      "Zwiebel",
+      "rote Zwiebel"
+     ],
+     "answer": "rote Zwiebeln"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112939",
+   "prompt": "eine Zutat eines Chicken Teriyaki-Sandwich bei [i]Subway[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Schere"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Stein"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Papier"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Brunnen"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112940",
+   "prompt": "Schere, Stein oder Papier"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Rot"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gelb"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Grün"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": false,
+   "id": "112941",
+   "prompt": "eine Ampelfarbe"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nelson"
+     ],
+     "answer": "Barry Nelson"
+    },
+    {
+     "altSpellings": [
+      "Connery"
+     ],
+     "answer": "Sean Connery"
+    },
+    {
+     "altSpellings": [
+      "Niven"
+     ],
+     "answer": "David Niven"
+    },
+    {
+     "altSpellings": [
+      "Lazenby"
+     ],
+     "answer": "George Lazenby"
+    },
+    {
+     "altSpellings": [
+      "Moore"
+     ],
+     "answer": "Roger Moore"
+    },
+    {
+     "altSpellings": [
+      "Dalton"
+     ],
+     "answer": "Timothy Dalton"
+    },
+    {
+     "altSpellings": [
+      "Brosnan"
+     ],
+     "answer": "Pierce Brosnan"
+    },
+    {
+     "altSpellings": [
+      "Craig"
+     ],
+     "answer": "Daniel Craig"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112942",
+   "prompt": "ein Schauspieler, der James Bond gespielt hat"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Leugnen",
+      "Nicht-wahrhaben-Wollen",
+      "Nichtwahrhabenwollen",
+      "Nichtwahrhaben-Wollen"
+     ],
+     "answer": "Verleugnung"
+    },
+    {
+     "altSpellings": [
+      "Zorn",
+      "Ärger"
+     ],
+     "answer": "Wut"
+    },
+    {
+     "altSpellings": [
+      "Feilschen"
+     ],
+     "answer": "Verhandeln"
+    },
+    {
+     "altSpellings": [
+      "Traurigkeit"
+     ],
+     "answer": "Depression"
+    },
+    {
+     "altSpellings": [
+      "Annahme",
+      "Zustimmung"
+     ],
+     "answer": "Akzeptanz"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112943",
+   "prompt": "eine der fünf Phasen der Trauer"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Fruehling",
+      "Frühjahr"
+     ],
+     "answer": "Frühling"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sommer"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Herbst"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Winter"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112944",
+   "prompt": "eine der vier Jahreszeiten"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Marzahn",
+      "Hellersdorf",
+      "Marzahn Hellersdorf",
+      "Hellersdorf-Marzahn",
+      "Bezirk Marzahn-Hellersdorf"
+     ],
+     "answer": "Marzahn-Hellersdorf"
+    },
+    {
+     "altSpellings": [
+      "Treptow",
+      "Köpenick",
+      "Treptow Köpenick",
+      "Köpenick-Treptow",
+      "Bezirk Treptow-Köpenick"
+     ],
+     "answer": "Treptow-Köpenick"
+    },
+    {
+     "altSpellings": [
+      "Berlin-Neukölln",
+      "Neu Kölln",
+      "Bezirk Neukölln"
+     ],
+     "answer": "Neukölln"
+    },
+    {
+     "altSpellings": [
+      "Berlin-Lichtenberg",
+      "Bezirk Lichtenberg"
+     ],
+     "answer": "Lichtenberg"
+    },
+    {
+     "altSpellings": [
+      "Friedrichshain",
+      "Kreuzberg",
+      "Friedrichshain Kreuzberg",
+      "Kreuzberg-Friedrichshain",
+      "Bezirk Friedrichshain-Kreuzberg"
+     ],
+     "answer": "Friedrichshain-Kreuzberg"
+    },
+    {
+     "altSpellings": [
+      "Berlin-Pankow",
+      "Prenzlauer Berg",
+      "Bezirk Pankow"
+     ],
+     "answer": "Pankow"
+    },
+    {
+     "altSpellings": [
+      "Berlin-Mitte",
+      "Bezirk Mitte"
+     ],
+     "answer": "Mitte"
+    },
+    {
+     "altSpellings": [
+      "Tempelhof",
+      "Schöneberg",
+      "Tempelhof Schöneberg",
+      "Schöneberg-Tempelhof",
+      "Bezirk Tempelhof-Schöneberg"
+     ],
+     "answer": "Tempelhof-Schöneberg"
+    },
+    {
+     "altSpellings": [
+      "Steglitz",
+      "Zehlendorf",
+      "Steglitz Zehlendorf",
+      "Zehlendorf-Stegnitz",
+      "Bezirk Steglitz-Zehlendorf"
+     ],
+     "answer": "Steglitz-Zehlendorf"
+    },
+    {
+     "altSpellings": [
+      "Charlottenburg",
+      "Wilmersdorf",
+      "Charlottenburg Wilmersdorf",
+      "Wilmersdorf-Charlottenburg",
+      "Bezirk Charlottenburg-Wilmersdorf"
+     ],
+     "answer": "Charlottenburg-Wilmersdorf"
+    },
+    {
+     "altSpellings": [
+      "Berlin Spandau",
+      "Bezirk Spandau"
+     ],
+     "answer": "Spandau"
+    },
+    {
+     "altSpellings": [
+      "Reinicken Dorf",
+      "Bezirk Reinickendorf"
+     ],
+     "answer": "Reinickendorf"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "112945",
+   "prompt": "einer der 12 Bezirke von Berlin"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nord"
+     ],
+     "answer": "Norden"
+    },
+    {
+     "altSpellings": [
+      "Süd"
+     ],
+     "answer": "Süden"
+    },
+    {
+     "altSpellings": [
+      "Ost"
+     ],
+     "answer": "Osten"
+    },
+    {
+     "altSpellings": [
+      "West"
+     ],
+     "answer": "Westen"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116102",
+   "prompt": "eine der vier Himmelsrichtungen"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Herzen"
+     ],
+     "answer": "Herz"
+    },
+    {
+     "altSpellings": [
+      "Karos"
+     ],
+     "answer": "Karo"
+    },
+    {
+     "altSpellings": [
+      "Kreuze",
+      "Treff"
+     ],
+     "answer": "Kreuz"
+    },
+    {
+     "altSpellings": [
+      "Pike"
+     ],
+     "answer": "Pik"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116117",
+   "prompt": "eine der vier Farben eines Kartenspiels"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "A"
+    },
+    {
+     "altSpellings": [],
+     "answer": "E"
+    },
+    {
+     "altSpellings": [],
+     "answer": "I"
+    },
+    {
+     "altSpellings": [],
+     "answer": "O"
+    },
+    {
+     "altSpellings": [],
+     "answer": "U"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116118",
+   "prompt": "ein Vokal"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "FU Berlin",
+      "Freie Uni Berlin",
+      "FU"
+     ],
+     "answer": "Freie Universität Berlin"
+    },
+    {
+     "altSpellings": [
+      "Humboldt Universität",
+      "HU Berlin",
+      "HU"
+     ],
+     "answer": "Humboldt-Universität zu Berlin"
+    },
+    {
+     "altSpellings": [
+      "TU Berlin",
+      "Technische Uni Berlin",
+      "TU"
+     ],
+     "answer": "Technische Universität Berlin"
+    },
+    {
+     "altSpellings": [
+      "UdK Berlin",
+      "UdK"
+     ],
+     "answer": "Universität der Künste Berlin"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "116119",
+   "prompt": "eine Universität in Berlin"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Berlin"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hamburg"
+    },
+    {
+     "altSpellings": [],
+     "answer": "München"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Köln"
+    },
+    {
+     "altSpellings": [
+      "Frankfurt",
+      "Frankfurt a. M."
+     ],
+     "answer": "Frankfurt am Main"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "116120",
+   "prompt": "eine der fünf größten deutschen Städte nach Einwohnerzahl"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Kambodscha"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kamerun"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kanada"
+    },
+    {
+     "altSpellings": [
+      "Cabo Verde"
+     ],
+     "answer": "Kap Verde"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kasachstan"
+    },
+    {
+     "altSpellings": [
+      "Qatar"
+     ],
+     "answer": "Katar"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kenia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kirgisistan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kiribati"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kolumbien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Komoren"
+    },
+    {
+     "altSpellings": [
+      "Republik Kongo",
+      "Kongo-Brazzaville"
+     ],
+     "answer": "Kongo"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kosovo"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kroatien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kuba"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kuwait"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "countrySpecific": true,
+   "id": "116132",
+   "prompt": "ein Land, das mit K beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Table Tennis"
+     ],
+     "answer": "Tischtennis"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Taekwondo"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tennis"
+    },
+    {
+     "altSpellings": [
+      "Trampolin",
+      "Trampolinspringen"
+     ],
+     "answer": "Trampolinturnen"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Triathlon"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116133",
+   "prompt": "eine olympische Sportart, die mit T beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Salomonen"
+    },
+    {
+     "altSpellings": [
+      "Zambia"
+     ],
+     "answer": "Sambia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Samoa"
+    },
+    {
+     "altSpellings": [],
+     "answer": "San Marino"
+    },
+    {
+     "altSpellings": [
+      "Sao Tome und Principe",
+      "São Tomé",
+      "Sao Tome"
+     ],
+     "answer": "São Tomé und Príncipe"
+    },
+    {
+     "altSpellings": [
+      "Saudi Arabien"
+     ],
+     "answer": "Saudi-Arabien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Schweden"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Schweiz"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Senegal"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Serbien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Seychellen"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sierra Leone"
+    },
+    {
+     "altSpellings": [
+      "Zimbabwe"
+     ],
+     "answer": "Simbabwe"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Singapur"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Slowakei"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Slowenien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Somalia"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Spanien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sri Lanka"
+    },
+    {
+     "altSpellings": [
+      "Saint Kitts und Nevis"
+     ],
+     "answer": "St. Kitts und Nevis"
+    },
+    {
+     "altSpellings": [
+      "Saint Lucia"
+     ],
+     "answer": "St. Lucia"
+    },
+    {
+     "altSpellings": [
+      "Saint Vincent und die Grenadinen"
+     ],
+     "answer": "St. Vincent und die Grenadinen"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sudan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Südafrika"
+    },
+    {
+     "altSpellings": [
+      "Süd-Korea"
+     ],
+     "answer": "Südkorea"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Südsudan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Suriname"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Syrien"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "countrySpecific": true,
+   "id": "116135",
+   "prompt": "ein Land, das mit S beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Schahada",
+      "Zeugnis",
+      "Bezeugung",
+      "Taschahhud",
+      "Glaubens Bekenntnis",
+      "Glauben Bekennen",
+      "Glaube",
+      "Kalima",
+      "Bekenntnis"
+     ],
+     "answer": "Glaubensbekenntnis"
+    },
+    {
+     "altSpellings": [
+      "Salat",
+      "Gebete",
+      "Beten",
+      "Salah",
+      "täglich beten",
+      "jeden Tag beten"
+     ],
+     "answer": "Gebet"
+    },
+    {
+     "altSpellings": [
+      "Almosen Steuer",
+      "Almosen",
+      "Steuer",
+      "Spende",
+      "Abgabe",
+      "Nächstenliebe",
+      "Zakat",
+      "Sadaqa"
+     ],
+     "answer": "Almosensteuer"
+    },
+    {
+     "altSpellings": [
+      "Saum",
+      "Ramadan",
+      "Faste",
+      "Nichts Essen",
+      "Nichts Trinken",
+      "Kein Essen",
+      "Kein Trinken",
+      "Fastenmonat",
+      "Fasten Monat",
+      "Abstinenz"
+     ],
+     "answer": "Fasten"
+    },
+    {
+     "altSpellings": [
+      "Haj",
+      "Hajj",
+      "Kaaba",
+      "Pilgerfahrt nach Mekka",
+      "Pilger Fahrt",
+      "Pilgern",
+      "Mekka",
+      "Mekka besuchen",
+      "Kaba",
+      "Hadsch",
+      "Haddsch"
+     ],
+     "answer": "Pilgerfahrt"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116136",
+   "prompt": "eine der fünf Säulen des Islam"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Frank Reich",
+      "France",
+      "Französische Republik"
+     ],
+     "answer": "Frankreich"
+    },
+    {
+     "altSpellings": [
+      "Italia",
+      "Italienische Republik",
+      "Italy"
+     ],
+     "answer": "Italien"
+    },
+    {
+     "altSpellings": [
+      "Bundesrepublik Deutschland",
+      "Deutchland",
+      "Germany"
+     ],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [
+      "Öster Reich",
+      "Republik Österreich",
+      "Austria"
+     ],
+     "answer": "Österreich"
+    },
+    {
+     "altSpellings": [
+      "Republik Slowenien",
+      "Slovenien",
+      "Slovenia"
+     ],
+     "answer": "Slowenien"
+    },
+    {
+     "altSpellings": [
+      "Schweitz",
+      "Schweizerische Eidgenossenschaft",
+      "Switzerland"
+     ],
+     "answer": "Schweiz"
+    },
+    {
+     "altSpellings": [
+      "Lichtenstein",
+      "Liechten Stein",
+      "Fürstentum Liechtenstein"
+     ],
+     "answer": "Liechtenstein"
+    },
+    {
+     "altSpellings": [
+      "Monako",
+      "Fürstentum Monaco"
+     ],
+     "answer": "Monaco"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116222",
+   "prompt": "eines der acht Länder, durch die die Alpen verlaufen"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+        "1"
+     ],
+     "answer": "Eins"
+    },
+    {
+     "altSpellings": [
+      "2"
+     ],
+     "answer": "Zwei"
+    },
+    {
+     "altSpellings": [
+        "3"
+     ],
+     "answer": "Drei"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116254",
+   "prompt": "1, 2 oder 3 – letzte Chance – vorbei"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Ein Cent",
+      "1-Cent-Münze"
+     ],
+     "answer": "1 Cent"
+    },
+    {
+     "altSpellings": [
+      "Zwei Cent",
+      "2-Cent-Münze"
+     ],
+     "answer": "2 Cent"
+    },
+    {
+     "altSpellings": [
+      "Fünf Cent",
+      "5-Cent-Münze"
+     ],
+     "answer": "5 Cent"
+    },
+    {
+     "altSpellings": [
+      "Zehn Cent",
+      "10-Cent-Münze"
+     ],
+     "answer": "10 Cent"
+    },
+    {
+     "altSpellings": [
+      "Zwanzig Cent",
+      "20-Cent-Münze"
+     ],
+     "answer": "20 Cent"
+    },
+    {
+     "altSpellings": [
+      "Fünfzig Cent",
+      "50-Cent-Münze"
+     ],
+     "answer": "50 Cent"
+    },
+    {
+     "altSpellings": [
+      "Ein Euro",
+      "1-Euro-Münze"
+     ],
+     "answer": "1 Euro"
+    },
+    {
+     "altSpellings": [
+      "Zwei Euro",
+      "2-Euro-Münze"
+     ],
+     "answer": "2 Euro"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "116255",
+   "prompt": "eine Euro-Münze"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Rot"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gelb"
+    },
+    {
+     "altSpellings": [
+      "Gruen"
+     ],
+     "answer": "Grün"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Braun"
+    },
+    {
+     "altSpellings": [
+      "Violett"
+     ],
+     "answer": "Lila"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116267",
+   "prompt": "eine ursprüngliche M&M’s-Farbe"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "A positiv",
+      "A positive"
+     ],
+     "answer": "A+"
+    },
+    {
+     "altSpellings": [
+      "A negativ",
+      "A negative"
+     ],
+     "answer": "A-"
+    },
+    {
+     "altSpellings": [
+      "B positiv",
+      "B positive"
+     ],
+     "answer": "B+"
+    },
+    {
+     "altSpellings": [
+      "B negativ",
+      "B negative"
+     ],
+     "answer": "B-"
+    },
+    {
+     "altSpellings": [
+      "O+",
+      "Null positiv",
+      "0 positiv"
+     ],
+     "answer": "0+"
+    },
+    {
+     "altSpellings": [
+      "O-",
+      "Null negativ",
+      "0 negativ"
+     ],
+     "answer": "0-"
+    },
+    {
+     "altSpellings": [
+      "AB positiv",
+      "AB positive"
+     ],
+     "answer": "AB+"
+    },
+    {
+     "altSpellings": [
+      "AB negativ",
+      "AB negative"
+     ],
+     "answer": "AB-"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116273",
+   "prompt": "eine Blutgruppe"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "I"
+    },
+    {
+     "altSpellings": [],
+     "answer": "V"
+    },
+    {
+     "altSpellings": [],
+     "answer": "X"
+    },
+    {
+     "altSpellings": [],
+     "answer": "L"
+    },
+    {
+     "altSpellings": [],
+     "answer": "C"
+    },
+    {
+     "altSpellings": [],
+     "answer": "D"
+    },
+    {
+     "altSpellings": [],
+     "answer": "M"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116274",
+   "prompt": "ein einzelner Buchstabe, der als römische Zahl dient"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Torhüter",
+      "Torhueter",
+      "Keeper"
+     ],
+     "answer": "Torwart"
+    },
+    {
+     "altSpellings": [
+      "Abwehrspieler",
+      "Verteidiger",
+      "Defensive"
+     ],
+     "answer": "Abwehr"
+    },
+    {
+     "altSpellings": [
+      "Mittelfeldspieler"
+     ],
+     "answer": "Mittelfeld"
+    },
+    {
+     "altSpellings": [
+      "Stürmer",
+      "Stuermer",
+      "Angreifer"
+     ],
+     "answer": "Sturm"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116275",
+   "prompt": "eine Position auf dem Fußballfeld"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "null"
+     ],
+     "answer": "0"
+    },
+    {
+     "altSpellings": [
+      "eins"
+     ],
+     "answer": "1"
+    },
+    {
+     "altSpellings": [
+      "zwei"
+     ],
+     "answer": "2"
+    },
+    {
+     "altSpellings": [
+      "drei"
+     ],
+     "answer": "3"
+    },
+    {
+     "altSpellings": [
+      "vier"
+     ],
+     "answer": "4"
+    },
+    {
+     "altSpellings": [
+      "fünf"
+     ],
+     "answer": "5"
+    },
+    {
+     "altSpellings": [
+      "sechs"
+     ],
+     "answer": "6"
+    },
+    {
+     "altSpellings": [
+      "sieben"
+     ],
+     "answer": "7"
+    },
+    {
+     "altSpellings": [
+      "acht"
+     ],
+     "answer": "8"
+    },
+    {
+     "altSpellings": [
+      "neun"
+     ],
+     "answer": "9"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116276",
+   "prompt": "eine einstellige Zahl"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "eins"
+     ],
+     "answer": "1"
+    },
+    {
+     "altSpellings": [
+      "zwei"
+     ],
+     "answer": "2"
+    },
+    {
+     "altSpellings": [
+      "drei"
+     ],
+     "answer": "3"
+    },
+    {
+     "altSpellings": [
+      "vier"
+     ],
+     "answer": "4"
+    },
+    {
+     "altSpellings": [
+      "sechs"
+     ],
+     "answer": "6"
+    },
+    {
+     "altSpellings": [
+      "zwölf"
+     ],
+     "answer": "12"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116416",
+   "prompt": "ein Teiler von 12"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Joy"
+     ],
+     "answer": "Freude"
+    },
+    {
+     "altSpellings": [
+      "Traurigkeit",
+      "Sadness"
+     ],
+     "answer": "Kummer"
+    },
+    {
+     "altSpellings": [
+      "Zorn",
+      "Anger"
+     ],
+     "answer": "Wut"
+    },
+    {
+     "altSpellings": [
+      "Abscheu",
+      "Disgust"
+     ],
+     "answer": "Ekel"
+    },
+    {
+     "altSpellings": [
+      "Furcht",
+      "Fear"
+     ],
+     "answer": "Angst"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116426",
+   "prompt": "eine Emotion aus dem ersten [i]Alles steht Kopf[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Toto"
+    },
+    {
+     "altSpellings": [
+      "der Blechmann",
+      "Tin Man"
+     ],
+     "answer": "Blechmann"
+    },
+    {
+     "altSpellings": [
+      "die Vogelscheuche",
+      "Scarecrow"
+     ],
+     "answer": "Vogelscheuche"
+    },
+    {
+     "altSpellings": [
+      "der feige Löwe",
+      "Löwe",
+      "Cowardly Lion"
+     ],
+     "answer": "Feiger Löwe"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116427",
+   "prompt": "einer von Dorothys Begleitern in Oz"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Vereinigte Staaten",
+      "Vereinigte Staaten von Amerika",
+      "United States",
+      "US"
+     ],
+     "answer": "USA"
+    },
+    {
+     "altSpellings": [
+      "Canada"
+     ],
+     "answer": "Kanada"
+    },
+    {
+     "altSpellings": [
+      "Großbritannien",
+      "UK",
+      "England"
+     ],
+     "answer": "Vereinigtes Königreich"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Japan"
+    },
+    {
+     "altSpellings": [
+      "France"
+     ],
+     "answer": "Frankreich"
+    },
+    {
+     "altSpellings": [
+      "Germany"
+     ],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [
+      "Italy"
+     ],
+     "answer": "Italien"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116493",
+   "prompt": "ein G7-Staat"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "ARD",
+      "Erstes"
+     ],
+     "answer": "Das Erste"
+    },
+    {
+     "altSpellings": [
+      "Zweites Deutsches Fernsehen"
+     ],
+     "answer": "ZDF"
+    },
+    {
+     "altSpellings": [
+      "Dreisat"
+     ],
+     "answer": "3sat"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Arte"
+    },
+    {
+     "altSpellings": [
+      "Kinderkanal"
+     ],
+     "answer": "KiKA"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Phoenix"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "116496",
+   "prompt": "ein öffentlich-rechtlicher Fernsehsender"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Adenauer"
+     ],
+     "answer": "Konrad Adenauer"
+    },
+    {
+     "altSpellings": [
+      "Erhard"
+     ],
+     "answer": "Ludwig Erhard"
+    },
+    {
+     "altSpellings": [
+      "Kiesinger"
+     ],
+     "answer": "Kurt Georg Kiesinger"
+    },
+    {
+     "altSpellings": [
+      "Brandt"
+     ],
+     "answer": "Willy Brandt"
+    },
+    {
+     "altSpellings": [
+      "Schmidt"
+     ],
+     "answer": "Helmut Schmidt"
+    },
+    {
+     "altSpellings": [
+      "Kohl"
+     ],
+     "answer": "Helmut Kohl"
+    },
+    {
+     "altSpellings": [
+      "Schröder",
+      "Schroeder"
+     ],
+     "answer": "Gerhard Schröder"
+    },
+    {
+     "altSpellings": [
+      "Merkel"
+     ],
+     "answer": "Angela Merkel"
+    },
+    {
+     "altSpellings": [
+      "Scholz"
+     ],
+     "answer": "Olaf Scholz"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "116502",
+   "prompt": "ein Bundeskanzler vor Friedrich Merz"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Doh"
+     ],
+     "answer": "Do"
+    },
+    {
+     "altSpellings": [
+      "Ré"
+     ],
+     "answer": "Re"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mi"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Fa"
+    },
+    {
+     "altSpellings": [
+      "So"
+     ],
+     "answer": "Sol"
+    },
+    {
+     "altSpellings": [],
+     "answer": "La"
+    },
+    {
+     "altSpellings": [
+      "Si"
+     ],
+     "answer": "Ti"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116503",
+   "prompt": "eine Silbe der Do-Re-Mi-Tonleiter"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Anaheim, Kalifornien",
+      "Los Angeles",
+      "LA",
+      "Hollywood",
+      "Disneyland Anaheim",
+      "Anaheim Disney",
+      "Disneyland Resort"
+     ],
+     "answer": "Anaheim"
+    },
+    {
+     "altSpellings": [
+      "Paris, Frankreich",
+      "Disneyland Paris",
+      "Disney Paris"
+     ],
+     "answer": "Paris"
+    },
+    {
+     "altSpellings": [
+      "Tokyo, Japan",
+      "Tokyo Disney",
+      "Tokyo Disney Sea",
+      "Disneyland Tokyo",
+      "DisneySea Tokyo",
+      "Tokyo Disney Resort"
+     ],
+     "answer": "Tokyo"
+    },
+    {
+     "altSpellings": [
+      "Shanghai, China",
+      "Shanghai Disney",
+      "Disneyland Shanghai",
+      "Shanghai Disney Resort",
+      "Shangai",
+      "Schanghai"
+     ],
+     "answer": "Shanghai"
+    },
+    {
+     "altSpellings": [
+      "Hong Kong, China",
+      "Hong Kong Disney",
+      "Hong Kong Disneyland",
+      "Hong-Kong",
+      "Hong Kong Disneyland Resort"
+     ],
+     "answer": "Hong Kong"
+    },
+    {
+     "altSpellings": [
+      "Orlando, Florida",
+      "Florida",
+      "Bay Lake",
+      "Buena Vista",
+      "Disneyworld Orlando",
+      "Walt Disney World Resort Orlando",
+      "Walt Disney World Resort"
+     ],
+     "answer": "Orlando"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116504",
+   "prompt": "eine Stadt mit einem Disney-Themenpark"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Iceland"
+     ],
+     "answer": "Island"
+    },
+    {
+     "altSpellings": [
+      "India"
+     ],
+     "answer": "Indien"
+    },
+    {
+     "altSpellings": [
+      "Indonesia"
+     ],
+     "answer": "Indonesien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Iran"
+    },
+    {
+     "altSpellings": [
+      "Iraq"
+     ],
+     "answer": "Irak"
+    },
+    {
+     "altSpellings": [
+      "Ireland"
+     ],
+     "answer": "Irland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Israel"
+    },
+    {
+     "altSpellings": [
+      "Italy",
+      "Italia"
+     ],
+     "answer": "Italien"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116574",
+   "prompt": "ein Land, das mit I beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Taiwan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tadschikistan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tansania"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Thailand"
+    },
+    {
+     "altSpellings": [
+      "Osttimor"
+     ],
+     "answer": "Timor-Leste"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Togo"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tonga"
+    },
+    {
+     "altSpellings": [
+      "Trinidad & Tobago"
+     ],
+     "answer": "Trinidad und Tobago"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tschad"
+    },
+    {
+     "altSpellings": [
+      "Tschechische Republik"
+     ],
+     "answer": "Tschechien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tunesien"
+    },
+    {
+     "altSpellings": [
+      "Tuerkei",
+      "Türkiye"
+     ],
+     "answer": "Türkei"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Turkmenistan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tuvalu"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "countrySpecific": true,
+   "id": "116576",
+   "prompt": "ein Land, das mit T beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Sept."
+     ],
+     "answer": "September"
+    },
+    {
+     "altSpellings": [
+      "Okt."
+     ],
+     "answer": "Oktober"
+    },
+    {
+     "altSpellings": [
+      "Nov."
+     ],
+     "answer": "November"
+    },
+    {
+     "altSpellings": [
+      "Dez."
+     ],
+     "answer": "Dezember"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116579",
+   "prompt": "ein Monat, der auf „-ber“ endet"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Kerzenleuchter",
+      "Kerzenständer",
+      "Candlestick"
+     ],
+     "answer": "Leuchter"
+    },
+    {
+     "altSpellings": [
+      "Messer",
+      "Knife"
+     ],
+     "answer": "Dolch"
+    },
+    {
+     "altSpellings": [
+      "Bleirohr",
+      "Rohr",
+      "Lead Pipe"
+     ],
+     "answer": "Heizungsrohr"
+    },
+    {
+     "altSpellings": [
+      "Revolver"
+     ],
+     "answer": "Pistole"
+    },
+    {
+     "altSpellings": [
+      "Strick",
+      "Rope"
+     ],
+     "answer": "Seil"
+    },
+    {
+     "altSpellings": [
+      "Schraubenschlüssel",
+      "Zange",
+      "Wrench"
+     ],
+     "answer": "Rohrzange"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": false,
+   "id": "116581",
+   "prompt": "eine klassische Mordwaffe aus [i]Cluedo[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Athena"
+     ],
+     "answer": "Athene"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ares"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Artemis"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Aphrodite"
+    },
+    {
+     "altSpellings": [
+      "Apollo"
+     ],
+     "answer": "Apollon"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116621",
+   "prompt": "ein olympischer Gott, dessen Name mit A beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Speiseroehre",
+      "Ösophagus",
+      "Oesophagus"
+     ],
+     "answer": "Speiseröhre"
+    },
+    {
+     "altSpellings": [
+      "Schilddruese"
+     ],
+     "answer": "Schilddrüse"
+    },
+    {
+     "altSpellings": [
+      "Speicheldruese",
+      "Speicheldrüsen"
+     ],
+     "answer": "Speicheldrüse"
+    },
+    {
+     "altSpellings": [
+      "Samenblaeschen"
+     ],
+     "answer": "Samenbläschen"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Samenleiter"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116622",
+   "prompt": "ein inneres menschliches Organ, das mit S beginnt",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Trompete"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tuba"
+    },
+    {
+     "altSpellings": [
+      "Tambourin"
+     ],
+     "answer": "Tamburin"
+    },
+    {
+     "altSpellings": [
+      "Dreieck"
+     ],
+     "answer": "Triangel"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116642",
+   "prompt": "ein Orchesterinstrument, das mit T beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Badminton"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Baseball"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Basketball"
+    },
+    {
+     "altSpellings": [
+      "Beach-Handball"
+     ],
+     "answer": "Beachhandball"
+    },
+    {
+     "altSpellings": [
+      "Beach-Volleyball"
+     ],
+     "answer": "Beachvolleyball"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bogenschießen"
+    },
+    {
+     "altSpellings": [
+      "Boxsport"
+     ],
+     "answer": "Boxen"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Biathlon"
+    },
+    {
+     "altSpellings": [
+      "Bobsport",
+      "Bobsleigh"
+     ],
+     "answer": "Bob"
+    },
+    {
+     "altSpellings": [
+      "Breakdance",
+      "Breakdancing"
+     ],
+     "answer": "Breaking"
+    },
+    {
+     "altSpellings": [
+      "BMX-Freestyle",
+      "BMX-Rennsport"
+     ],
+     "answer": "BMX"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116645",
+   "prompt": "eine olympische Sportart, die mit B beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+        "Steuerklasse eins",
+        "Eins",
+        "Steuerklasse I",
+        "I"
+     ],
+     "answer": "1"
+    },
+    {
+     "altSpellings": [
+        "Steuerklasse zwei",
+        "Zwei",
+        "Steuerklasse II",
+        "II"
+     ],
+     "answer": "2"
+    },
+    {
+     "altSpellings": [
+        "Steuerklasse drei",
+        "Drei",
+        "Steuerklasse III",
+        "III"
+     ],
+     "answer": "3"
+    },
+    {
+     "altSpellings": [
+        "Steuerklasse vier",
+        "Vier",
+        "Steuerklasse IV",
+        "IV"
+     ],
+     "answer": "4"
+    },
+    {
+     "altSpellings": [
+        "Steuerklasse fünf",
+        "Fünf",
+        "Steuerklasse V",
+        "V"
+     ],
+     "answer": "5"
+    },
+    {
+     "altSpellings": [
+        "Steuerklasse sechs",
+        "Sechs",
+        "Steuerklasse VI",
+        "VI"
+     ],
+     "answer": "6"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116743",
+   "prompt": "eine deutsche Steuerklasse"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Calendar"
+     ],
+     "answer": "Kalender"
+    },
+    {
+     "altSpellings": [
+      "Maps",
+      "Apple Karten"
+     ],
+     "answer": "Karten"
+    },
+    {
+     "altSpellings": [
+      "Contacts"
+     ],
+     "answer": "Kontakte"
+    },
+    {
+     "altSpellings": [
+      "Camera"
+     ],
+     "answer": "Kamera"
+    },
+    {
+     "altSpellings": [
+      "Compass"
+     ],
+     "answer": "Kompass"
+    },
+    {
+     "altSpellings": [
+      "Shortcuts"
+     ],
+     "answer": "Kurzbefehle"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116747",
+   "prompt": "eine vorinstallierte iPhone-App, die mit K beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "SpongeBob",
+      "Sponge Bob",
+      "SpongeBob SquarePants",
+      "Sponge Bob Schwammkopf",
+      "SpongeBob Schwammkopf"
+     ],
+     "answer": "SpongeBob"
+    },
+    {
+     "altSpellings": [
+      "Patrick Star",
+      "Patrik Star"
+     ],
+     "answer": "Patrick"
+    },
+    {
+     "altSpellings": [
+      "Squidward",
+      "Squidward Tentacles",
+      "Thaddäus",
+      "Thaddaeus",
+      "Thaddaeus Tentakel",
+      "Thaddäus Tentakel"
+     ],
+     "answer": "Thaddäus"
+    },
+    {
+     "altSpellings": [
+      "Mr Krabs",
+      "Mister Krabs",
+      "Eugene Krabs",
+      "Eugene H. Krabs",
+      "Eugene Harold Krabs"
+     ],
+     "answer": "Mr. Krabs"
+    },
+    {
+     "altSpellings": [
+      "Sandy Cheeks"
+     ],
+     "answer": "Sandy"
+    },
+    {
+     "altSpellings": [
+      "Sheldon Plankton",
+      "Sheldon",
+      "Sheldon J. Plankton"
+     ],
+     "answer": "Plankton"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116751",
+   "prompt": "eine SpongeBob-Hauptfigur"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Hohe Karte",
+      "Höchste Karte"
+     ],
+     "answer": "High Card"
+    },
+    {
+     "altSpellings": [
+      "One Pair",
+      "Pair",
+      "Paar"
+     ],
+     "answer": "Ein Paar"
+    },
+    {
+     "altSpellings": [
+      "Two Pair"
+     ],
+     "answer": "Zwei Paare"
+    },
+    {
+     "altSpellings": [
+      "Three of a Kind",
+      "Three-of-a-Kind",
+      "3 of a Kind"
+     ],
+     "answer": "Drilling"
+    },
+    {
+     "altSpellings": [
+      "Straight"
+     ],
+     "answer": "Straße"
+    },
+    {
+     "altSpellings": [
+      "Farbe"
+     ],
+     "answer": "Flush"
+    },
+    {
+     "altSpellings": [
+      "Full House",
+      "Fullhouse"
+     ],
+     "answer": "Full House"
+    },
+    {
+     "altSpellings": [
+      "Four of a Kind",
+      "Four-of-a-Kind",
+      "4 of a Kind"
+     ],
+     "answer": "Vierling"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Straight Flush"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Royal Flush"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116752",
+   "prompt": "eine Pokerhand"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Aries"
+     ],
+     "answer": "Widder"
+    },
+    {
+     "altSpellings": [
+      "Taurus"
+     ],
+     "answer": "Stier"
+    },
+    {
+     "altSpellings": [
+      "Gemini"
+     ],
+     "answer": "Zwillinge"
+    },
+    {
+     "altSpellings": [
+      "Cancer"
+     ],
+     "answer": "Krebs"
+    },
+    {
+     "altSpellings": [
+      "Leo"
+     ],
+     "answer": "Löwe"
+    },
+    {
+     "altSpellings": [
+      "Virgo"
+     ],
+     "answer": "Jungfrau"
+    },
+    {
+     "altSpellings": [
+      "Libra"
+     ],
+     "answer": "Waage"
+    },
+    {
+     "altSpellings": [
+      "Scorpio"
+     ],
+     "answer": "Skorpion"
+    },
+    {
+     "altSpellings": [
+      "Sagittarius"
+     ],
+     "answer": "Schütze"
+    },
+    {
+     "altSpellings": [
+      "Capricorn"
+     ],
+     "answer": "Steinbock"
+    },
+    {
+     "altSpellings": [
+      "Aquarius"
+     ],
+     "answer": "Wassermann"
+    },
+    {
+     "altSpellings": [
+      "Pisces"
+     ],
+     "answer": "Fische"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "116753",
+   "prompt": "ein Sternzeichen"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Syrien"
+    },
+    {
+     "altSpellings": [
+      "Saudi Arabien"
+     ],
+     "answer": "Saudi-Arabien"
+    },
+    {
+     "altSpellings": [
+      "Suedkorea",
+      "Süd-Korea"
+     ],
+     "answer": "Südkorea"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Sri Lanka"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Singapur"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "116754",
+   "prompt": "ein asiatisches Land, das mit S beginnt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "2000"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2001"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2002"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2003"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2004"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2005"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2006"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2007"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2008"
+    },
+    {
+     "altSpellings": [],
+     "answer": "2009"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "117751",
+   "prompt": "ein Jahr zwischen 2000 und 2009"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "eins"
+     ],
+     "answer": "1"
+    },
+    {
+     "altSpellings": [
+      "zwei"
+     ],
+     "answer": "2"
+    },
+    {
+     "altSpellings": [
+      "drei"
+     ],
+     "answer": "3"
+    },
+    {
+     "altSpellings": [
+      "vier"
+     ],
+     "answer": "4"
+    },
+    {
+     "altSpellings": [
+      "fünf",
+      "fuenf"
+     ],
+     "answer": "5"
+    },
+    {
+     "altSpellings": [
+      "sechs"
+     ],
+     "answer": "6"
+    },
+    {
+     "altSpellings": [
+      "sieben"
+     ],
+     "answer": "7"
+    },
+    {
+     "altSpellings": [
+      "acht"
+     ],
+     "answer": "8"
+    },
+    {
+     "altSpellings": [
+      "neun"
+     ],
+     "answer": "9"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "117752",
+   "prompt": "eine Zahl, die beim Sudoku verwendet wird"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Farin",
+      "Jan Vetter",
+      "Jan Ulrich Max Vetter"
+     ],
+     "answer": "Farin Urlaub"
+    },
+    {
+     "altSpellings": [
+      "Bela B.",
+      "Bela",
+      "Dirk Felsenheimer"
+     ],
+     "answer": "Bela B"
+    },
+    {
+     "altSpellings": [
+      "Rodrigo Gonzalez",
+      "Rod",
+      "Rod González"
+     ],
+     "answer": "Rodrigo González"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "117753",
+   "prompt": "ein Mitglied der Band [i]Die Ärzte[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Wasser wird zu Blut",
+      "Nil wird zu Blut"
+     ],
+     "answer": "Blut"
+    },
+    {
+     "altSpellings": [
+      "Froesche",
+      "Froschplage"
+     ],
+     "answer": "Frösche"
+    },
+    {
+     "altSpellings": [
+      "Laeuse",
+      "Stechmücken",
+      "Mücken"
+     ],
+     "answer": "Läuse"
+    },
+    {
+     "altSpellings": [
+      "Fliegenplage"
+     ],
+     "answer": "Fliegen"
+    },
+    {
+     "altSpellings": [
+      "Pest"
+     ],
+     "answer": "Viehseuche"
+    },
+    {
+     "altSpellings": [
+      "Geschwuere",
+      "Beulen"
+     ],
+     "answer": "Geschwüre"
+    },
+    {
+     "altSpellings": [
+      "Hagelsturm"
+     ],
+     "answer": "Hagel"
+    },
+    {
+     "altSpellings": [
+      "Heuschreckenplage"
+     ],
+     "answer": "Heuschrecken"
+    },
+    {
+     "altSpellings": [
+      "Dunkelheit"
+     ],
+     "answer": "Finsternis"
+    },
+    {
+     "altSpellings": [
+      "Tötung der Erstgeborenen",
+      "Erstgeborene"
+     ],
+     "answer": "Tod der Erstgeborenen"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "117754",
+   "prompt": "eine der zehn Plagen Ägyptens"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nomen",
+      "Hauptwort"
+     ],
+     "answer": "Substantiv"
+    },
+    {
+     "altSpellings": [
+      "Fürwort",
+      "Fuerwort"
+     ],
+     "answer": "Pronomen"
+    },
+    {
+     "altSpellings": [
+      "Tätigkeitswort",
+      "Taetigkeitswort"
+     ],
+     "answer": "Verb"
+    },
+    {
+     "altSpellings": [
+      "Eigenschaftswort"
+     ],
+     "answer": "Adjektiv"
+    },
+    {
+     "altSpellings": [
+      "Umstandswort"
+     ],
+     "answer": "Adverb"
+    },
+    {
+     "altSpellings": [
+      "Praeposition",
+      "Verhältniswort"
+     ],
+     "answer": "Präposition"
+    },
+    {
+     "altSpellings": [
+      "Bindewort"
+     ],
+     "answer": "Konjunktion"
+    },
+    {
+     "altSpellings": [
+      "Ausrufewort"
+     ],
+     "answer": "Interjektion"
+    },
+    {
+     "altSpellings": [
+      "Begleiter",
+      "Geschlechtswort"
+     ],
+     "answer": "Artikel"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "117755",
+   "prompt": "eine Wortart"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Oktagon"
+     ],
+     "answer": "Achteck"
+    },
+    {
+     "altSpellings": [
+      "Heptagon"
+     ],
+     "answer": "Siebeneck"
+    },
+    {
+     "altSpellings": [
+      "Hexagon"
+     ],
+     "answer": "Sechseck"
+    },
+    {
+     "altSpellings": [
+      "Fuenfeck",
+      "Pentagon"
+     ],
+     "answer": "Fünfeck"
+    },
+    {
+     "altSpellings": [
+      "Tetragon",
+      "Quadrat",
+      "Rechteck"
+     ],
+     "answer": "Viereck"
+    },
+    {
+     "altSpellings": [
+      "Triangel",
+      "Trigon"
+     ],
+     "answer": "Dreieck"
+    },
+    {
+     "altSpellings": [
+      "Digon"
+     ],
+     "answer": "Zweieck"
+    },
+    {
+     "altSpellings": [
+      "Monogon",
+      "Henagon"
+     ],
+     "answer": "Eineck"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118662",
+   "prompt": "ein Vieleck mit höchstens acht Seiten"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Schoko"
+     ],
+     "answer": "Schokolade"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Vanille"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Erdbeere"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118663",
+   "prompt": "eine Eissorte im Fürst-Pückler-Eis"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Deutscher Bundestag"
+     ],
+     "answer": "Bundestag"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bundesrat"
+    },
+    {
+     "altSpellings": [
+      "Bundespraesident"
+     ],
+     "answer": "Bundespräsident"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bundesregierung"
+    },
+    {
+     "altSpellings": [
+      "BVerfG"
+     ],
+     "answer": "Bundesverfassungsgericht"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "118664",
+   "prompt": "eines der fünf ständigen Verfassungsorgane Deutschlands"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Mascarpone"
+    },
+    {
+     "altSpellings": [
+      "Loeffelbiskuits",
+      "Biskuits"
+     ],
+     "answer": "Löffelbiskuits"
+    },
+    {
+     "altSpellings": [
+      "Espresso"
+     ],
+     "answer": "Kaffee"
+    },
+    {
+     "altSpellings": [
+      "Eier"
+     ],
+     "answer": "Ei"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Zucker"
+    },
+    {
+     "altSpellings": [
+      "Kakaopulver"
+     ],
+     "answer": "Kakao"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118665",
+   "prompt": "eine typische Zutat in Tiramisu"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "zweiundsechzig"
+     ],
+     "answer": "62"
+    },
+    {
+     "altSpellings": [
+      "dreiundsechzig"
+     ],
+     "answer": "63"
+    },
+    {
+     "altSpellings": [
+      "vierundsechzig"
+     ],
+     "answer": "64"
+    },
+    {
+     "altSpellings": [
+      "fünfundsechzig",
+      "fuenfundsechzig"
+     ],
+     "answer": "65"
+    },
+    {
+     "altSpellings": [
+      "sechsundsechzig"
+     ],
+     "answer": "66"
+    },
+    {
+     "altSpellings": [
+      "siebenundsechzig"
+     ],
+     "answer": "67"
+    },
+    {
+     "altSpellings": [
+      "achtundsechzig"
+     ],
+     "answer": "68"
+    },
+    {
+     "altSpellings": [
+      "neunundsechzig"
+     ],
+     "answer": "69"
+    },
+    {
+     "altSpellings": [
+      "siebzig"
+     ],
+     "answer": "70"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118666",
+   "prompt": "eine ganze Zahl zwischen 62 und 70"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "India"
+     ],
+     "answer": "Indien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "China"
+    },
+    {
+     "altSpellings": [
+      "Vereinigte Staaten",
+      "United States",
+      "US"
+     ],
+     "answer": "USA"
+    },
+    {
+     "altSpellings": [
+      "Indonesia"
+     ],
+     "answer": "Indonesien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pakistan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Nigeria"
+    },
+    {
+     "altSpellings": [
+      "Brazil"
+     ],
+     "answer": "Brasilien"
+    },
+    {
+     "altSpellings": [
+      "Bangladesh"
+     ],
+     "answer": "Bangladesch"
+    },
+    {
+     "altSpellings": [
+      "Russia"
+     ],
+     "answer": "Russland"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118667",
+   "prompt": "eines der neun bevölkerungsreichsten Länder"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+        "Weiss"
+     ],
+     "answer": "Weiß"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Schwarz"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gelb"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Blau"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Rot"
+    },
+    {
+     "altSpellings": [
+      "Violett"
+     ],
+     "answer": "Lila"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Orange"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Grün"
+    },
+    {
+     "altSpellings": [
+      "Dunkelrot",
+      "Kastanienbraun"
+     ],
+     "answer": "Bordeaux"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118668",
+   "prompt": "eine Farbe einer vollfarbigen Billardkugel"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Mario"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Luigi"
+    },
+    {
+     "altSpellings": [
+      "Peach",
+      "Princess Peach"
+     ],
+     "answer": "Prinzessin Peach"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Yoshi"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bowser"
+    },
+    {
+     "altSpellings": [
+      "Donkey Kong Junior",
+      "DK Jr.",
+      "Donkey Kong Jr",
+      "Donkey Kong",
+      "DK"
+     ],
+     "answer": "Donkey Kong Jr."
+    },
+    {
+     "altSpellings": [
+      "Koopa Troopa"
+     ],
+     "answer": "Koopa"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Toad"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118672",
+   "prompt": "einer der Fahrer in [i]Super Mario Kart[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Piglet"
+     ],
+     "answer": "Ferkel"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tigger"
+    },
+    {
+     "altSpellings": [
+      "I-Ah",
+      "Eeyore"
+     ],
+     "answer": "I-Aah"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Kanga"
+    },
+    {
+     "altSpellings": [
+      "Roo"
+     ],
+     "answer": "Ruh"
+    },
+    {
+     "altSpellings": [
+      "Rabbit"
+     ],
+     "answer": "Kaninchen"
+    },
+    {
+     "altSpellings": [
+      "Owl"
+     ],
+     "answer": "Eule"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Christopher Robin"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118675",
+   "prompt": "einer von Winnie Puuhs Freunden"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Pakistan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Afghanistan"
+    },
+    {
+     "altSpellings": [
+      "Uzbekistan"
+     ],
+     "answer": "Usbekistan"
+    },
+    {
+     "altSpellings": [
+      "Kazakhstan"
+     ],
+     "answer": "Kasachstan"
+    },
+    {
+     "altSpellings": [
+      "Tajikistan"
+     ],
+     "answer": "Tadschikistan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Turkmenistan"
+    },
+    {
+     "altSpellings": [
+      "Kyrgyzstan"
+     ],
+     "answer": "Kirgisistan"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118677",
+   "prompt": "ein Land, dessen Name auf „-stan“ endet"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Estland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Finnland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Griechenland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Irland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Island"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Lettland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Neuseeland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Russland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Thailand"
+    }
+   ],
+   "category": "SINGLE-LETTER",
+   "id": "118684",
+   "prompt": "ein Land, das mit „-land“ endet"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Weißrussland"
+     ],
+     "answer": "Belarus"
+    },
+    {
+     "altSpellings": [
+      "Tschechische Republik"
+     ],
+     "answer": "Tschechien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Litauen"
+    },
+    {
+     "altSpellings": [
+      "Russische Föderation"
+     ],
+     "answer": "Russland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Slowakei"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Ukraine"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118729",
+   "prompt": "ein Land, das an Polen grenzt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "eins",
+      "1"
+     ],
+     "answer": "eines"
+    },
+    {
+     "altSpellings": [],
+     "answer": "von"
+    },
+    {
+     "altSpellings": [],
+     "answer": "diesen"
+    },
+    {
+     "altSpellings": [
+      "7"
+     ],
+     "answer": "sieben"
+    },
+    {
+     "altSpellings": [],
+     "answer": "unglaublich"
+    },
+    {
+     "altSpellings": [
+      "cool"
+     ],
+     "answer": "coolen"
+    },
+    {
+     "altSpellings": [
+      "Wörter"
+     ],
+     "answer": "Wörtern"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118731",
+   "prompt": "eines von diesen sieben unglaublich coolen Wörtern"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Steve Rogers",
+      "Cap",
+      "Chris Evans"
+     ],
+     "answer": "Captain America"
+    },
+    {
+     "altSpellings": [
+      "Thor Odinson",
+      "Chris Hemsworth"
+     ],
+     "answer": "Thor"
+    },
+    {
+     "altSpellings": [
+      "Tony Stark",
+      "Robert Downey Jr.",
+      "Robert Downey Junior"
+     ],
+     "answer": "Iron Man"
+    },
+    {
+     "altSpellings": [
+      "Natasha Romanoff",
+      "Scarlett Johansson"
+     ],
+     "answer": "Black Widow"
+    },
+    {
+     "altSpellings": [
+      "The Hulk",
+      "Bruce Banner",
+      "Mark Ruffalo"
+     ],
+     "answer": "Hulk"
+    },
+    {
+     "altSpellings": [
+      "Clint Barton",
+      "Jeremy Renner"
+     ],
+     "answer": "Hawkeye"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118732",
+   "prompt": "ein Avenger aus [i]Marvel’s The Avengers[/i] von 2012"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "T"
+    },
+    {
+     "altSpellings": [],
+     "answer": "U"
+    },
+    {
+     "altSpellings": [],
+     "answer": "V"
+    },
+    {
+     "altSpellings": [],
+     "answer": "W"
+    },
+    {
+     "altSpellings": [],
+     "answer": "X"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Y"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Z"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118733",
+   "prompt": "einer der letzten sieben Buchstaben des Alphabets"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Neumond"
+    },
+    {
+     "altSpellings": [
+      "zunehmender Sichelmond"
+     ],
+     "answer": "zunehmende Sichel"
+    },
+    {
+     "altSpellings": [
+      "zunehmender Halbmond"
+     ],
+     "answer": "erstes Viertel"
+    },
+    {
+     "altSpellings": [
+      "zunehmender Mond"
+     ],
+     "answer": "zunehmender Dreiviertelmond"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Vollmond"
+    },
+    {
+     "altSpellings": [
+      "abnehmender Mond"
+     ],
+     "answer": "abnehmender Dreiviertelmond"
+    },
+    {
+     "altSpellings": [
+      "abnehmender Halbmond"
+     ],
+     "answer": "letztes Viertel"
+    },
+    {
+     "altSpellings": [
+      "abnehmender Sichelmond"
+     ],
+     "answer": "abnehmende Sichel"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118734",
+   "prompt": "eine Mondphase"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Homer Simpson",
+      "Homer Jay Simpson"
+     ],
+     "answer": "Homer"
+    },
+    {
+     "altSpellings": [
+      "Marge Simpson",
+      "Marjorie Simpson",
+      "Marjorie Bouvier Simpson"
+     ],
+     "answer": "Marge"
+    },
+    {
+     "altSpellings": [
+      "Bart Simpson",
+      "Bartholomew Simpson",
+      "Bartholomew JoJo Simpson"
+     ],
+     "answer": "Bart"
+    },
+    {
+     "altSpellings": [
+      "Lisa Simpson",
+      "Lisa Marie Simpson"
+     ],
+     "answer": "Lisa"
+    },
+    {
+     "altSpellings": [
+      "Maggie Simpson",
+      "Margaret Simpson",
+      "Margaret Lenny Simpson"
+     ],
+     "answer": "Maggie"
+    },
+    {
+     "altSpellings": [
+      "Abe Simpson",
+      "Abraham Simpson",
+      "Abraham J. Simpson",
+      "Grandpa Simpson",
+      "Grampa Simpson",
+      "Grandpa",
+      "Grampa"
+     ],
+     "answer": "Abe"
+    },
+    {
+     "altSpellings": [
+      "Mona Simpson",
+      "Mona Penelope Simpson"
+     ],
+     "answer": "Mona"
+    },
+    {
+     "altSpellings": [
+      "Herbert Powell",
+      "Herb Powell"
+     ],
+     "answer": "Herbert"
+    },
+    {
+     "altSpellings": [
+      "Patty Bouvier"
+     ],
+     "answer": "Patty"
+    },
+    {
+     "altSpellings": [
+      "Selma Bouvier",
+      "Selma Terwilliger",
+      "Selma Bouvier-Terwilliger-Hutz-McClure-Stu-Simpson-D'Amico"
+     ],
+     "answer": "Selma"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118735",
+   "prompt": "ein bekanntes Mitglied der Simpsons-Familie"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Justus",
+      "Jupiter Jones"
+     ],
+     "answer": "Justus Jonas"
+    },
+    {
+     "altSpellings": [
+      "Peter",
+      "Pete Crenshaw"
+     ],
+     "answer": "Peter Shaw"
+    },
+    {
+     "altSpellings": [
+      "Bob"
+     ],
+     "answer": "Bob Andrews"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "118738",
+   "prompt": "einer der drei Detektive aus [i]Die drei ???[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Fruehstueck"
+     ],
+     "answer": "Frühstück"
+    },
+    {
+     "altSpellings": [
+      "Mittag"
+     ],
+     "answer": "Mittagessen"
+    },
+    {
+     "altSpellings": [
+      "Abendbrot",
+      "Dinner"
+     ],
+     "answer": "Abendessen"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": false,
+   "id": "118739",
+   "prompt": "eine der drei täglichen Hauptmahlzeiten"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Neutronen"
+     ],
+     "answer": "Neutron"
+    },
+    {
+     "altSpellings": [
+      "Protonen"
+     ],
+     "answer": "Proton"
+    },
+    {
+     "altSpellings": [
+      "Elektronen"
+     ],
+     "answer": "Elektron"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118742",
+   "prompt": "eines der drei wichtigsten subatomaren Teilchen"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "M"
+    },
+    {
+     "altSpellings": [],
+     "answer": "O"
+    },
+    {
+     "altSpellings": [],
+     "answer": "R"
+    },
+    {
+     "altSpellings": [],
+     "answer": "D"
+    },
+    {
+     "altSpellings": [],
+     "answer": "E"
+    },
+    {
+     "altSpellings": [],
+     "answer": "N"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118941",
+   "prompt": "einer der sechs Buchstaben im Wort „MORDEN“",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Snow White"
+     ],
+     "answer": "Schneewittchen"
+    },
+    {
+     "altSpellings": [
+      "Aschenputtel"
+     ],
+     "answer": "Cinderella"
+    },
+    {
+     "altSpellings": [
+      "Dornröschen",
+      "Dornroeschen",
+      "Sleeping Beauty"
+     ],
+     "answer": "Aurora"
+    },
+    {
+     "altSpellings": [
+      "Ariel",
+      "die Meerjungfrau"
+     ],
+     "answer": "Arielle"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Belle"
+    },
+    {
+     "altSpellings": [
+      "Jasmine"
+     ],
+     "answer": "Jasmin"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pocahontas"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mulan"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tiana"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118942",
+   "prompt": "eine der ersten neun Disney-Prinzessinnen"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Daenemark"
+     ],
+     "answer": "Dänemark"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Polen"
+    },
+    {
+     "altSpellings": [
+      "Tschechische Republik"
+     ],
+     "answer": "Tschechien"
+    },
+    {
+     "altSpellings": [
+      "Oesterreich"
+     ],
+     "answer": "Österreich"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Schweiz"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Frankreich"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Luxemburg"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Belgien"
+    },
+    {
+     "altSpellings": [
+      "Holland"
+     ],
+     "answer": "Niederlande"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "118943",
+   "prompt": "eines der neun Nachbarländer Deutschlands"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [
+      "Oesterreich"
+     ],
+     "answer": "Österreich"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Schweiz"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Liechtenstein"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Luxemburg"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Belgien"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "118944",
+   "prompt": "ein Land, in dem Deutsch landesweit Amts- oder Verwaltungssprache ist"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Afrika"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Asien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Europa"
+    },
+    {
+     "altSpellings": [
+      "Nord Amerika"
+     ],
+     "answer": "Nordamerika"
+    },
+    {
+     "altSpellings": [
+      "Suedamerika",
+      "Süd Amerika"
+     ],
+     "answer": "Südamerika"
+    },
+    {
+     "altSpellings": [
+      "Ozeanien"
+     ],
+     "answer": "Australien"
+    },
+    {
+     "altSpellings": [
+      "Antarktis"
+     ],
+     "answer": "Antarktika"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121370",
+   "prompt": "ein Kontinent"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Hertha",
+      "Hertha Berlin",
+      "Hertha BSC Berlin",
+      "Herta BSC"
+     ],
+     "answer": "Hertha BSC"
+    },
+    {
+     "altSpellings": [
+      "Stuttgart",
+      "VFB Stuttgart"
+     ],
+     "answer": "VfB Stuttgart"
+    },
+    {
+     "altSpellings": [
+      "1860 München",
+      "TSV München",
+      "München 1860",
+      "1860"
+     ],
+     "answer": "TSV 1860 München"
+    },
+    {
+     "altSpellings": [
+      "FC Nürnberg",
+      "Nürnberg",
+      "1 FC Nürnberg",
+      "1. FCN",
+      "FCN"
+     ],
+     "answer": "1. FC Nürnberg"
+    },
+    {
+     "altSpellings": [
+      "Karlsruhe",
+      "KSC"
+     ],
+     "answer": "Karlsruher SC"
+    },
+    {
+     "altSpellings": [
+      "Eintracht",
+      "Frankfurter Eintracht",
+      "SGE"
+     ],
+     "answer": "Eintracht Frankfurt"
+    },
+    {
+     "altSpellings": [
+      "FC Saarbrücken",
+      "Saarbrücken",
+      "1 FC Saarbrücken",
+      "FCS"
+     ],
+     "answer": "1. FC Saarbrücken"
+    },
+    {
+     "altSpellings": [
+      "FC Kaiserslautern",
+      "1 FC Kaiserslautern",
+      "Kaiserslautern",
+      "1. FCK",
+      "FCK"
+     ],
+     "answer": "1. FC Kaiserslautern"
+    },
+    {
+     "altSpellings": [
+      "Schalke 04",
+      "FC Schalke",
+      "Schalke",
+      "S04"
+     ],
+     "answer": "FC Schalke 04"
+    },
+    {
+     "altSpellings": [
+      "Preußen Münster",
+      "Preussen Münster",
+      "Preussen Muenster",
+      "Münster"
+     ],
+     "answer": "SC Preußen Münster"
+    },
+    {
+     "altSpellings": [
+      "Meiderich",
+      "MSV Duisburg",
+      "Duisburg",
+      "MSV"
+     ],
+     "answer": "Meidericher SV"
+    },
+    {
+     "altSpellings": [
+      "FC Köln",
+      "1 FC Köln",
+      "Köln",
+      "Effzeh"
+     ],
+     "answer": "1. FC Köln"
+    },
+    {
+     "altSpellings": [
+      "Dortmund",
+      "BVB",
+      "BVB 09",
+      "Borussia Dortmund 09"
+     ],
+     "answer": "Borussia Dortmund"
+    },
+    {
+     "altSpellings": [
+      "Hamburg",
+      "HSV"
+     ],
+     "answer": "Hamburger SV"
+    },
+    {
+     "altSpellings": [
+      "Bremen",
+      "SV Werder",
+      "Werder",
+      "SV Werder Bremen"
+     ],
+     "answer": "Werder Bremen"
+    },
+    {
+     "altSpellings": [
+      "Braunschweig",
+      "Eintracht BS"
+     ],
+     "answer": "Eintracht Braunschweig"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121371",
+   "prompt": "ein Gründungsmitglied der Fußball-Bundesliga"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Hydrogen",
+      "H"
+     ],
+     "answer": "Wasserstoff"
+    },
+    {
+     "altSpellings": [
+      "He"
+     ],
+     "answer": "Helium"
+    },
+    {
+     "altSpellings": [
+      "Li"
+     ],
+     "answer": "Lithium"
+    },
+    {
+     "altSpellings": [
+      "Be"
+     ],
+     "answer": "Beryllium"
+    },
+    {
+     "altSpellings": [
+      "Boron",
+      "B"
+     ],
+     "answer": "Bor"
+    },
+    {
+     "altSpellings": [
+      "Carbon",
+      "C"
+     ],
+     "answer": "Kohlenstoff"
+    },
+    {
+     "altSpellings": [
+      "Nitrogen",
+      "N"
+     ],
+     "answer": "Stickstoff"
+    },
+    {
+     "altSpellings": [
+      "Oxygen",
+      "O"
+     ],
+     "answer": "Sauerstoff"
+    },
+    {
+     "altSpellings": [
+      "Fluorine",
+      "F"
+     ],
+     "answer": "Fluor"
+    },
+    {
+     "altSpellings": [
+      "Ne"
+     ],
+     "answer": "Neon"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121372",
+   "prompt": "eines der ersten zehn Elemente des Periodensystems"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Mo",
+      "Mo."
+     ],
+     "answer": "Montag"
+    },
+    {
+     "altSpellings": [
+      "Di",
+      "Di."
+     ],
+     "answer": "Dienstag"
+    },
+    {
+     "altSpellings": [
+      "Mi",
+      "Mi."
+     ],
+     "answer": "Mittwoch"
+    },
+    {
+     "altSpellings": [
+      "Do",
+      "Do."
+     ],
+     "answer": "Donnerstag"
+    },
+    {
+     "altSpellings": [
+      "Fr",
+      "Fr."
+     ],
+     "answer": "Freitag"
+    },
+    {
+     "altSpellings": [
+      "Sonnabend",
+      "Sa",
+      "Sa."
+     ],
+     "answer": "Samstag"
+    },
+    {
+     "altSpellings": [
+      "So",
+      "So."
+     ],
+     "answer": "Sonntag"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121373",
+   "prompt": "ein Wochentag"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Argentina"
+     ],
+     "answer": "Argentinien"
+    },
+    {
+     "altSpellings": [
+      "Bolivia"
+     ],
+     "answer": "Bolivien"
+    },
+    {
+     "altSpellings": [
+      "Brazil",
+      "Brasil"
+     ],
+     "answer": "Brasilien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Chile"
+    },
+    {
+     "altSpellings": [
+      "Colombia"
+     ],
+     "answer": "Kolumbien"
+    },
+    {
+     "altSpellings": [
+      "Ekuador"
+     ],
+     "answer": "Ecuador"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Guyana"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Paraguay"
+    },
+    {
+     "altSpellings": [
+      "Perú"
+     ],
+     "answer": "Peru"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Suriname"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Uruguay"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Venezuela"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121374",
+   "prompt": "ein Land in Südamerika"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Auberginen"
+     ],
+     "answer": "Aubergine"
+    },
+    {
+     "altSpellings": [
+      "Zucchinis"
+     ],
+     "answer": "Zucchini"
+    },
+    {
+     "altSpellings": [
+      "Paprikaschote"
+     ],
+     "answer": "Paprika"
+    },
+    {
+     "altSpellings": [
+      "Tomaten"
+     ],
+     "answer": "Tomate"
+    },
+    {
+     "altSpellings": [
+      "Zwiebeln"
+     ],
+     "answer": "Zwiebel"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Knoblauch"
+    },
+    {
+     "altSpellings": [
+      "Olivenoel"
+     ],
+     "answer": "Olivenöl"
+    },
+    {
+     "altSpellings": [
+      "Kraeuter der Provence",
+      "Kräuter"
+     ],
+     "answer": "Kräuter der Provence"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Thymian"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Rosmarin"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Basilikum"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Salz"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Pfeffer"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121375",
+   "prompt": "eine typische Zutat in Ratatouille"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Gandalf der Graue",
+      "Gandalf der Weiße"
+     ],
+     "answer": "Gandalf"
+    },
+    {
+     "altSpellings": [
+      "Frodo Beutlin",
+      "Frodo Baggins"
+     ],
+     "answer": "Frodo"
+    },
+    {
+     "altSpellings": [
+      "Samweis",
+      "Samweis Gamdschie",
+      "Samwise Gamgee"
+     ],
+     "answer": "Sam"
+    },
+    {
+     "altSpellings": [
+      "Streicher",
+      "Strider"
+     ],
+     "answer": "Aragorn"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Legolas"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gimli"
+    },
+    {
+     "altSpellings": [
+      "Peregrin Tuk",
+      "Peregrin Took"
+     ],
+     "answer": "Pippin"
+    },
+    {
+     "altSpellings": [
+      "Meriadoc Brandybock",
+      "Meriadoc Brandybuck"
+     ],
+     "answer": "Merry"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Boromir"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121376",
+   "prompt": "ein Mitglied der Gemeinschaft des Rings"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Mercury"
+     ],
+     "answer": "Merkur"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Venus"
+    },
+    {
+     "altSpellings": [
+      "Earth"
+     ],
+     "answer": "Erde"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mars"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Jupiter"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Saturn"
+    },
+    {
+     "altSpellings": [
+      "Neptune"
+     ],
+     "answer": "Neptun"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Uranus"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121377",
+   "prompt": "ein Planet unseres Sonnensystems"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Koenig"
+     ],
+     "answer": "König"
+    },
+    {
+     "altSpellings": [
+      "Königin",
+      "Koenigin"
+     ],
+     "answer": "Dame"
+    },
+    {
+     "altSpellings": [
+      "Roch"
+     ],
+     "answer": "Turm"
+    },
+    {
+     "altSpellings": [
+      "Laeufer"
+     ],
+     "answer": "Läufer"
+    },
+    {
+     "altSpellings": [
+      "Pferd",
+      "Pferdchen"
+     ],
+     "answer": "Springer"
+    },
+    {
+     "altSpellings": [
+      "Bauern"
+     ],
+     "answer": "Bauer"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121378",
+   "prompt": "eine Schachfigur"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Heuss"
+     ],
+     "answer": "Theodor Heuss"
+    },
+    {
+     "altSpellings": [
+      "Heinrich Luebke",
+      "Lübke",
+      "Luebke"
+     ],
+     "answer": "Heinrich Lübke"
+    },
+    {
+     "altSpellings": [
+      "Heinemann"
+     ],
+     "answer": "Gustav Heinemann"
+    },
+    {
+     "altSpellings": [
+      "Scheel"
+     ],
+     "answer": "Walter Scheel"
+    },
+    {
+     "altSpellings": [
+      "Carstens"
+     ],
+     "answer": "Karl Carstens"
+    },
+    {
+     "altSpellings": [
+      "Richard von Weizsaecker",
+      "Weizsäcker",
+      "Weizsaecker"
+     ],
+     "answer": "Richard von Weizsäcker"
+    },
+    {
+     "altSpellings": [
+      "Herzog"
+     ],
+     "answer": "Roman Herzog"
+    },
+    {
+     "altSpellings": [
+      "Rau"
+     ],
+     "answer": "Johannes Rau"
+    },
+    {
+     "altSpellings": [
+      "Köhler"
+     ],
+     "answer": "Horst Köhler"
+    },
+    {
+     "altSpellings": [
+      "Wulff"
+     ],
+     "answer": "Christian Wulff"
+    },
+    {
+     "altSpellings": [
+      "Gauck"
+     ],
+     "answer": "Joachim Gauck"
+    }
+   ],
+   "category": "NORMAL",
+   "countrySpecific": true,
+   "id": "121379",
+   "prompt": "ein deutscher Bundespräsident vor Frank-Walter Steinmeier"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Esel"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hund"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Katze"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hahn"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121764",
+   "prompt": "eines der vier Bremer Stadtmusikanten"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "der Nil"
+     ],
+     "answer": "Nil"
+    },
+    {
+     "altSpellings": [
+      "der Amazonas"
+     ],
+     "answer": "Amazonas"
+    },
+    {
+     "altSpellings": [
+      "Jangtse",
+      "Yangtze",
+      "Yangtze River"
+     ],
+     "answer": "Jangtsekiang"
+    },
+    {
+     "altSpellings": [
+      "Mississippi River"
+     ],
+     "answer": "Mississippi"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121765",
+   "prompt": "einer der vier längsten Flüsse der Welt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Albatross",
+      "Double Eagle"
+     ],
+     "answer": "Albatros"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Eagle"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Birdie"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Par"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bogey"
+    },
+    {
+     "altSpellings": [
+      "Double-Bogey"
+     ],
+     "answer": "Double Bogey"
+    },
+    {
+     "altSpellings": [
+      "Triple-Bogey"
+     ],
+     "answer": "Triple Bogey"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121766",
+   "prompt": "eine Bezeichnung für ein Lochergebnis beim Golf"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "eins",
+      "1"
+     ],
+     "answer": "eines"
+    },
+    {
+     "altSpellings": [],
+     "answer": "dieser"
+    },
+    {
+     "altSpellings": [
+      "fuenf",
+      "5"
+     ],
+     "answer": "fünf"
+    },
+    {
+     "altSpellings": [
+      "toll"
+     ],
+     "answer": "tollen"
+    },
+    {
+     "altSpellings": [
+      "Woerter",
+      "Worten"
+     ],
+     "answer": "Wörter"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121767",
+   "prompt": "eines dieser fünf tollen Wörter"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Rachel Green",
+      "Rachael"
+     ],
+     "answer": "Rachel"
+    },
+    {
+     "altSpellings": [
+      "Monica Geller",
+      "Monika"
+     ],
+     "answer": "Monica"
+    },
+    {
+     "altSpellings": [
+      "Phoebe Buffay"
+     ],
+     "answer": "Phoebe"
+    },
+    {
+     "altSpellings": [
+      "Joey Tribbiani",
+      "Joseph Tribbiani"
+     ],
+     "answer": "Joey"
+    },
+    {
+     "altSpellings": [
+      "Chandler Bing"
+     ],
+     "answer": "Chandler"
+    },
+    {
+     "altSpellings": [
+      "Ross Geller"
+     ],
+     "answer": "Ross"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121768",
+   "prompt": "einer der sechs Freunde aus [i]Friends[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Rot"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gelb"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Grün"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Weiß"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Blau"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Orange"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121769",
+   "prompt": "eine Farbe des ursprünglichen Zauberwürfels"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Rindfleisch-Patty",
+      "Patty",
+      "Fleisch"
+     ],
+     "answer": "Rindfleisch"
+    },
+    {
+     "altSpellings": [
+      "Big Mac Sauce",
+      "Sauce",
+      "Spezialsauce"
+     ],
+     "answer": "Big-Mac-Sauce"
+    },
+    {
+     "altSpellings": [
+      "Eisbergsalat"
+     ],
+     "answer": "Salat"
+    },
+    {
+     "altSpellings": [
+      "Kaese",
+      "Schmelzkäse"
+     ],
+     "answer": "Käse"
+    },
+    {
+     "altSpellings": [
+      "Gewuerzgurken",
+      "Gurke",
+      "Gurken"
+     ],
+     "answer": "Gewürzgurken"
+    },
+    {
+     "altSpellings": [
+      "Zwiebel"
+     ],
+     "answer": "Zwiebeln"
+    },
+    {
+     "altSpellings": [
+      "Broetchen",
+      "Sesambrötchen",
+      "Bun"
+     ],
+     "answer": "Brötchen"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121770",
+   "prompt": "eine Zutat eines Big Mac"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Stolz",
+      "Eitelkeit"
+     ],
+     "answer": "Hochmut"
+    },
+    {
+     "altSpellings": [
+      "Eifersucht"
+     ],
+     "answer": "Neid"
+    },
+    {
+     "altSpellings": [
+      "Voellerei",
+      "Maßlosigkeit"
+     ],
+     "answer": "Völlerei"
+    },
+    {
+     "altSpellings": [
+      "Lust"
+     ],
+     "answer": "Wollust"
+    },
+    {
+     "altSpellings": [
+      "Wut"
+     ],
+     "answer": "Zorn"
+    },
+    {
+     "altSpellings": [
+      "Gier",
+      "Geiz"
+     ],
+     "answer": "Habgier"
+    },
+    {
+     "altSpellings": [
+      "Traegheit",
+      "Faulheit"
+     ],
+     "answer": "Trägheit"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121771",
+   "prompt": "eine der sieben Todsünden"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Rot"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Orange"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Gelb"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Grün"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Blau"
+    },
+    {
+     "altSpellings": [
+      "Violett"
+     ],
+     "answer": "Violet"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121772",
+   "prompt": "eine der sechs Farben des Spektrums des sichtbaren Lichts"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "A"
+    },
+    {
+     "altSpellings": [],
+     "answer": "B"
+    },
+    {
+     "altSpellings": [],
+     "answer": "C"
+    },
+    {
+     "altSpellings": [],
+     "answer": "D"
+    },
+    {
+     "altSpellings": [],
+     "answer": "E"
+    },
+    {
+     "altSpellings": [],
+     "answer": "F"
+    },
+    {
+     "altSpellings": [],
+     "answer": "G"
+    },
+    {
+     "altSpellings": [],
+     "answer": "H"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121773",
+   "prompt": "einer der ersten acht Buchstaben des Alphabets"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "vergangen"
+     ],
+     "answer": "Vergangenheit"
+    },
+    {
+     "altSpellings": [
+      "Präsens",
+      "Praesens"
+     ],
+     "answer": "Gegenwart"
+    },
+    {
+     "altSpellings": [
+      "Futur"
+     ],
+     "answer": "Zukunft"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121774",
+   "prompt": "Vergangenheit, Gegenwart oder Zukunft"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "fünf",
+      "fuenf"
+     ],
+     "answer": "5"
+    },
+    {
+     "altSpellings": [
+      "sieben"
+     ],
+     "answer": "7"
+    },
+    {
+     "altSpellings": [
+      "neun"
+     ],
+     "answer": "9"
+    }
+   ],
+   "category": "NORMAL",
+   "id": "121775",
+   "prompt": "eine ungerade Zahl zwischen 4 und 10"
+  }
+ ]
+}
