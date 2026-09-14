@@ -22809,25 +22809,25 @@
       "choices": [
         {
           "correct": false,
-          "text": "Champagner"
+          "text": "helles Weizen"
         },
         {
           "correct": false,
-          "text": "Chilipulver"
+          "text": "dunkles Weizen"
         },
         {
           "correct": true,
-          "text": "Fruchtlimonade"
+          "text": "helles Vollbier"
         },
         {
           "correct": false,
-          "text": "Milch"
+          "text": "Pils"
         }
       ],
       "difficulty": "NORMAL",
       "id": "108561",
       "outro": "",
-      "question": "Was mischt man für ein Radler ins Bier?",
+      "question": "Welches Bier nutzt man für das Biermischgetränk „Radler“?",
       "x": true
     },
     {
@@ -23879,20 +23879,20 @@
     {
       "choices": [
         {
+          "correct": false,
+          "text": "Was"
+        },
+        {
+          "correct": false,
+          "text": "ist grammatisch gesehen"
+        },
+        {
           "correct": true,
-          "text": "was"
+          "text": "das Subjekt dieser Frage"
         },
         {
           "correct": false,
-          "text": "grammatisch gesehen"
-        },
-        {
-          "correct": false,
-          "text": "Subjekt"
-        },
-        {
-          "correct": false,
-          "text": "dieser Frage"
+          "text": "?"
         }
       ],
       "difficulty": "NORMAL",
@@ -26603,25 +26603,25 @@
       "choices": [
         {
           "correct": false,
-          "text": "10.000 Kilobyte Seacrest"
+          "text": "10.000 Kilobyte Schweiger"
         },
         {
           "correct": true,
-          "text": "1.000 Gigabyte Seacrest"
+          "text": "1.000 Gigabyte Schweiger"
         },
         {
           "correct": false,
-          "text": "100 Megabyte Seacrest"
+          "text": "100 Megabyte Schweiger"
         },
         {
           "correct": false,
-          "text": "10 Byte Seacrest"
+          "text": "10 Byte Schweiger"
         }
       ],
       "difficulty": "NORMAL",
       "id": "109599",
       "outro": "",
-      "question": "Wie viel sind ein Terabyte voller Ryan-Seacrest-Bilder?"
+      "question": "Wie viel sind ein Terabyte voller „Til Schweiger“-Bilder?"
     },
     {
       "choices": [
@@ -28164,7 +28164,7 @@
         },
         {
           "correct": false,
-          "text": "Kenan Thompson kommt zu [i]SNL[/i]"
+          "text": "Klassifierung Plutos als Zwergplanet"
         },
         {
           "correct": true,
@@ -28172,7 +28172,7 @@
         },
         {
           "correct": false,
-          "text": "Napster wird abgeschaltet"
+          "text": "Start von Facebook"
         }
       ],
       "difficulty": "NORMAL",
