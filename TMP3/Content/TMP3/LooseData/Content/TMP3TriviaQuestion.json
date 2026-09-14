@@ -7996,7 +7996,7 @@
       "difficulty": "NORMAL",
       "id": "106274",
       "outro": "",
-      "question": "Wo finde ich dein Schulterblatt?"
+      "question": "Wo finde ich deine „Scapula“?"
     },
     {
       "choices": [
@@ -11443,7 +11443,7 @@
           "text": "die Mutter"
         }
       ],
-      "difficulty": "HARD",
+      "difficulty": "NORMAL",
       "id": "106545",
       "outro": "",
       "question": "Welche Figur kommt in Goethes Ballade [i]Erlkönig[/i] NICHT vor?"
@@ -11475,26 +11475,26 @@
     {
       "choices": [
         {
-          "correct": false,
+          "correct": true,
           "text": "Zinn"
         },
         {
-          "correct": true,
+          "correct": false,
           "text": "Wolfram"
         },
         {
           "correct": false,
-          "text": "Antimon"
+          "text": "Selenium"
         },
         {
           "correct": false,
-          "text": "Gold"
+          "text": "Seaborgium"
         }
       ],
       "difficulty": "NORMAL",
       "id": "106548",
       "outro": "",
-      "question": "Welches Element trägt im Periodensystem das Symbol W?"
+      "question": "Welches Element trägt im Periodensystem das Symbol Sn?"
     },
     {
       "choices": [
@@ -14227,22 +14227,22 @@
       "choices": [
         {
           "correct": false,
-          "text": "Patrick"
+          "text": "Robert"
         },
         {
           "correct": false,
-          "text": "Thaddäus"
+          "text": "Ralf"
         },
         {
           "correct": false,
-          "text": "Sandy"
+          "text": "Otto"
         },
         {
           "correct": true,
           "text": "Gary"
         }
       ],
-      "difficulty": "HARD",
+      "difficulty": "EASY",
       "id": "106954",
       "outro": "",
       "question": "Wie heißt SpongeBobs Haustierschnecke?"
@@ -17419,7 +17419,7 @@
       "difficulty": "NORMAL",
       "id": "107302",
       "outro": "",
-      "question": "Welches davon ist ein offizielles Emoji?"
+      "question": "Welches davon ist ein offizielles Emoji? (Stand 2026)"
     },
     {
       "choices": [
@@ -17865,11 +17865,11 @@
       "choices": [
         {
           "correct": false,
-          "text": "Dreckiger Dan"
+          "text": "Krustenburger"
         },
         {
           "correct": false,
-          "text": "Ranch-Burger"
+          "text": "Langustenburger"
         },
         {
           "correct": true,
@@ -17877,14 +17877,14 @@
         },
         {
           "correct": false,
-          "text": "Herzchenburger"
+          "text": "Hummerburger"
         }
       ],
       "countrySpecific": true,
       "difficulty": "NORMAL",
       "id": "107398",
       "outro": "",
-      "question": "Wie heißt der Burger, den SpongeBob in der Krossen Krabbe brät?"
+      "question": "Wie heißt der Burger den SpongeBob üblicherweise zubereitet?"
     },
     {
       "choices": [
@@ -18233,7 +18233,7 @@
       "choices": [
         {
           "correct": false,
-          "text": "„Suppe für alle“"
+          "text": "„Würzige Suppen nur mit Maggi-Magie“"
         },
         {
           "correct": true,
@@ -18241,11 +18241,11 @@
         },
         {
           "correct": false,
-          "text": "„Mmm ... das ist Suppe“"
+          "text": "„Ein feiner Tropfen Geschmack“"
         },
         {
           "correct": false,
-          "text": "„Jetzt ist Suppenzeit“"
+          "text": "„Maggi mag i“"
         }
       ],
       "difficulty": "NORMAL",
