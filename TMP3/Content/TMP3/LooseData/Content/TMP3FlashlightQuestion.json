@@ -320,25 +320,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Britney Spears"
+     "text": "Leatherface"
     },
     {
      "correct": false,
-     "text": "Madonna"
-    },
-    {
-     "correct": false,
-     "text": "Katy Perry"
+     "text": "Chainsaw Man"
     },
     {
      "correct": true,
-     "text": "Dua Lipa"
+     "text": "Freddy Krueger"
+    },
+    {
+     "correct": false,
+     "text": "Das Sandmännchen"
     }
    ],
    "id": "114725",
    "intro": "",
    "outro": "",
-   "question": "Welche britische Popsängerin ist häufig in der [i]Vogue[/i] zu sehen?"
+   "question": "Welcher nicht so ganz Kettensägenmann sucht andere in ihre Träumen heim?"
   },
   {
    "choices": [
@@ -416,7 +416,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "Zitrone"
+     "text": "Tulpenfrucht"
     },
     {
      "correct": true,
@@ -434,7 +434,7 @@
    "id": "114730",
    "intro": "",
    "outro": "",
-   "question": "Welche Frucht hat dieselbe Farbe wie ein Basketball?"
+   "question": "Welche Frucht hat dieselbe Farbe wie die Trikots der Niederlande?"
   },
   {
    "choices": [
@@ -634,43 +634,43 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]Cats[/i]"
+     "text": "[i]Word Spud[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Les Misérables[/i]"
+     "text": "[i]Survive the Internet[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Book of Mormon[/i]"
+     "text": "[i]Gartic Phone[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Das Phantom der Oper[/i]"
+     "text": "[i]Job Job[/i]"
     }
    ],
    "id": "116150",
    "intro": "",
    "outro": "",
-   "question": "Welches Musical handelt von den Elenden – und von Katzen in einem Opernhaus?"
+   "question": "In welchem Internet-Partyspiel-Klassiker sollte man lügen, um einen Job zu bekommen?"
   },
   {
    "choices": [
     {
-     "correct": true,
+     "correct": false,
      "text": "Bremen"
     },
     {
-     "correct": false,
+     "correct": true,
      "text": "Hessen"
     },
     {
      "correct": false,
-     "text": "Thüringen"
+     "text": "Bayer"
     },
     {
      "correct": false,
-     "text": "Sachsen"
+     "text": "Österreich"
     }
    ],
    "countrySpecific": true,
@@ -678,7 +678,7 @@
    "id": "116151",
    "intro": "",
    "outro": "",
-   "question": "Welches dieser Bundesländer ist zugleich eine Stadt?"
+   "question": "Moin moin, Servus und Grüß Gott! Wo sagt man bitte Gude"
   },
   {
    "choices": [
@@ -1045,25 +1045,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "„Bad Romance“"
+     "text": "„Shigeru Miyamoto“"
+    },
+    {
+     "correct": false,
+     "text": "Max Giermann"
     },
     {
      "correct": true,
-     "text": "Aretha Franklin"
+     "text": "Takeo Ischi"
     },
     {
      "correct": false,
-     "text": "„Poker Face“"
-    },
-    {
-     "correct": false,
-     "text": "Tina Turner"
+     "text": "Giovanni Zarrella"
     }
    ],
    "id": "116234",
    "intro": "",
    "outro": "",
-   "question": "Lady Gaga sang nicht „Respect“ ... aber wer war es dann?"
+   "question": "Wie hieß noch gleich dieser Italiener, ääh ich meine Japaner, der so gerne Hühner immitiert?"
   },
   {
    "choices": [
@@ -1233,7 +1233,7 @@
    "id": "116246",
    "intro": "",
    "outro": "",
-   "question": "Welcher Maler schnitt sich 1888 nicht sein eigenes linkes Ohr ab?"
+   "question": "Welcher Maler lebte um 1888 und schnitt sich nicht sein eigenes linkes Ohr ab?"
   },
   {
    "choices": [
@@ -1299,13 +1299,13 @@
     },
     {
      "correct": false,
-     "text": "Kabul"
+     "text": "Angola"
     }
    ],
    "id": "116252",
    "intro": "",
    "outro": "",
-   "question": "Welche Stadt ist die Hauptstadt des Landes, das mit A beginnt?"
+   "question": "Welche Stadt ist die Hauptstadt von einem Land, das mit A beginnt?"
   },
   {
    "choices": [
@@ -1481,25 +1481,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Anne Hathaway"
+     "text": "High Card"
     },
     {
      "correct": false,
-     "text": "William Shakespeare"
+     "text": "Full House"
+    },
+    {
+     "correct": false,
+     "text": "Black Jack"
     },
     {
      "correct": true,
-     "text": "Taylor Swift"
-    },
-    {
-     "correct": false,
-     "text": "Olivia Rodrigo"
+     "text": "Flush"
     }
    ],
    "id": "116744",
    "intro": "",
    "outro": "",
-   "question": "Romeo und Julia tauchen in „Love Story“ auf – von welcher großen Dichterin?"
+   "question": "Welche Hand sollte ich mit 2 Buben und 5 Karten mit Pik spielen? Ich habe insgesamt 21 Karten hier liegen."
   },
   {
    "choices": [
@@ -1625,25 +1625,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "Addison Rae"
+     "text": "Udo Lindenberg"
     },
     {
      "correct": false,
-     "text": "Charli XCX"
+     "text": "Mark Forster"
     },
     {
      "correct": false,
-     "text": "Lana Del Rey"
+     "text": "Apache 207"
     },
     {
      "correct": false,
-     "text": "Tate McRae"
+     "text": "1971"
     }
    ],
    "id": "116785",
    "intro": "",
    "outro": "",
-   "question": "Nach wem ist Addison Raes selbstbetiteltes Debütalbum benannt?"
+   "question": "Nach wem ist Udo Lindenbergs selbstbetiteltes Debütalbum benannt?"
   },
   {
    "choices": [
@@ -1721,25 +1721,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Jackson Pollock"
+     "text": "Pablo Picasso"
     },
     {
      "correct": false,
-     "text": "Madonna"
+     "text": "Claude Monet"
     },
     {
      "correct": true,
-     "text": "Andy Warhol"
+     "text": "Bob Ross"
     },
     {
      "correct": false,
-     "text": "Stevie Nicks"
+     "text": "Vincent van Gogh"
     }
    ],
    "id": "116791",
    "intro": "",
    "outro": "",
-   "question": "Welcher Künstler wurde als Ikone der Pop-Art weltberühmt?"
+   "question": "Wer hatte immer besondern Spaß an der Ölmalerei, kam aber nicht aus Spanien?"
   },
   {
    "choices": [
@@ -1749,7 +1749,7 @@
     },
     {
      "correct": false,
-     "text": "Nena"
+     "text": "Patrick Star"
     },
     {
      "correct": false,
@@ -1763,7 +1763,7 @@
    "id": "117192",
    "intro": "",
    "outro": "",
-   "question": "Wer sang den Hit „3 Uhr Nachts“?"
+   "question": "Wer sang den Hit „3 Uhr Nachts“, aber nicht um 3 Uhr morgens?"
   },
   {
    "choices": [
