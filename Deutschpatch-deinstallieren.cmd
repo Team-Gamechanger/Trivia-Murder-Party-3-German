@@ -27,6 +27,7 @@ choice /C JN /N /M "Deutschpatch jetzt deinstallieren? [J/N] "
 if errorlevel 2 exit /b 0
 
 del /F /Q "%GAME_DIR%config.dat" >nul 2>&1
+del /F /Q "%GAME_DIR%Deutschpatch-installieren.ps1" >nul 2>&1
 del /F /Q "%GAME_DIR%TMP3\Config\Windows\WindowsGame.ini" >nul 2>&1
 del /F /Q "%GAME_DIR%TMP3\Content\Paks\TMP3-German*" >nul 2>&1
 rd /S /Q "%GAME_DIR%TMP3\Content\Localization\Game\de" >nul 2>&1
