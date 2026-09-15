@@ -256,6 +256,60 @@
      "value": [
      "Erzielt ein sicherer Spieler mehr Punkte als ihr, sterbt ihr."
      ]
+    },
+    {
+     "textKey": "TUT_FLASHLIGHT_0",
+     "value": [
+     "Trivia wird jetzt im Dunkeln gespielt. Ich gebe jedem von euch eine Taschenlampe."
+     ]
+    },
+    {
+     "textKey": "TUT_FLASHLIGHT_1",
+     "value": [
+     "Aber es gibt einen Haken: Sobald ihr sie einschaltet, könnt ihr sie nicht mehr bewegen."
+     ]
+    },
+    {
+     "textKey": "TUT_FLASHLIGHT_2",
+     "value": [
+     "Stimmt euch also gut ab, sonst seht ihr wichtige Teile der Frage nicht. Und das wäre doch schade!"
+     ]
+    },
+    {
+     "textKey": "TUT_TRUNKS_0",
+     "value": [
+     "Jeder sichere Spieler hat eine Bombenform, die er heimlich auf einem Kofferraster platziert."
+     ]
+    },
+    {
+     "textKey": "TUT_TRUNKS_1",
+     "value": [
+     "Jeder gefährdete Spieler wählt einen Koffer als Versteck."
+     ]
+    },
+    {
+     "textKey": "TUT_TRUNKS_2",
+     "value": [
+     "Wird euer Koffer getroffen, sterbt ihr."
+     ]
+    },
+    {
+     "textKey": "TUT_PASSWORDS_0",
+     "value": [
+     "Jeder gefährdete Spieler erstellt ein Passwort aus einem echten Wort mit fünf Buchstaben."
+     ]
+    },
+    {
+     "textKey": "TUT_PASSWORDS_1",
+     "value": [
+     "Die sicheren Spieler versuchen, euer Passwort zu knacken."
+     ]
+    },
+    {
+     "textKey": "TUT_PASSWORDS_2",
+     "value": [
+     "Wenn sie erfolgreich sind, sterbt ihr."
+     ]
     }
    ]
   }
