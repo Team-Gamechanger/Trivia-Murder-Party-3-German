@@ -660,25 +660,25 @@
       "choices": [
         {
           "correct": false,
-          "text": "[i]Poor Things[/i]"
+          "text": "Christian Sievers"
         },
         {
           "correct": false,
-          "text": "[i]Dogtooth[/i]"
+          "text": "Harald Lesch"
         },
         {
           "correct": true,
-          "text": "[i]Der schwarze Diamant[/i]"
+          "text": "Horst Lichter"
         },
         {
           "correct": false,
-          "text": "[i]The Lobster[/i]"
+          "text": "Elton John"
         }
       ],
       "difficulty": "NORMAL",
       "id": "104594",
       "outro": "",
-      "question": "Welcher Film ist NICHT von Yorgos Lanthimos?"
+      "question": "Wer moderiert die ZDF-Trödelshow [i]Bares für Rares[/i]?"
     },
     {
       "choices": [
@@ -756,25 +756,25 @@
       "choices": [
         {
           "correct": true,
-          "text": "Bruce Springsteen"
+          "text": "YOLO"
         },
         {
           "correct": false,
-          "text": "Sylvester Stallone"
+          "text": "Digga"
         },
         {
           "correct": false,
-          "text": "Jodie Foster"
+          "text": "Gammelfleischparty"
         },
         {
           "correct": false,
-          "text": "Elton John"
+          "text": "I bims"
         }
       ],
       "difficulty": "NORMAL",
       "id": "104604",
       "outro": "",
-      "question": "Welcher Promi sprang 1976 über die Mauer von Graceland, weil er Elvis treffen wollte?"
+      "question": "Was wurde zum Jugendwort des Jahres 2012 gewählt?"
     },
     {
       "choices": [
@@ -900,80 +900,73 @@
       "choices": [
         {
           "correct": true,
-          "text": "Francis Ford Coppola"
+          "text": "Susanne Daubner"
         },
         {
           "correct": false,
-          "text": "Kirk Douglas"
+          "text": "Jan Böhmermann"
         },
         {
           "correct": false,
-          "text": "Stanley Kubrick"
+          "text": "Barbara Schöneberger"
         },
         {
           "correct": false,
-          "text": "Luca Guadagnino"
+          "text": "Thomas Gottschalk"
         }
       ],
       "difficulty": "NORMAL",
       "id": "104612",
       "outro": "",
-      "question": "Wer ist der berühmte Onkel von Nicolas Cage?"
+      "question": "Wer trägt die Kandidaten für das „Jugendwort des Jahres“ vor?"
     },
     {
       "choices": [
         {
           "correct": false,
-          "text": "UPS und FedEx"
-        },
-        {
-          "correct": false,
-          "text": "Hasbro und Mattel"
-        },
-        {
-          "correct": false,
-          "text": "Frank’s RedHot und Tabasco"
+          "text": "45"
         },
         {
           "correct": true,
-          "text": "Adidas und Puma"
+          "text": "88"
+        },
+        {
+          "correct": false,
+          "text": "112"
+        },
+        {
+          "correct": false,
+          "text": "133"
         }
       ],
       "difficulty": "HARD",
       "id": "104613",
       "outro": "",
-      "question": "Welche Konkurrenzmarken wurden von zwei zerstrittenen Brüdern gegründet?"
+      "question": "Wie viel Liter Bier wurden 2024 in Deutschland pro Kopf getrunken?"
     },
     {
       "choices": [
         {
           "correct": false,
-          "text": "Diamanten"
+          "text": "Queen"
         },
         {
           "correct": true,
-          "text": "Goldbarren"
+          "text": "WHAM!"
         },
         {
           "correct": false,
-          "text": "Bargeld"
+          "text": "Bing Crosby"
         },
         {
           "correct": false,
-          "text": "dem Papamobil"
+          "text": "Paul McCartney"
         }
       ],
       "difficulty": "NORMAL",
       "id": "104616",
-      "intro": {
-        "versions": [
-          {
-            "subtitle": "The heist so nice they made it twice!"
-          }
-        ]
-      },
       "outro": "",
-      "question": "Hinter was sind sie in [i]The Italian Job[/i] her?"
+      "question": "Wer hat den Kultklassiker „Last Christmas“ gesungen?"
     },
     {
       "choices": [
@@ -1051,49 +1044,49 @@
       "choices": [
         {
           "correct": false,
-          "text": "Wimmelbücher"
+          "text": "Argentinien"
+        },
+        {
+          "correct": false,
+          "text": "Island"
         },
         {
           "correct": true,
-          "text": "Pop-up-Bücher"
+          "text": "Laos"
         },
         {
           "correct": false,
-          "text": "Leporellos"
-        },
-        {
-          "correct": false,
-          "text": "Daumenkinos"
+          "text": "Zypern"
         }
       ],
       "difficulty": "NORMAL",
       "id": "104654",
       "outro": "",
-      "question": "Wie heißen Bücher, bei denen sich beim Aufschlagen Papierkulissen aufrichten?"
+      "question": "In welches Land darf man als deutscher Staatsbürger NICHT visafrei einreisen?"
     },
     {
       "choices": [
         {
+          "correct": false,
+          "text": "AstraZeneca"
+        },
+        {
+          "correct": false,
+          "text": "BioNTech"
+        },
+        {
           "correct": true,
-          "text": "Bild-Lilli"
+          "text": "Johny & Jonson"
         },
         {
           "correct": false,
-          "text": "Baby Born"
-        },
-        {
-          "correct": false,
-          "text": "eine Käthe-Kruse-Puppe"
-        },
-        {
-          "correct": false,
-          "text": "Monchhichi"
+          "text": "Moderna"
         }
       ],
       "difficulty": "NORMAL",
       "id": "104655",
       "outro": "",
-      "question": "Welche deutsche Puppe kam 1955 auf den Markt und wurde zum Vorbild für Barbie?"
+      "question": "Was ist KEIN Hersteller eines Corona-Impfstoff?"
     },
     {
       "choices": [
@@ -1123,25 +1116,25 @@
       "choices": [
         {
           "correct": false,
-          "text": "ein Fahrrad"
+          "text": "Dner"
         },
         {
           "correct": true,
-          "text": "Einkaufstüten"
+          "text": "Paluten"
         },
         {
           "correct": false,
-          "text": "ein Protestschild"
+          "text": "Rewinside"
         },
         {
-          "correct": false,
-          "text": "ein Kleinkind"
+          "correct": true,
+          "text": "Zombey"
         }
       ],
       "difficulty": "HARD",
       "id": "104661",
       "outro": "",
-      "question": "Was trägt der Mann auf dem berühmten Foto [i]Tank Man[/i] bei sich, während er sich den Panzern auf dem Tian’anmen-Platz entgegenstellt?"
+      "question": "Welcher YouTuber hat NICHT im deutschen „YouTuber-Haus“ gelebt?"
     },
     {
       "choices": [
@@ -1194,26 +1187,26 @@
     {
       "choices": [
         {
+          "correct": false,
+          "text": "Deutschland"
+        },
+        {
+          "correct": false,
+          "text": "England"
+        },
+        {
+          "correct": false,
+          "text": "Frankreich"
+        },
+        {
           "correct": true,
-          "text": "Silly Putty"
-        },
-        {
-          "correct": false,
-          "text": "Pflaster"
-        },
-        {
-          "correct": false,
-          "text": "Klettband"
-        },
-        {
-          "correct": false,
-          "text": "Wimpernkleber"
+          "text": "Spanien"
         }
       ],
       "difficulty": "NORMAL",
       "id": "104668",
       "outro": "",
-      "question": "Womit befestigten die Astronauten von Apollo 8 ihre Werkzeuge in der Schwerelosigkeit?"
+      "question": "Wer hat die Fussball-Weltmeisterschaft 2026 gewonnen?"
     },
     {
       "choices": [
@@ -1322,25 +1315,25 @@
       "choices": [
         {
           "correct": true,
-          "text": "[i]Inside Man[/i]"
+          "text": "CDU"
         },
         {
           "correct": false,
-          "text": "[i]Ocean’s Twelve[/i]"
+          "text": "Die Linke"
         },
         {
           "correct": false,
-          "text": "[i]Game Night[/i]"
+          "text": "FDP"
         },
         {
           "correct": false,
-          "text": "[i]Zwischen zwei Farnen: Der Film[/i]"
+          "text": "SPD"
         }
       ],
-      "difficulty": "NORMAL",
+      "difficulty": "HARD",
       "id": "104776",
       "outro": "",
-      "question": "Bei welchem Film geht es NICHT darum, ein Fabergé-Ei zu stehlen?"
+      "question": "Welcher Partei gehörte der erste Bundespräsident Deutschlands an?"
     },
     {
       "choices": [
