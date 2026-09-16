@@ -2206,15 +2206,15 @@
    "choices": [
     {
      "correct": false,
-     "text": "Aurora"
+     "text": "Ariel"
     },
     {
      "correct": false,
-     "text": "Belle"
+     "text": "Minie Maus"
     },
     {
      "correct": false,
-     "text": "Tiana"
+     "text": "Rapunzel"
     },
     {
      "correct": true,
@@ -2278,15 +2278,15 @@
    "choices": [
     {
      "correct": false,
-     "text": "USA"
+     "text": "Bangladesch"
     },
     {
      "correct": false,
-     "text": "Indien"
+     "text": "Italien"
     },
     {
      "correct": true,
-     "text": "Kanada"
+     "text": "Frankreich"
     },
     {
      "correct": false,
@@ -2296,7 +2296,7 @@
    "id": "117358",
    "intro": "",
    "outro": "",
-   "question": "Justin Trudeau – woher kommt der noch gleich? Weiß das jemand? Hmmmmmm?"
+   "question": "Emmanuel Macron – woher kommt der noch gleich? Weiß das jemand? Hmmmmmm?"
   },
   {
    "choices": [
@@ -2382,11 +2382,11 @@
     },
     {
      "correct": false,
-     "text": "[i]Rent[/i]"
+     "text": "[i]mieten, kaufen, wohnen[/i]"
     },
     {
      "correct": false,
-     "text": "Jonathan Larson"
+     "text": "Tine Wittler"
     }
    ],
    "id": "117364",
@@ -2422,51 +2422,51 @@
    "choices": [
     {
      "correct": false,
-     "text": "Tony der Tiger"
+     "text": "[i]IKEA[/i]"
     },
     {
      "correct": false,
-     "text": "Michelin-Männchen"
+     "text": "[i]Media Markt[/i]"
     },
     {
      "correct": true,
-     "text": "Clippy"
+     "text": "[i]UHU[/i]"
     },
     {
      "correct": false,
-     "text": "Käpt’n Iglo"
+     "text": "[i]Ritter Sport[/i]"
     }
    ],
    "countrySpecific": true,
    "id": "117379",
    "intro": "",
    "outro": "",
-   "question": "Welches berühmte Maskottchen hilft dir, in Microsoft Word GRRRoßartig zu sein?"
+   "question": "Mein Fernseher ist noch Quadratisch. Praktisch. Gut. - Aber wenn was kaputt geht, hilft was im Falle eines Falles?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Dennis Schröder"
+     "text": "Cristiano Ronaldo"
     },
     {
      "correct": true,
-     "text": "Dirk Nowitzki"
+     "text": "Erling Haaland"
     },
     {
      "correct": false,
-     "text": "Detlef Schrempf"
+     "text": "Deniz Undav"
     },
     {
      "correct": false,
-     "text": "Franz Wagner"
+     "text": "Lionel Messi"
     }
    ],
    "countrySpecific": true,
    "id": "117381",
    "intro": "",
    "outro": "",
-   "question": "Welcher deutsche Basketballstar trug bei den Dallas Mavericks die Nummer 41?"
+   "question": "Welcher norwegische, bekannte Fußballstar mit Meme-Potenzial trägt die Nummer 9?"
   },
   {
    "choices": [
@@ -2521,25 +2521,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Demi Moore"
+     "text": "Hawaii"
     },
     {
      "correct": false,
-     "text": "Andie MacDowell"
+     "text": "Capricciosa"
     },
     {
      "correct": true,
-     "text": "Dennis Quaid"
+     "text": "Prosciutto e Funghi"
     },
     {
      "correct": false,
-     "text": "Jack Quaid"
+     "text": "Margherita"
     }
    ],
    "id": "117391",
    "intro": "",
    "outro": "",
-   "question": "Welcher Schauspieler aus [i]The Substance[/i] ist der Vater von Jack Quaid?"
+   "question": "Welche Pizza bestelle ich, wenn ich statt der Ananas lieber Pilzen nehme und den Schicken nicht durch Thunfisch ersetze?"
   },
   {
    "choices": [
@@ -2665,25 +2665,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Serena Williams"
+     "text": "Tommi Schmitt"
     },
     {
      "correct": false,
-     "text": "Michelle Williams"
+     "text": "Harald Schmidt"
     },
     {
      "correct": true,
-     "text": "Venus Williams"
+     "text": "Wolfgang M. Schmitt"
     },
     {
      "correct": false,
-     "text": "Vanessa Williams"
+     "text": "Helmut Schmidt"
     }
    ],
    "id": "117411",
    "intro": "",
    "outro": "",
-   "question": "Welche Williams trägt den Namen eines Planeten nahe der Sonne und eines Filmklassikers?"
+   "question": "Welcher Schmitt wird nicht Schmidt geschrieben und analysiert gerne Filme?"
   },
   {
    "choices": [
@@ -3197,11 +3197,11 @@
    "choices": [
     {
      "correct": true,
-     "text": "Rambo"
+     "text": "Jumbo"
     },
     {
      "correct": false,
-     "text": "Thron"
+     "text": "Steuerfachangestellte"
     },
     {
      "correct": false,
@@ -3209,7 +3209,7 @@
     },
     {
      "correct": false,
-     "text": "Verantwortlichkeit"
+     "text": "Fußballfeld"
     }
    ],
    "id": "117505",
@@ -3221,25 +3221,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]Cats[/i]"
+     "text": "[i]Pokémon Sonne/Mond[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Les Misérables[/i]"
+     "text": "[i]Super Mario Galaxy 2[/i]"
     },
     {
      "correct": true,
-     "text": "[i]The Book of Mormon[/i]"
+     "text": "[i]Zelda Ocarina of Time[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Das Phantom der Oper[/i]"
+     "text": "[i]Sonic Colors[/i]"
     }
    ],
    "id": "117506",
    "intro": "",
    "outro": "",
-   "question": "Welches Musical handelt von den Elenden – und von Katzen auf Missionsreise?"
+   "question": "In welchem Spiel spiel reist man durch die Zeit – und weniger durch fremde Galaxien?"
   },
   {
    "choices": [
