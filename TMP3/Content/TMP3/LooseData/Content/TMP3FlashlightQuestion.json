@@ -4,25 +4,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "McDonald’s"
+     "text": "[i]McDonald’s[/i]"
     },
     {
      "correct": false,
-     "text": "Subway"
+     "text": "[i]Subway[/i]"
     },
     {
      "correct": false,
-     "text": "Nordsee"
+     "text": "[i]Nordsee[/i]"
     },
     {
      "correct": true,
-     "text": "Burger King"
+     "text": "[i]Burger King[/i]"
     }
    ],
    "id": "114679",
    "intro": "",
    "outro": "",
-   "question": "Wo könnt ihr einen Whopper essen, aber nicht „Ich liebe es“ sagen?"
+   "question": "Wo könnt ihr einen [i]Whopper[/i] essen, aber nicht „Ich liebe es“ sagen?"
   },
   {
    "choices": [
@@ -72,7 +72,7 @@
    "id": "114681",
    "intro": "",
    "outro": "",
-   "question": "Welcher deutsche Fußballer trug beim FC Bayern lange die Nummer 25?"
+   "question": "Welcher deutsche Fußballer trug beim FC Bayern München lange die Nummer 25?"
   },
   {
    "choices": [
@@ -290,7 +290,7 @@
    "id": "114722",
    "intro": "",
    "outro": "",
-   "question": "Welcher Fußballer ist Torwart, spielte aber nie für den FC Bayern?"
+   "question": "Welcher Fußballer ist Torwart, spielte aber nie für den FC Bayern München?"
   },
   {
    "choices": [
@@ -678,7 +678,7 @@
    "id": "116151",
    "intro": "",
    "outro": "",
-   "question": "Moin moin, Servus und Grüß Gott! Wo sagt man bitte Gude"
+   "question": "Moin moin, Servus und Grüß Gott! Wo sagt man bitte Gude?"
   },
   {
    "choices": [
@@ -1063,7 +1063,7 @@
    "id": "116234",
    "intro": "",
    "outro": "",
-   "question": "Wie hieß noch gleich dieser Italiener, ääh ich meine Japaner, der so gerne Hühner immitiert?"
+   "question": "Wie hieß noch gleich dieser Italiener, ääh ich meine Japaner, der so gerne Hühner imitiert?"
   },
   {
    "choices": [
@@ -1161,7 +1161,7 @@
    "id": "116239",
    "intro": "",
    "outro": "",
-   "question": "Was ist die Quadratwurzel einer Zahl, die größer als 7 × 7 ist?"
+   "question": "Was ist die Quadratwurzel einer Zahl, die größer als 7 x 7 ist?"
   },
   {
    "choices": [
@@ -1481,7 +1481,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "High Card"
+     "text": "Höchste Karte"
     },
     {
      "correct": false,
@@ -1739,13 +1739,13 @@
    "id": "116791",
    "intro": "",
    "outro": "",
-   "question": "Wer hatte immer besondern Spaß an der Ölmalerei, kam aber nicht aus Spanien?"
+   "question": "Wer hatte immer besonderen Spaß an der Ölmalerei, kam aber nicht aus Spanien?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Lena Meyer-Landrut"
+     "text": "SDP feat. Sido"
     },
     {
      "correct": false,
@@ -1763,7 +1763,7 @@
    "id": "117192",
    "intro": "",
    "outro": "",
-   "question": "Wer sang den Hit „3 Uhr Nachts“, aber nicht um 3 Uhr morgens?"
+   "question": "Wer sang den Hit „3 Uhr Nachts“, aber nicht um 3 Uhr morgens und ohne 3 Tage wach zu sein?"
   },
   {
    "choices": [
@@ -1984,7 +1984,7 @@
    "id": "117297",
    "intro": "",
    "outro": "",
-   "question": "In welchem Haifilm spricht niemand über Bruno?“"
+   "question": "In welchem Haifilm spricht niemand über Bruno?"
   },
   {
    "choices": [
@@ -2032,7 +2032,7 @@
    "id": "117306",
    "intro": "",
    "outro": "",
-   "question": "Welche dieser metrischen Längeneinheiten ist die kürzeste?"
+   "question": "Welche dieser langen Längeneinheiten ist die kürzeste?"
   },
   {
    "choices": [
@@ -2210,7 +2210,7 @@
     },
     {
      "correct": false,
-     "text": "Minie Maus"
+     "text": "Minnie Maus"
     },
     {
      "correct": false,
@@ -2426,7 +2426,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Media Markt[/i]"
+     "text": "[i]MediaMarkt[/i]"
     },
     {
      "correct": true,
@@ -2539,7 +2539,7 @@
    "id": "117391",
    "intro": "",
    "outro": "",
-   "question": "Welche Pizza bestelle ich, wenn ich statt der Ananas lieber Pilzen nehme und den Schicken nicht durch Thunfisch ersetze?"
+   "question": "Welche Pizza bestelle ich, wenn ich statt der Ananas lieber Pilzen nehme und den Schinken nicht durch Thunfisch ersetze?"
   },
   {
    "choices": [
@@ -2649,7 +2649,7 @@
     },
     {
      "correct": false,
-     "text": "Die Ärtze"
+     "text": "Die Ärzte"
     },
     {
      "correct": false,
@@ -3119,7 +3119,7 @@
    "id": "117501",
    "intro": "",
    "outro": "",
-   "question": "Welche dieser metrischen Längeneinheiten ist länger als alle anderen?"
+   "question": "Welche dieser kurzen metrischen Längeneinheiten ist länger als alle anderen?"
   },
   {
    "choices": [
@@ -3221,7 +3221,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]Pokémon Sonne/Mond[/i]"
+     "text": "[i]Pokémon Sonne und Mond[/i]"
     },
     {
      "correct": false,
@@ -3229,17 +3229,17 @@
     },
     {
      "correct": true,
-     "text": "[i]Zelda Ocarina of Time[/i]"
+     "text": "[i]The Legend of Zelda: Ocarina of Time[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Sonic Colors[/i]"
+     "text": "[i]Sonic Colours[/i]"
     }
    ],
    "id": "117506",
    "intro": "",
    "outro": "",
-   "question": "In welchem Spiel spiel reist man durch die Zeit – und weniger durch fremde Galaxien?"
+   "question": "In welchem Spiel reist man durch die Zeit – und weniger durch fremde Galaxien?"
   },
   {
    "choices": [
