@@ -6599,7 +6599,7 @@
     "versions": [
      {
       "file": "VO/115527/audio/0.ogg",
-      "subtitle": "Gleich fallen Augen vom Himmel. Ihr schätzt, wie viele im Glas landen. Wer am weitesten von der richtigen Antwort entfernt ist, wird bestraft!"
+      "subtitle": "Gleich fallen Augen vom Himmel. Ihr schätzt, wie viele IM Glas landen. Wer am WEITESTEN von der richtigen Antwort entfernt ist, wird BESTRAFT!"
      }
     ]
    },
@@ -6611,7 +6611,7 @@
     "versions": [
      {
       "file": "VO/115528/audio/0.ogg",
-      "subtitle": "Gleich fallen Augen vom Himmel. Alle schätzen, wie viele im Glas landen. Aber ich werde alle gefährdeten Spieler umbringen, die schlechter waren als ein sicherer Spieler!"
+      "subtitle": "Gleich fallen Augen vom Himmel. Alle schätzen, wie viele IM Glas landen. Schätzt ein SICHERER SPIELER BESSER als du, STIRBST du!"
      }
     ]
    },
@@ -6639,7 +6639,7 @@
     "versions": [
      {
       "file": "VO/115530/audio/0.ogg",
-      "subtitle": "Jeder gefährdete Spieler gibt ein ECHTES deutsches Wort mit fünf Buchstaben ein. Die sicheren Spieler versuchen, es zu knacken. Wessen Wort geknackt wird, stirbt!"
+      "subtitle": "Jeder gefährdete Spieler gibt ein ECHTES deutsches Wort mit fünf Buchstaben ein. Die sicheren Spieler versuchen, es zu knacken. Wenn dein Wort geknackt wird, stirbst du!"
      }
     ]
    },
@@ -6651,7 +6651,7 @@
     "versions": [
      {
       "file": "VO/115531/audio/0.ogg",
-      "subtitle": "Gleich fallen Augen vom Himmel. Ihr schätzt, wie viele im Glas landen. Wer am weitesten danebenliegt, wird bestraft!"
+      "subtitle": "Gleich fallen Augen vom Himmel. Ihr schätzt, wie viele IM Glas landen. Wer am WEITESTEN von der richtigen Antwort entfernt ist, wird BESTRAFT!"
      }
     ]
    },
@@ -6663,7 +6663,7 @@
     "versions": [
      {
       "file": "VO/115532/audio/0.ogg",
-      "subtitle": "Gleich fallen Augen vom Himmel. Ihr schätzt, wie viele im Glas landen. Die beiden schlechtesten Schätzer bringe ich um!"
+      "subtitle": "Gleich fallen Augen vom Himmel. Ihr schätzt, wie viele IM Glas landen. Die beiden schlechtesten Schätzer bringe ich um!"
      }
     ]
    },
@@ -7716,7 +7716,7 @@
     "versions": [
      {
       "file": "VO/116139/audio/0.ogg",
-      "subtitle": "Jeder sichere Spieler wird einen Kelch vergiften. Danach wählen alle gefährdeten Spieler einen Kelch, aus dem sie trinken möchten. Wer Gift erwischt, stirbt!"
+      "subtitle": "Jeder SICHERE SPIELER wählt einen Kelch zum VERGIFTEN aus. Danach wählen die GEFÄHRDETEN Spieler einen Kelch zum TRINKEN. Ist dein Kelch VERGIFTET, STIRBST du!"
      }
     ]
    },
@@ -7728,7 +7728,7 @@
     "versions": [
      {
       "file": "VO/116142/audio/0.ogg",
-      "subtitle": "Alle werden einen Kelch vergiften, und danach aus einem trinken. Wer einen vergifteten Kelch erwischt, stirbt!"
+      "subtitle": "Alle wählen einen Kelch zum VERGIFTEN aus. Danach wählt jeder von euch einen Kelch zum TRINKEN. Ist dein Kelch vergiftet, STIRBST du!"
      }
     ]
    },
@@ -8168,7 +8168,7 @@
     "versions": [
      {
       "file": "VO/116220/audio/0.ogg",
-      "subtitle": "Jeder Spieler kann in dieser Runde mindestens einen Jumpscare auslösen. Der Knopf dazu ist oben auf eurem Gerät, und zeigt auch an, wie viele ihr noch habt. Setzt sie taktisch ein."
+      "subtitle": "Jeder Spieler kann in dieser Runde mindestens einen Jumpscare auslösen. Der Knopf dazu ist oben auf eurem Gerät, und zeigt auch an, wie viele ihr noch übrig habt. Setzt sie taktisch ein."
      }
     ]
    },
@@ -8440,7 +8440,7 @@
     "versions": [
      {
       "file": "VO/116572/audio/0.ogg",
-      "subtitle": "Beantworte so viele Matheaufgaben wie du kannst, bevor die Zeit abläuft. Aber Achtung: Bei einem Fehler frierst du kurz ein. Ist ein sicherer Spieler besser du, stirbst du!"
+      "subtitle": "Beantworte so viele Matheaufgaben wie du kannst, bevor die Zeit abläuft. Aber Achtung: Bei einem Fehler frierst du kurz ein. Ist ein SICHERER SPIELER BESSER als du, STIRBST du!"
      }
     ]
    },
@@ -8722,7 +8722,7 @@
     "versions": [
      {
       "file": "VO/116737/audio/0.ogg",
-      "subtitle": "Alle gefährdeten Spieler suchen sich eine Stelle auf der Zielscheibe aus, wo sie befestigt werden sollen. Die sicheren Spieler schießen anschließend auf euch. Trifft dich ein Pfeil, stirbst du!"
+      "subtitle": "Gefährdete Spieler wählen eine Stelle der Zielscheibe, wo sie befestigt werden sollen. Die sicheren Spieler schießen anschließend auf euch. Wer von einem Pfeil getroffen wird, stirbt!"
      }
     ]
    },
@@ -8734,7 +8734,7 @@
     "versions": [
      {
       "file": "VO/116738/audio/0.ogg",
-      "subtitle": "Wir spielen jetzt im Dunkeln. Jeder von euch bekommt eine Taschenlampe. Aber sobald ihr sie einschaltet, könnt ihr sie nicht mehr bewegen! Sprecht euch gut ab, sonst fehlen euch vielleicht wichtige Teile der Frage. Das wäre echt schade, oder?"
+      "subtitle": "Wir spielen jetzt im Dunkeln. Jeder von euch bekommt eine Taschenlampe. Aber sobald ihr sie einschaltet, könnt ihr sie nicht mehr bewegen! Sprecht euch gut ab, sonst fehlen euch vielleicht einige wichtige Teile der Frage. Das wäre echt schade, oder?"
      }
     ]
    },
@@ -9746,7 +9746,7 @@
     "versions": [
      {
       "file": "VO/118272/audio/0.ogg",
-      "subtitle": "Ich werde mit einer Kettensäge um euch kreisen.\n"
+      "subtitle": "Ich werde mit einer Kettensäge um euch kreisen."
      }
     ]
    },
@@ -9770,7 +9770,7 @@
     "versions": [
      {
       "file": "VO/118274/audio/0.ogg",
-      "subtitle": "Nutzt die Graffitis, um den Kettensägen zu auszuweichen."
+      "subtitle": "Nutzt die Graffitis, um den Kettensägen auszuweichen."
      }
     ]
    },
@@ -9782,7 +9782,7 @@
     "versions": [
      {
       "file": "VO/118275/audio/0.ogg",
-      "subtitle": "Wer von einer Kettensäge getroffen wird, stirbt!"
+      "subtitle": "Wer von meiner Kettensäge getroffen wird, stirbt!"
      }
     ]
    },
@@ -10214,7 +10214,7 @@
     "versions": [
      {
       "file": "VO/118749/audio/0.ogg",
-      "subtitle": "Alle gefährdeten Spieler wählen ein Kanu. Sitzen alle im selben, bleiben alle am Leben. Seid ihr euch nicht einig, bestrafe ich die schwerere Seite."
+      "subtitle": "Alle gefährdeten Spieler wählen ein Kanu. Sitzen alle im selben Boot, bleiben alle am Leben. Seid ihr euch nicht einig, bestrafe ich die schwerere Seite."
      }
     ]
    },
