@@ -258,6 +258,48 @@
      ]
     },
     {
+     "textKey": "TUT_ARCHERY_0",
+     "value": [
+     "Gefährdete Spieler wählen eine Stelle der Zielscheibe, wo sie befestigt werden sollen."
+     ]
+    },
+    {
+     "textKey": "TUT_ARCHERY_1",
+     "value": [
+     "Die sicheren Spieler schießen auf euch."
+     ]
+    },
+    {
+     "textKey": "TUT_ARCHERY_2",
+     "value": [
+     "Wer von einem Pfeil getroffen wird, stirbt."
+     ]
+    },
+    {
+     "textKey": "TUT_FINGERVOTE_0",
+     "value": [
+     "Getötete Spieler wählen, wer einen Finger verlieren soll."
+     ]
+    },
+    {
+     "textKey": "TUT_FINGERVOTE_1",
+     "value": [
+     null
+     ]
+    },
+    {
+     "textKey": "TUT_SUBJECTIVEQUESTION_0",
+     "value": [
+     "Ich ersetze meine normalen Fragen durch meinungsbasierte Fragen."
+     ]
+    },
+    {
+     "textKey": "TUT_SUBJECTIVEQUESTION_1",
+     "value": [
+     "Ist deine Antwort in der Minderheit, wirst du bestraft."
+     ]
+    },
+    {
      "textKey": "TUT_FLASHLIGHT_0",
      "value": [
      "Trivia wird jetzt im Dunkeln gespielt. Ich gebe jedem von euch eine Taschenlampe."
