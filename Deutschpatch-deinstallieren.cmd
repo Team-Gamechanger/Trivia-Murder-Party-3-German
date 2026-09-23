@@ -27,6 +27,7 @@ choice /C JN /N /M "Deutschpatch jetzt deinstallieren? [J/N] "
 if errorlevel 2 exit /b 0
 
 del /F /Q "%GAME_DIR%config.dat" >nul 2>&1
+del /F /Q "%GAME_DIR%Deutschpatch-installieren.cmd" >nul 2>&1
 del /F /Q "%GAME_DIR%Deutschpatch-installieren.ps1" >nul 2>&1
 del /F /Q "%GAME_DIR%TMP3\Config\Windows\WindowsGame.ini" >nul 2>&1
 del /F /Q "%GAME_DIR%TMP3\Content\Paks\TMP3-German*" >nul 2>&1
@@ -39,6 +40,8 @@ del /F /Q "%CONTENT%\VO.json" >nul 2>&1
 rd /S /Q "%CONTENT%\VO" >nul 2>&1
 
 if exist "%GAME_DIR%config.dat" goto :cleanup_failed
+if exist "%GAME_DIR%Deutschpatch-installieren.cmd" goto :cleanup_failed
+if exist "%GAME_DIR%Deutschpatch-installieren.ps1" goto :cleanup_failed
 if exist "%GAME_DIR%TMP3\Config\Windows\WindowsGame.ini" goto :cleanup_failed
 if exist "%GAME_DIR%TMP3\Content\Paks\TMP3-German*" goto :cleanup_failed
 if exist "%GAME_DIR%TMP3\Content\Localization\Game\de" goto :cleanup_failed

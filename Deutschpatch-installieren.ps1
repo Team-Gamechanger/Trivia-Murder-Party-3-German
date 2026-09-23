@@ -3,7 +3,6 @@ param([Parameter(Position=0)][string]$GameRoot)
 $ErrorActionPreference = 'Stop'
 if ([string]::IsNullOrWhiteSpace($GameRoot)) { $GameRoot = $PSScriptRoot }
 $exe = Join-Path $GameRoot 'TMP3\Binaries\Win64\TMP3-Win64-Shipping.exe'
-$bytes = [IO.File]::ReadAllBytes($exe)
 
 function Find-Bytes([byte[]]$Needle) {
     $offsets = [Collections.Generic.List[int]]::new()
@@ -43,6 +42,15 @@ function Replace-Utf16([string]$OldValue, [string]$NewValue) {
     [Array]::Copy($target, 0, $bytes, $sourceOffsets[0], $target.Length)
 }
 
-Replace-Utf16 'https://api.jackboxgames.com/arcade' 'https://api.jackboxpatch.de/arcade'
-Replace-Utf16 'jackbox.tv' 'jackbox.de'
-[IO.File]::WriteAllBytes($exe, $bytes)
+try {
+    if (-not [IO.File]::Exists($exe)) { throw "Die Spieldatei wurde nicht gefunden: $exe" }
+    $bytes = [IO.File]::ReadAllBytes($exe)
+    Replace-Utf16 'https://api.jackboxgames.com/arcade' 'https://api.jackboxpatch.de/arcade'
+    Replace-Utf16 'jackbox.tv' 'jackbox.de'
+    [IO.File]::WriteAllBytes($exe, $bytes)
+    Write-Host 'Der Trivia Murder Party 3 Deutschpatch wurde erfolgreich installiert.' -ForegroundColor Green
+} catch {
+    Write-Host 'Die Installation des Trivia Murder Party 3 Deutschpatches ist fehlgeschlagen:' -ForegroundColor Red
+    Write-Host $_.Exception.Message -ForegroundColor Red
+    exit 1
+}
