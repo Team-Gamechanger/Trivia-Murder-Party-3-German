@@ -11648,6 +11648,146 @@
    },
    "id": "121564",
    "name": "LAUNCH_MESSAGE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122302/audio/0.ogg",
+      "subtitle": "Zeit für Schattenpuppen."
+     },
+     {
+      "file": "VO/122302/audio/1.ogg",
+      "subtitle": "Ich hoffe, ihr habt Angst vor eurem eigenen Schatten."
+     },
+     {
+      "file": "VO/122302/audio/2.ogg",
+      "subtitle": "Kommt, wir spielen ein Spiel im Schatten."
+     },
+     {
+      "file": "VO/122302/audio/3.ogg",
+      "subtitle": "Zeit für ein bisschen Schattentheater."
+     },
+     {
+      "file": "VO/122302/audio/4.ogg",
+      "subtitle": "Zeit für ein bisschen Action im Schatten."
+     }
+    ]
+   },
+   "id": "122302",
+   "name": "SHADOW_TITLE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122303/audio/0.ogg",
+      "subtitle": "Dreht eure abgetrennte Hand so, dass ihr Schatten vor Ablauf der Zeit zu möglichst vielen Zielformen passt."
+     }
+    ]
+   },
+   "id": "122303",
+   "name": "SHADOW_1"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122304/audio/0.ogg",
+      "subtitle": "Die Zeit läuft ... JETZT!"
+     },
+     {
+      "file": "VO/122304/audio/1.ogg",
+      "subtitle": "Bewegt die Hände ... JETZT!"
+     },
+     {
+      "file": "VO/122304/audio/2.ogg",
+      "subtitle": "Los, bewegt die Hände!"
+     }
+    ]
+   },
+   "id": "122304",
+   "name": "SHADOW_2"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122305/audio/0.ogg",
+      "subtitle": "So habt ihr euch geschlagen."
+     },
+     {
+      "file": "VO/122305/audio/1.ogg",
+      "subtitle": "Seht euch an, wie viele Formen ihr insgesamt hinbekommen habt."
+     },
+     {
+      "file": "VO/122305/audio/2.ogg",
+      "subtitle": "Hier ist das Endergebnis."
+     }
+    ]
+   },
+   "id": "122305",
+   "name": "SHADOW_RESULT"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122306/audio/0.ogg",
+      "subtitle": "Du da, komm mit mir ..."
+     },
+     {
+      "file": "VO/122306/audio/1.ogg",
+      "subtitle": "Gib mir deine Hand ..."
+     },
+     {
+      "file": "VO/122306/audio/2.ogg",
+      "subtitle": "Du und der Tod, ihr passt perfekt zusammen!"
+     },
+     {
+      "file": "VO/122306/audio/3.ogg",
+      "subtitle": "Du bist nur noch ein Schatten deiner selbst."
+     }
+    ]
+   },
+   "id": "122306",
+   "name": "SHADOW_LOSER"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122307/audio/0.ogg",
+      "subtitle": "Ihr erzeugt mit einer abgetrennten Hand Schatten. Dreht sie, damit der Schatten zu den Zielformen passt. Erzielt ein sicherer Spieler mehr Formen als du, stirbst du!"
+     }
+    ]
+   },
+   "id": "122307",
+   "name": "SHADOW_TUTORIAL_ATRISKANDSAFE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122308/audio/0.ogg",
+      "subtitle": "Ihr erzeugt mit einer abgetrennten Hand Schatten. Dreht sie, damit der Schatten zu den Zielformen passt. Wer die wenigsten Formen hinbekommt, stirbt!"
+     }
+    ]
+   },
+   "id": "122308",
+   "name": "SHADOW_TUTORIAL_ALLATRISK"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122330/audio/0.ogg",
+      "subtitle": "Ugh, niemand ist gestorben, weil mein Leben verdammt noch mal mies ist!"
+     }
+    ]
+   },
+   "id": "122330",
+   "name": "SHADOW_NOLOSER"
   }
  ]
 }
