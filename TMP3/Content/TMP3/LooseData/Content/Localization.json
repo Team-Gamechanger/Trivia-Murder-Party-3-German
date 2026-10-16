@@ -352,6 +352,42 @@
      "value": [
      "Wenn sie erfolgreich sind, sterbt ihr."
      ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_0",
+     "value": [
+      "Ihr erzeugt mit einer abgetrennten Hand Schatten."
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_1",
+     "value": [
+      "Dreht sie, damit der Schatten zur Zielform passt."
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_2",
+     "value": [
+      "Wer die wenigsten Punkte hat, stirbt!"
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_SAFE_0",
+     "value": [
+      "Ihr erzeugt mit einer abgetrennten Hand Schatten."
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_SAFE_1",
+     "value": [
+      "Dreht sie, damit der Schatten zur Zielform passt."
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_SAFE_2",
+     "value": [
+      "Erzielt ein sicherer Spieler mehr Punkte als du, stirbst du!"
+     ]
     }
    ]
   }

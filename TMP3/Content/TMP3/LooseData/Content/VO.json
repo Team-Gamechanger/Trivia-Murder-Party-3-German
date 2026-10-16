@@ -11783,11 +11783,247 @@
      {
       "file": "VO/122330/audio/0.ogg",
       "subtitle": "Ugh, niemand ist gestorben, weil mein Leben verdammt noch mal mies ist!"
+     },
+     {
+      "file": "VO/122330/audio/1.ogg",
+      "subtitle": "Das muss man euch lassen, sichere Spieler: Ihr habt's ordentlich vergeigt!"
+     },
+     {
+      "file": "VO/122330/audio/2.ogg",
+      "subtitle": "Keine Verlierer?! Schwache Leistung, sichere Spieler!"
+     },
+     {
+      "file": "VO/122330/audio/3.ogg",
+      "subtitle": "Keine Verlierer?! Ich hätte da eine Handform für euch, für die ich nur einen Finger brauche!"
      }
     ]
    },
    "id": "122330",
    "name": "SHADOW_NOLOSER"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122503/audio/0.ogg",
+      "subtitle": "Bevor wir loslegen, gebe ich euch etwas Zeit, das Drehen der Hände zu üben."
+     }
+    ]
+   },
+   "id": "122503",
+   "name": "SHADOW_PRACTICE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122504/audio/0.ogg",
+      "subtitle": "Das Spiel beginnt JETZT!"
+     }
+    ]
+   },
+   "id": "122504",
+   "name": "SHADOW_GAME_STARTS"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122651/audio/0.ogg",
+      "subtitle": "Wir spielen jetzt Marshmallow-Rösten."
+     },
+     {
+      "file": "VO/122651/audio/1.ogg",
+      "subtitle": "Seid ihr bereit für ein süßes Spiel mit dem Feuer?"
+     },
+     {
+      "file": "VO/122651/audio/2.ogg",
+      "subtitle": "Beim nächsten Spiel könntet ihr euch die Finger verbrennen."
+     },
+     {
+      "file": "VO/122651/audio/3.ogg",
+      "subtitle": "Sehen diese Marshmallows nicht verdammt geil aus?!"
+     },
+     {
+      "file": "VO/122651/audio/4.ogg",
+      "subtitle": "Zeit für einen tödlichen Nachtisch."
+     },
+     {
+      "file": "VO/122651/audio/5.ogg",
+      "subtitle": "Dieses Spiel ist lit, Leute! Ich brauche eure Bestätigung so sehr. Bitte sagt mir, dass ich cool bin!"
+     },
+     {
+      "file": "VO/122651/audio/6.ogg",
+      "subtitle": "Kommt, macht es euch IM Feuer gemütlich."
+     }
+    ]
+   },
+   "id": "122651",
+   "name": "ROASTED_TITLE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122652/audio/0.ogg",
+      "subtitle": "Ihr bekommt nacheinander verschieden stark geröstete Marshmallows gezeigt. Röstet neue Marshmallows, die jeder Vorlage möglichst ähnlich sehen. Am Ende wird euer bester Treffer aufgedeckt. Wer die wenigsten Punkte hat, stirbt!"
+     }
+    ]
+   },
+   "id": "122652",
+   "name": "ROASTED_TUT_ALLATRISK"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122653/audio/0.ogg",
+      "subtitle": "Ihr bekommt nacheinander verschieden stark geröstete Marshmallows gezeigt. Röstet neue Marshmallows, die der Vorlage möglichst ähnlich sehen. Am Ende wird euer bester Treffer aufgedeckt. Erzielt ein sicherer Spieler mehr Punkte als du, stirbst du!"
+     }
+    ]
+   },
+   "id": "122653",
+   "name": "ROASTED_TUT_SAFEANDATRISK"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122654/audio/0.ogg",
+      "subtitle": "Eure Röstzeit beginnt JETZT!"
+     },
+     {
+      "file": "VO/122654/audio/1.ogg",
+      "subtitle": "Schnappt euch eure Stöcke und fangt an zu rösten!"
+     },
+     {
+      "file": "VO/122654/audio/2.ogg",
+      "subtitle": "Und jetzt wird geröstet!"
+     }
+    ]
+   },
+   "id": "122654",
+   "name": "ROASTED_START_ROASTING"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122655/audio/0.ogg",
+      "subtitle": "Wie habt ihr euch geschlagen? Zeigt mal euren besten Marshmallow."
+     },
+     {
+      "file": "VO/122655/audio/1.ogg",
+      "subtitle": "Ich schaue mir jetzt von jedem den besten Marshmallow an."
+     },
+     {
+      "file": "VO/122655/audio/2.ogg",
+      "subtitle": "Zeit, die Marshmallows zu vergleichen."
+     }
+    ]
+   },
+   "id": "122655",
+   "name": "ROASTED_EVERYONE_REVEAL"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122656/audio/0.ogg",
+      "subtitle": "Gefährdete Spieler, schauen wir uns zuerst eure Marshmallows an."
+     },
+     {
+      "file": "VO/122656/audio/1.ogg",
+      "subtitle": "Gefährdete Spieler, zeigt uns euren besten Marshmallow."
+     }
+    ]
+   },
+   "id": "122656",
+   "name": "ROASTED_ATRISK_REVEAL"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122657/audio/0.ogg",
+      "subtitle": "Hat ein sicherer Spieler die Vorlage besser getroffen? Finden wir es heraus."
+     },
+     {
+      "file": "VO/122657/audio/1.ogg",
+      "subtitle": "Okay, sichere Spieler, jetzt seid ihr dran."
+     },
+     {
+      "file": "VO/122657/audio/2.ogg",
+      "subtitle": "Okay, sichere Spieler, bringt das Ding nach Hause."
+     }
+    ]
+   },
+   "id": "122657",
+   "name": "ROASTED_SAFE_REVEAL"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122658/audio/0.ogg",
+      "subtitle": "Der traurigste Marshmallow gehörte DIR!"
+     },
+     {
+      "file": "VO/122658/audio/1.ogg",
+      "subtitle": "Der Titel für den schlechtesten Röster geht an DICH!"
+     }
+    ]
+   },
+   "id": "122658",
+   "name": "ROASTED_LOSER_HIGHLIGHT"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122659/audio/0.ogg",
+      "subtitle": "Die sicheren Spieler haben die Aufgabe verstanden!"
+     },
+     {
+      "file": "VO/122659/audio/1.ogg",
+      "subtitle": "Nice! Einige von euch haben richtig abgeliefert!"
+     },
+     {
+      "file": "VO/122659/audio/2.ogg",
+      "subtitle": "So zeigt man's ihnen, sichere Spieler!"
+     },
+     {
+      "file": "VO/122659/audio/3.ogg",
+      "subtitle": "Da habt ihr euch verbrannt!"
+     }
+    ]
+   },
+   "id": "122659",
+   "name": "ROASTED_SAFE_VICTORY"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122660/audio/0.ogg",
+      "subtitle": "Sichere Spieler, habt ihr nur Zuckerwatte im Kopf?!"
+     },
+     {
+      "file": "VO/122660/audio/1.ogg",
+      "subtitle": "Kein sicherer Spieler war besser als du, dabei wollte ich dich sooo gern töten!"
+     },
+     {
+      "file": "VO/122660/audio/2.ogg",
+      "subtitle": "Die sicheren Spieler haben mich wohl verkohlt!"
+     },
+     {
+      "file": "VO/122660/audio/3.ogg",
+      "subtitle": "Ich bin euch nicht böse, sichere Spieler. Nur enttäuscht."
+     }
+    ]
+   },
+   "id": "122660",
+   "name": "ROASTED_SAFE_NOVICTORY"
   }
  ]
 }
