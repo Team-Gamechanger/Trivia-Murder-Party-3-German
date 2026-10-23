@@ -33,7 +33,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "112819",
-   "prompt": "ein animierter Disney-Film, der mit C beginnt"
+   "prompt": "ein animierter Disney-Film, der mit C beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -61,7 +62,8 @@
    "category": "SINGLE-LETTER",
    "countrySpecific": true,
    "id": "112827",
-   "prompt": "ein deutscher Bundeskanzler, dessen Nachname mit S beginnt"
+   "prompt": "ein deutscher Bundeskanzler, dessen Nachname mit S beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -93,7 +95,8 @@
    "category": "SINGLE-LETTER",
    "countrySpecific": true,
    "id": "112831",
-   "prompt": "ein deutsches Bundesland, das mit B beginnt"
+   "prompt": "ein deutsches Bundesland, das mit B beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -149,7 +152,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "112837",
-   "prompt": "ein chemisches Element, das mit N beginnt"
+   "prompt": "ein chemisches Element, das mit N beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -180,7 +184,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "112838",
-   "prompt": "ein chemisches Element, das mit H beginnt"
+   "prompt": "ein chemisches Element, das mit H beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -206,7 +211,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "112839",
-   "prompt": "ein Land, das mit R beginnt"
+   "prompt": "ein Land, das mit R beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -259,7 +265,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "112840",
-   "prompt": "ein Land, das mit L beginnt"
+   "prompt": "ein Land, das mit L beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -322,7 +329,8 @@
    "category": "SINGLE-LETTER",
    "countrySpecific": true,
    "id": "112841",
-   "prompt": "ein Land, das mit A beginnt"
+   "prompt": "ein Land, das mit A beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -371,7 +379,8 @@
    "category": "SINGLE-LETTER",
    "countrySpecific": true,
    "id": "112842",
-   "prompt": "Eine der sechs klassischen Geschmackssorten von “[i]Haribo Goldbären[/i]”"
+   "prompt": "Eine der sechs klassischen Geschmackssorten von “[i]Haribo Goldbären[/i]”",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -390,7 +399,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "112845",
-   "prompt": "ein animierter Disney-Film, der mit P beginnt"
+   "prompt": "ein animierter Disney-Film, der mit P beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -400,7 +410,7 @@
     },
     {
      "altSpellings": [
-        "Poko"
+      "Poko"
      ],
      "answer": "Poco"
     },
@@ -440,7 +450,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "112846",
-   "prompt": "eines der 10 umsatzstärksten Möbelhäuser und Baumärkte in Deutschland"
+   "prompt": "eines der 10 umsatzstärksten Möbelhäuser und Baumärkte in Deutschland",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -470,7 +481,8 @@
    "category": "SINGLE-LETTER",
    "countrySpecific": true,
    "id": "112847",
-   "prompt": "ein deutsches Bundesland, das mit S beginnt"
+   "prompt": "ein deutsches Bundesland, das mit S beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -484,19 +496,19 @@
     },
     {
      "altSpellings": [
-        "Jeremy Pascal",
-        "Jeremy Paskal",
-        "Jeremy",
-        "Pascal"
+      "Jeremy Pascal",
+      "Jeremy Paskal",
+      "Jeremy",
+      "Pascal"
      ],
      "answer": "Jeremy-Pascal"
     },
     {
      "altSpellings": [
-        "Sarah",
-        "Jane",
-        "Sarah Jane",
-        "Sara Jane"
+      "Sarah",
+      "Jane",
+      "Sarah Jane",
+      "Sara Jane"
      ],
      "answer": "Sarah-Jane"
     },
@@ -506,15 +518,15 @@
     },
     {
      "altSpellings": [
-        "Kalantha",
-        "Calanta",
-        "Calantha-Lelanie"
+      "Kalantha",
+      "Calanta",
+      "Calantha-Lelanie"
      ],
      "answer": "Calantha"
     },
     {
      "altSpellings": [
-        "Estephania"
+      "Estephania"
      ],
      "answer": "Estefania"
     },
@@ -524,13 +536,13 @@
     },
     {
      "altSpellings": [
-        "Jessika"
+      "Jessika"
      ],
      "answer": "Jessica"
     },
     {
      "altSpellings": [
-        "Patrik"
+      "Patrik"
      ],
      "answer": "Patrick"
     },
@@ -542,7 +554,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "112868",
-   "prompt": "ein Vorname der Wollny-Kinder"
+   "prompt": "ein Vorname der Wollny-Kinder",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -605,7 +618,8 @@
    ],
    "category": "NORMAL",
    "id": "112926",
-   "prompt": "einer der zwölf olympischen Götter"
+   "prompt": "einer der zwölf olympischen Götter",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -647,7 +661,8 @@
    ],
    "category": "NORMAL",
    "id": "112927",
-   "prompt": "einer von Scooby-Doos menschlichen Freunden"
+   "prompt": "einer von Scooby-Doos menschlichen Freunden",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -696,7 +711,8 @@
    ],
    "category": "NORMAL",
    "id": "112928",
-   "prompt": "ein Edelgas"
+   "prompt": "ein Edelgas",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -718,7 +734,7 @@
     },
     {
      "altSpellings": [
-        "Weiss"
+      "Weiss"
      ],
      "answer": "Weiß"
     },
@@ -733,7 +749,8 @@
    "category": "NORMAL",
    "countrySpecific": false,
    "id": "112930",
-   "prompt": "eine der sechs klassischen Cluedo-Farben"
+   "prompt": "eine der sechs klassischen Cluedo-Farben",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -766,7 +783,8 @@
    ],
    "category": "NORMAL",
    "id": "112931",
-   "prompt": "eine Farbe der traditionellen Pride-Flagge"
+   "prompt": "eine Farbe der traditionellen Pride-Flagge",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -825,7 +843,8 @@
    ],
    "category": "NORMAL",
    "id": "112932",
-   "prompt": "einer der Kämpfer im ersten [i]Super Smash Bros.[/i]"
+   "prompt": "einer der Kämpfer im ersten [i]Super Smash Bros.[/i]",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -860,7 +879,8 @@
    ],
    "category": "NORMAL",
    "id": "112934",
-   "prompt": "ein Land in Mittelamerika"
+   "prompt": "ein Land in Mittelamerika",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -895,7 +915,8 @@
    ],
    "category": "NORMAL",
    "id": "112935",
-   "prompt": "einer der Beatles"
+   "prompt": "einer der Beatles",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -919,7 +940,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "112936",
-   "prompt": "einer der drei deutschen Stadtstaaten"
+   "prompt": "einer der drei deutschen Stadtstaaten",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -953,7 +975,8 @@
    ],
    "category": "NORMAL",
    "id": "112937",
-   "prompt": "einer der fünf Finger einer menschlichen Hand"
+   "prompt": "einer der fünf Finger einer menschlichen Hand",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -995,7 +1018,8 @@
    ],
    "category": "NORMAL",
    "id": "112938",
-   "prompt": "einer der fünf Ozeane"
+   "prompt": "einer der fünf Ozeane",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1081,7 +1105,8 @@
    ],
    "category": "NORMAL",
    "id": "112939",
-   "prompt": "eine Zutat eines Chicken Teriyaki-Sandwich bei [i]Subway[/i]"
+   "prompt": "eine Zutat eines Chicken Teriyaki-Sandwich bei [i]Subway[/i]",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1104,7 +1129,8 @@
    ],
    "category": "NORMAL",
    "id": "112940",
-   "prompt": "Schere, Stein oder Papier"
+   "prompt": "Schere, Stein oder Papier",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1124,7 +1150,8 @@
    "category": "NORMAL",
    "countrySpecific": false,
    "id": "112941",
-   "prompt": "eine Ampelfarbe"
+   "prompt": "eine Ampelfarbe",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1179,7 +1206,8 @@
    ],
    "category": "NORMAL",
    "id": "112942",
-   "prompt": "ein Schauspieler, der James Bond gespielt hat"
+   "prompt": "ein Schauspieler, der James Bond gespielt hat",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1221,7 +1249,8 @@
    ],
    "category": "NORMAL",
    "id": "112943",
-   "prompt": "eine der fünf Phasen der Trauer"
+   "prompt": "eine der fünf Phasen der Trauer",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1247,7 +1276,8 @@
    ],
    "category": "NORMAL",
    "id": "112944",
-   "prompt": "eine der vier Jahreszeiten"
+   "prompt": "eine der vier Jahreszeiten",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1358,7 +1388,8 @@
    ],
    "category": "NORMAL",
    "id": "112945",
-   "prompt": "einer der 12 Bezirke von Berlin"
+   "prompt": "einer der 12 Bezirke von Berlin",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1389,7 +1420,8 @@
    ],
    "category": "NORMAL",
    "id": "116102",
-   "prompt": "eine der vier Himmelsrichtungen"
+   "prompt": "eine der vier Himmelsrichtungen",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1421,7 +1453,8 @@
    ],
    "category": "NORMAL",
    "id": "116117",
-   "prompt": "eine der vier Farben eines Kartenspiels"
+   "prompt": "eine der vier Farben eines Kartenspiels",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1448,7 +1481,8 @@
    ],
    "category": "NORMAL",
    "id": "116118",
-   "prompt": "ein Vokal"
+   "prompt": "ein Vokal",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1487,7 +1521,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "116119",
-   "prompt": "eine Universität in Berlin"
+   "prompt": "eine Universität in Berlin",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1518,7 +1553,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "116120",
-   "prompt": "eine der fünf größten deutschen Städte nach Einwohnerzahl"
+   "prompt": "eine der fünf größten deutschen Städte nach Einwohnerzahl",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1597,7 +1633,8 @@
    "category": "SINGLE-LETTER",
    "countrySpecific": true,
    "id": "116132",
-   "prompt": "ein Land, das mit K beginnt"
+   "prompt": "ein Land, das mit K beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1629,7 +1666,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "116133",
-   "prompt": "eine olympische Sportart, die mit T beginnt"
+   "prompt": "eine olympische Sportart, die mit T beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1767,7 +1805,8 @@
    "category": "SINGLE-LETTER",
    "countrySpecific": true,
    "id": "116135",
-   "prompt": "ein Land, das mit S beginnt"
+   "prompt": "ein Land, das mit S beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1843,7 +1882,8 @@
    ],
    "category": "NORMAL",
    "id": "116136",
-   "prompt": "eine der fünf Säulen des Islam"
+   "prompt": "eine der fünf Säulen des Islam",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -1913,13 +1953,14 @@
    ],
    "category": "NORMAL",
    "id": "116222",
-   "prompt": "eines der acht Länder, durch die die Alpen verlaufen"
+   "prompt": "eines der acht Länder, durch die die Alpen verlaufen",
+   "releaseVersion": 1
   },
   {
    "answers": [
     {
      "altSpellings": [
-        "1"
+      "1"
      ],
      "answer": "Eins"
     },
@@ -1931,14 +1972,15 @@
     },
     {
      "altSpellings": [
-        "3"
+      "3"
      ],
      "answer": "Drei"
     }
    ],
    "category": "NORMAL",
    "id": "116254",
-   "prompt": "1, 2 oder 3 – letzte Chance – vorbei"
+   "prompt": "1, 2 oder 3 – letzte Chance – vorbei",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2002,7 +2044,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "116255",
-   "prompt": "eine Euro-Münze"
+   "prompt": "eine Euro-Münze",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2033,7 +2076,8 @@
    ],
    "category": "NORMAL",
    "id": "116267",
-   "prompt": "eine ursprüngliche M&M’s-Farbe"
+   "prompt": "eine ursprüngliche M&M’s-Farbe",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2098,7 +2142,8 @@
    ],
    "category": "NORMAL",
    "id": "116273",
-   "prompt": "eine Blutgruppe"
+   "prompt": "eine Blutgruppe",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2133,7 +2178,8 @@
    ],
    "category": "NORMAL",
    "id": "116274",
-   "prompt": "ein einzelner Buchstabe, der als römische Zahl dient"
+   "prompt": "ein einzelner Buchstabe, der als römische Zahl dient",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2170,7 +2216,8 @@
    ],
    "category": "NORMAL",
    "id": "116275",
-   "prompt": "eine Position auf dem Fußballfeld"
+   "prompt": "eine Position auf dem Fußballfeld",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2237,7 +2284,8 @@
    ],
    "category": "NORMAL",
    "id": "116276",
-   "prompt": "eine einstellige Zahl"
+   "prompt": "eine einstellige Zahl",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2280,7 +2328,8 @@
    ],
    "category": "NORMAL",
    "id": "116416",
-   "prompt": "ein Teiler von 12"
+   "prompt": "ein Teiler von 12",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2321,7 +2370,8 @@
    ],
    "category": "NORMAL",
    "id": "116426",
-   "prompt": "eine Emotion aus dem ersten [i]Alles steht Kopf[/i]"
+   "prompt": "eine Emotion aus dem ersten [i]Alles steht Kopf[/i]",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2354,7 +2404,8 @@
    ],
    "category": "NORMAL",
    "id": "116427",
-   "prompt": "einer von Dorothys Begleitern in Oz"
+   "prompt": "einer von Dorothys Begleitern in Oz",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2406,7 +2457,8 @@
    ],
    "category": "NORMAL",
    "id": "116493",
-   "prompt": "ein G7-Staat"
+   "prompt": "ein G7-Staat",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2447,7 +2499,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "116496",
-   "prompt": "ein öffentlich-rechtlicher Fernsehsender"
+   "prompt": "ein öffentlich-rechtlicher Fernsehsender",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2510,7 +2563,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "116502",
-   "prompt": "ein Bundeskanzler vor Friedrich Merz"
+   "prompt": "ein Bundeskanzler vor Friedrich Merz",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2553,7 +2607,8 @@
    ],
    "category": "NORMAL",
    "id": "116503",
-   "prompt": "eine Silbe der Do-Re-Mi-Tonleiter"
+   "prompt": "eine Silbe der Do-Re-Mi-Tonleiter",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2624,7 +2679,8 @@
    ],
    "category": "NORMAL",
    "id": "116504",
-   "prompt": "eine Stadt mit einem Disney-Themenpark"
+   "prompt": "eine Stadt mit einem Disney-Themenpark",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2676,7 +2732,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "116574",
-   "prompt": "ein Land, das mit I beginnt"
+   "prompt": "ein Land, das mit I beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2749,7 +2806,8 @@
    "category": "SINGLE-LETTER",
    "countrySpecific": true,
    "id": "116576",
-   "prompt": "ein Land, das mit T beginnt"
+   "prompt": "ein Land, das mit T beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2780,7 +2838,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "116579",
-   "prompt": "ein Monat, der auf „-ber“ endet"
+   "prompt": "ein Monat, der auf „-ber“ endet",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2832,7 +2891,8 @@
    "category": "NORMAL",
    "countrySpecific": false,
    "id": "116581",
-   "prompt": "eine klassische Mordwaffe aus [i]Cluedo[/i]"
+   "prompt": "eine klassische Mordwaffe aus [i]Cluedo[/i]",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2863,7 +2923,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "116621",
-   "prompt": "ein olympischer Gott, dessen Name mit A beginnt"
+   "prompt": "ein olympischer Gott, dessen Name mit A beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2902,7 +2963,8 @@
    "category": "SINGLE-LETTER",
    "id": "116622",
    "prompt": "ein inneres menschliches Organ, das mit S beginnt",
-   "x": true
+   "x": true,
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2929,7 +2991,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "116642",
-   "prompt": "ein Orchesterinstrument, das mit T beginnt"
+   "prompt": "ein Orchesterinstrument, das mit T beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -2995,68 +3058,70 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "116645",
-   "prompt": "eine olympische Sportart, die mit B beginnt"
+   "prompt": "eine olympische Sportart, die mit B beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
     {
      "altSpellings": [
-        "Steuerklasse eins",
-        "Eins",
-        "Steuerklasse I",
-        "I"
+      "Steuerklasse eins",
+      "Eins",
+      "Steuerklasse I",
+      "I"
      ],
      "answer": "1"
     },
     {
      "altSpellings": [
-        "Steuerklasse zwei",
-        "Zwei",
-        "Steuerklasse II",
-        "II"
+      "Steuerklasse zwei",
+      "Zwei",
+      "Steuerklasse II",
+      "II"
      ],
      "answer": "2"
     },
     {
      "altSpellings": [
-        "Steuerklasse drei",
-        "Drei",
-        "Steuerklasse III",
-        "III"
+      "Steuerklasse drei",
+      "Drei",
+      "Steuerklasse III",
+      "III"
      ],
      "answer": "3"
     },
     {
      "altSpellings": [
-        "Steuerklasse vier",
-        "Vier",
-        "Steuerklasse IV",
-        "IV"
+      "Steuerklasse vier",
+      "Vier",
+      "Steuerklasse IV",
+      "IV"
      ],
      "answer": "4"
     },
     {
      "altSpellings": [
-        "Steuerklasse fünf",
-        "Fünf",
-        "Steuerklasse V",
-        "V"
+      "Steuerklasse fünf",
+      "Fünf",
+      "Steuerklasse V",
+      "V"
      ],
      "answer": "5"
     },
     {
      "altSpellings": [
-        "Steuerklasse sechs",
-        "Sechs",
-        "Steuerklasse VI",
-        "VI"
+      "Steuerklasse sechs",
+      "Sechs",
+      "Steuerklasse VI",
+      "VI"
      ],
      "answer": "6"
     }
    ],
    "category": "NORMAL",
    "id": "116743",
-   "prompt": "eine deutsche Steuerklasse"
+   "prompt": "eine deutsche Steuerklasse",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3100,7 +3165,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "116747",
-   "prompt": "eine vorinstallierte iPhone-App, die mit K beginnt"
+   "prompt": "eine vorinstallierte iPhone-App, die mit K beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3159,7 +3225,8 @@
    ],
    "category": "NORMAL",
    "id": "116751",
-   "prompt": "eine SpongeBob-Hauptfigur"
+   "prompt": "eine SpongeBob-Hauptfigur",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3230,7 +3297,8 @@
    ],
    "category": "NORMAL",
    "id": "116752",
-   "prompt": "eine Pokerhand"
+   "prompt": "eine Pokerhand",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3309,7 +3377,8 @@
    ],
    "category": "NORMAL",
    "id": "116753",
-   "prompt": "ein Sternzeichen"
+   "prompt": "ein Sternzeichen",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3341,7 +3410,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "116754",
-   "prompt": "ein asiatisches Land, das mit S beginnt"
+   "prompt": "ein asiatisches Land, das mit S beginnt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3388,7 +3458,8 @@
    ],
    "category": "NORMAL",
    "id": "117751",
-   "prompt": "ein Jahr zwischen 2000 und 2009"
+   "prompt": "ein Jahr zwischen 2000 und 2009",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3450,7 +3521,8 @@
    ],
    "category": "NORMAL",
    "id": "117752",
-   "prompt": "eine Zahl, die beim Sudoku verwendet wird"
+   "prompt": "eine Zahl, die beim Sudoku verwendet wird",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3481,7 +3553,8 @@
    ],
    "category": "NORMAL",
    "id": "117753",
-   "prompt": "ein Mitglied der Band [i]Die Ärzte[/i]"
+   "prompt": "ein Mitglied der Band [i]Die Ärzte[/i]",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -3554,7 +3627,8 @@
    ],
    "category": "NORMAL",
    "id": "117754",
-   "prompt": "eine der zehn Plagen Ägyptens"
+   "prompt": "eine der zehn Plagen Ägyptens",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3620,7 +3694,8 @@
    ],
    "category": "NORMAL",
    "id": "117755",
-   "prompt": "eine Wortart"
+   "prompt": "eine Wortart",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3680,7 +3755,8 @@
    ],
    "category": "NORMAL",
    "id": "118662",
-   "prompt": "ein Vieleck mit höchstens acht Seiten"
+   "prompt": "ein Vieleck mit höchstens acht Seiten",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3701,7 +3777,8 @@
    ],
    "category": "NORMAL",
    "id": "118663",
-   "prompt": "eine Eissorte im Fürst-Pückler-Eis"
+   "prompt": "eine Eissorte im Fürst-Pückler-Eis",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3735,7 +3812,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "118664",
-   "prompt": "eines der fünf ständigen Verfassungsorgane Deutschlands"
+   "prompt": "eines der fünf ständigen Verfassungsorgane Deutschlands",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3775,7 +3853,8 @@
    ],
    "category": "NORMAL",
    "id": "118665",
-   "prompt": "eine typische Zutat in Tiramisu"
+   "prompt": "eine typische Zutat in Tiramisu",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3837,7 +3916,8 @@
    ],
    "category": "NORMAL",
    "id": "118666",
-   "prompt": "eine ganze Zahl zwischen 62 und 70"
+   "prompt": "eine ganze Zahl zwischen 62 und 70",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3894,13 +3974,14 @@
    ],
    "category": "NORMAL",
    "id": "118667",
-   "prompt": "eines der neun bevölkerungsreichsten Länder"
+   "prompt": "eines der neun bevölkerungsreichsten Länder",
+   "releaseVersion": 1
   },
   {
    "answers": [
     {
      "altSpellings": [
-        "Weiss"
+      "Weiss"
      ],
      "answer": "Weiß"
     },
@@ -3944,7 +4025,8 @@
    ],
    "category": "NORMAL",
    "id": "118668",
-   "prompt": "eine Farbe einer vollfarbigen Billardkugel"
+   "prompt": "eine Farbe einer vollfarbigen Billardkugel",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -3994,7 +4076,8 @@
    ],
    "category": "NORMAL",
    "id": "118672",
-   "prompt": "einer der Fahrer in [i]Super Mario Kart[/i]"
+   "prompt": "einer der Fahrer in [i]Super Mario Kart[/i]",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4044,7 +4127,8 @@
    ],
    "category": "NORMAL",
    "id": "118675",
-   "prompt": "einer von Winnie Puuhs Freunden"
+   "prompt": "einer von Winnie Puuhs Freunden",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4087,7 +4171,8 @@
    ],
    "category": "NORMAL",
    "id": "118677",
-   "prompt": "ein Land, dessen Name auf „-stan“ endet"
+   "prompt": "ein Land, dessen Name auf „-stan“ endet",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4134,7 +4219,8 @@
    ],
    "category": "SINGLE-LETTER",
    "id": "118684",
-   "prompt": "ein Land, das mit „-land“ endet"
+   "prompt": "ein Land, das mit „-land“ endet",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4175,7 +4261,8 @@
    ],
    "category": "NORMAL",
    "id": "118729",
-   "prompt": "ein Land, das an Polen grenzt"
+   "prompt": "ein Land, das an Polen grenzt",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4219,7 +4306,8 @@
    ],
    "category": "NORMAL",
    "id": "118731",
-   "prompt": "eines von diesen sieben unglaublich coolen Wörtern"
+   "prompt": "eines von diesen sieben unglaublich coolen Wörtern",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4271,7 +4359,8 @@
    ],
    "category": "NORMAL",
    "id": "118732",
-   "prompt": "ein Avenger aus [i]Marvel’s The Avengers[/i] von 2012"
+   "prompt": "ein Avenger aus [i]Marvel’s The Avengers[/i] von 2012",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4306,7 +4395,8 @@
    ],
    "category": "NORMAL",
    "id": "118733",
-   "prompt": "einer der letzten sieben Buchstaben des Alphabets"
+   "prompt": "einer der letzten sieben Buchstaben des Alphabets",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4357,7 +4447,8 @@
    ],
    "category": "NORMAL",
    "id": "118734",
-   "prompt": "eine Mondphase"
+   "prompt": "eine Mondphase",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4442,7 +4533,8 @@
    ],
    "category": "NORMAL",
    "id": "118735",
-   "prompt": "ein bekanntes Mitglied der Simpsons-Familie"
+   "prompt": "ein bekanntes Mitglied der Simpsons-Familie",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4470,7 +4562,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "118738",
-   "prompt": "einer der drei Detektive aus [i]Die drei ???[/i]"
+   "prompt": "einer der drei Detektive aus [i]Die drei ???[/i]",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4497,7 +4590,8 @@
    "category": "NORMAL",
    "countrySpecific": false,
    "id": "118739",
-   "prompt": "eine der drei täglichen Hauptmahlzeiten"
+   "prompt": "eine der drei täglichen Hauptmahlzeiten",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4522,7 +4616,8 @@
    ],
    "category": "NORMAL",
    "id": "118742",
-   "prompt": "eines der drei wichtigsten subatomaren Teilchen"
+   "prompt": "eines der drei wichtigsten subatomaren Teilchen",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4554,7 +4649,8 @@
    "category": "NORMAL",
    "id": "118941",
    "prompt": "einer der sechs Buchstaben im Wort „MORDEN“",
-   "x": true
+   "x": true,
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4610,7 +4706,8 @@
    ],
    "category": "NORMAL",
    "id": "118942",
-   "prompt": "eine der ersten neun Disney-Prinzessinnen"
+   "prompt": "eine der ersten neun Disney-Prinzessinnen",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4662,7 +4759,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "118943",
-   "prompt": "eines der neun Nachbarländer Deutschlands"
+   "prompt": "eines der neun Nachbarländer Deutschlands",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4695,7 +4793,8 @@
    ],
    "category": "NORMAL",
    "id": "118944",
-   "prompt": "ein Land, in dem Deutsch landesweit Amts- oder Verwaltungssprache ist"
+   "prompt": "ein Land, in dem Deutsch landesweit Amts- oder Verwaltungssprache ist",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4739,7 +4838,8 @@
    ],
    "category": "NORMAL",
    "id": "121370",
-   "prompt": "ein Kontinent"
+   "prompt": "ein Kontinent",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4883,7 +4983,8 @@
    ],
    "category": "NORMAL",
    "id": "121371",
-   "prompt": "ein Gründungsmitglied der Fußball-Bundesliga"
+   "prompt": "ein Gründungsmitglied der Fußball-Bundesliga",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -4956,7 +5057,8 @@
    ],
    "category": "NORMAL",
    "id": "121372",
-   "prompt": "eines der ersten zehn Elemente des Periodensystems"
+   "prompt": "eines der ersten zehn Elemente des Periodensystems",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -5013,7 +5115,8 @@
    ],
    "category": "NORMAL",
    "id": "121373",
-   "prompt": "ein Wochentag"
+   "prompt": "ein Wochentag",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -5081,7 +5184,8 @@
    ],
    "category": "NORMAL",
    "id": "121374",
-   "prompt": "ein Land in Südamerika"
+   "prompt": "ein Land in Südamerika",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -5155,7 +5259,8 @@
    ],
    "category": "NORMAL",
    "id": "121375",
-   "prompt": "eine typische Zutat in Ratatouille"
+   "prompt": "eine typische Zutat in Ratatouille",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -5217,7 +5322,8 @@
    ],
    "category": "NORMAL",
    "id": "121376",
-   "prompt": "ein Mitglied der Gemeinschaft des Rings"
+   "prompt": "ein Mitglied der Gemeinschaft des Rings",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -5262,7 +5368,8 @@
    ],
    "category": "NORMAL",
    "id": "121377",
-   "prompt": "ein Planet unseres Sonnensystems"
+   "prompt": "ein Planet unseres Sonnensystems",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -5307,7 +5414,8 @@
    ],
    "category": "NORMAL",
    "id": "121378",
-   "prompt": "eine Schachfigur"
+   "prompt": "eine Schachfigur",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -5385,7 +5493,8 @@
    "category": "NORMAL",
    "countrySpecific": true,
    "id": "121379",
-   "prompt": "ein deutscher Bundespräsident vor Frank-Walter Steinmeier"
+   "prompt": "ein deutscher Bundespräsident vor Frank-Walter Steinmeier",
+   "releaseVersion": 1
   },
   {
    "answers": [
@@ -5408,7 +5517,8 @@
    ],
    "category": "NORMAL",
    "id": "121764",
-   "prompt": "einer der vier Bremer Stadtmusikanten"
+   "prompt": "einer der vier Bremer Stadtmusikanten",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5441,7 +5551,8 @@
    ],
    "category": "NORMAL",
    "id": "121765",
-   "prompt": "einer der vier längsten Flüsse der Welt"
+   "prompt": "einer der vier längsten Flüsse der Welt",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5483,7 +5594,8 @@
    ],
    "category": "NORMAL",
    "id": "121766",
-   "prompt": "eine Bezeichnung für ein Lochergebnis beim Golf"
+   "prompt": "eine Bezeichnung für ein Lochergebnis beim Golf",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5521,7 +5633,8 @@
    ],
    "category": "NORMAL",
    "id": "121767",
-   "prompt": "eines dieser fünf tollen Wörter"
+   "prompt": "eines dieser fünf tollen Wörter",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5567,7 +5680,8 @@
    ],
    "category": "NORMAL",
    "id": "121768",
-   "prompt": "einer der sechs Freunde aus [i]Friends[/i]"
+   "prompt": "einer der sechs Freunde aus [i]Friends[/i]",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5598,7 +5712,8 @@
    ],
    "category": "NORMAL",
    "id": "121769",
-   "prompt": "eine Farbe des ursprünglichen Zauberwürfels"
+   "prompt": "eine Farbe des ursprünglichen Zauberwürfels",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5656,7 +5771,8 @@
    ],
    "category": "NORMAL",
    "id": "121770",
-   "prompt": "eine Zutat eines Big Mac"
+   "prompt": "eine Zutat eines Big Mac",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5709,7 +5825,8 @@
    ],
    "category": "NORMAL",
    "id": "121771",
-   "prompt": "eine der sieben Todsünden"
+   "prompt": "eine der sieben Todsünden",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5742,7 +5859,8 @@
    ],
    "category": "NORMAL",
    "id": "121772",
-   "prompt": "eine der sechs Farben des Spektrums des sichtbaren Lichts"
+   "prompt": "eine der sechs Farben des Spektrums des sichtbaren Lichts",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5781,7 +5899,8 @@
    ],
    "category": "NORMAL",
    "id": "121773",
-   "prompt": "einer der ersten acht Buchstaben des Alphabets"
+   "prompt": "einer der ersten acht Buchstaben des Alphabets",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5807,7 +5926,8 @@
    ],
    "category": "NORMAL",
    "id": "121774",
-   "prompt": "Vergangenheit, Gegenwart oder Zukunft"
+   "prompt": "Vergangenheit, Gegenwart oder Zukunft",
+   "releaseVersion": 0
   },
   {
    "answers": [
@@ -5833,7 +5953,8 @@
    ],
    "category": "NORMAL",
    "id": "121775",
-   "prompt": "eine ungerade Zahl zwischen 4 und 10"
+   "prompt": "eine ungerade Zahl zwischen 4 und 10",
+   "releaseVersion": 0
   }
  ]
 }

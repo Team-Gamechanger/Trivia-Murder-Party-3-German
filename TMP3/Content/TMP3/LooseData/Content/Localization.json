@@ -388,6 +388,12 @@
      "value": [
       "Erzielt ein sicherer Spieler mehr Punkte als du, stirbst du!"
      ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_0",
+     "value": [
+      "Ihr bekommt einen Opferbecher mit einer bestimmten Menge Blut."
+     ]
     }
    ]
   }

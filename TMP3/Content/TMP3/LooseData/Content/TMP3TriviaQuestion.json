@@ -1,4 +1,4 @@
-﻿{
+{
   "content": [
     {
       "choices": [
@@ -22,7 +22,9 @@
       "difficulty": "NORMAL",
       "id": "104512",
       "outro": "",
-      "question": "Welches dieser Instrumente hat die meisten Saiten?"
+      "question": "Welches dieser Instrumente hat die meisten Saiten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -46,7 +48,9 @@
       "difficulty": "NORMAL",
       "id": "104513",
       "outro": "",
-      "question": "Aus welchem Material bestehen die hohen, flauschigen Mützen der britischen Königsgarde?"
+      "question": "Aus welchem Material bestehen die hohen, flauschigen Mützen der britischen Königsgarde?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -70,7 +74,9 @@
       "difficulty": "NORMAL",
       "id": "104514",
       "outro": "",
-      "question": "Was ist das silbrige Zeug in altmodischen Glasthermometern?"
+      "question": "Was ist das silbrige Zeug in altmodischen Glasthermometern?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -94,7 +100,9 @@
       "difficulty": "NORMAL",
       "id": "104515",
       "outro": "",
-      "question": "Wie hoch ist der Berliner Fernsehturm?"
+      "question": "Wie hoch ist der Berliner Fernsehturm?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -118,7 +126,9 @@
       "difficulty": "NORMAL",
       "id": "104516",
       "outro": "",
-      "question": "Welches Wort ist ein Anagramm von „Regal“?"
+      "question": "Welches Wort ist ein Anagramm von „Regal“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -142,7 +152,9 @@
       "difficulty": "NORMAL",
       "id": "104518",
       "outro": "",
-      "question": "Welcher Frauenschwarm heißt mit Nachnamen so wie die Insel, auf die Napoleon 1814 verbannt wurde?"
+      "question": "Welcher Frauenschwarm heißt mit Nachnamen so wie die Insel, auf die Napoleon 1814 verbannt wurde?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -166,7 +178,9 @@
       "difficulty": "NORMAL",
       "id": "104519",
       "outro": "Im Ernst, was mache ich da? War das ein Fehler? Stehen mir die dicken Strähnchen?",
-      "question": "Was mache ich, wenn ich mein Keratin mit Wasserstoffperoxid und Persulfatsalzen einreibe?"
+      "question": "Was mache ich, wenn ich mein Keratin mit Wasserstoffperoxid und Persulfatsalzen einreibe?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -190,7 +204,9 @@
       "difficulty": "HARD",
       "id": "104520",
       "outro": "",
-      "question": "Wofür stand der Name HARIBO ursprünglich?"
+      "question": "Wofür stand der Name HARIBO ursprünglich?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -214,7 +230,9 @@
       "difficulty": "NORMAL",
       "id": "104522",
       "outro": "(singt) Achtzehn kleine Zehen! Papas allerliebste kleine Zehen.",
-      "question": "Wie viele Zehenballen hat eine gewöhnliche Katze insgesamt?"
+      "question": "Wie viele Zehenballen hat eine gewöhnliche Katze insgesamt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -238,7 +256,9 @@
       "difficulty": "NORMAL",
       "id": "104524",
       "outro": "",
-      "question": "Welcher Buchstabe fehlt in dieser Frage?"
+      "question": "Welcher Buchstabe fehlt in dieser Frage?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -262,7 +282,9 @@
       "difficulty": "NORMAL",
       "id": "104526",
       "outro": "",
-      "question": "Welche Buchreihe ist nach [i]Harry Potter[/i] die meistverkaufte aller Zeiten?"
+      "question": "Welche Buchreihe ist nach [i]Harry Potter[/i] die meistverkaufte aller Zeiten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -287,7 +309,11 @@
       "difficulty": "NORMAL",
       "id": "104538",
       "outro": "",
-      "question": "Wer war NICHT in der ersten Staffel von [i]LOL: Last One Laughing[/i] dabei?"
+      "question": "Wer war NICHT in der ersten Staffel von [i]LOL: Last One Laughing[/i] dabei?",
+      "releaseVersion": 0,
+      "categories": [
+        "filmtv"
+      ]
     },
     {
       "choices": [
@@ -311,7 +337,9 @@
       "difficulty": "NORMAL",
       "id": "104540",
       "outro": "",
-      "question": "Welcher karibische Staat erlangte als erster seine Unabhängigkeit von einer Kolonialmacht?"
+      "question": "Welcher karibische Staat erlangte als erster seine Unabhängigkeit von einer Kolonialmacht?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -335,7 +363,9 @@
       "difficulty": "NORMAL",
       "id": "104541",
       "outro": "",
-      "question": "Welche Sprache gehört NICHT zu den vier Landessprachen der Schweiz?"
+      "question": "Welche Sprache gehört NICHT zu den vier Landessprachen der Schweiz?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -359,7 +389,9 @@
       "difficulty": "NORMAL",
       "id": "104542",
       "outro": "",
-      "question": "Wofür steht die Abkürzung LSF?"
+      "question": "Wofür steht die Abkürzung LSF?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -383,7 +415,9 @@
       "difficulty": "NORMAL",
       "id": "104546",
       "outro": "",
-      "question": "Das Unternehmen, das 2024 Japans Mondrover mitentwickelte, entwarf in den Achtzigern auch welches Spielzeug?"
+      "question": "Das Unternehmen, das 2024 Japans Mondrover mitentwickelte, entwarf in den Achtzigern auch welches Spielzeug?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -414,7 +448,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche Schachfigur kann als einzige über andere Figuren springen?"
+      "question": "Welche Schachfigur kann als einzige über andere Figuren springen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -438,7 +474,9 @@
       "difficulty": "NORMAL",
       "id": "104549",
       "outro": "",
-      "question": "Wie viele Nachbarländer hat Deutschland?"
+      "question": "Wie viele Nachbarländer hat Deutschland?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -462,7 +500,9 @@
       "difficulty": "HARD",
       "id": "104550",
       "outro": "",
-      "question": "Eine prähistorische Höhlenmalerei in Patagonien zeigt 829 …"
+      "question": "Eine prähistorische Höhlenmalerei in Patagonien zeigt 829 …",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -486,7 +526,9 @@
       "difficulty": "NORMAL",
       "id": "104554",
       "outro": "",
-      "question": "Wer verliebte sich in der griechischen Mythologie in sein eigenes Spiegelbild?"
+      "question": "Wer verliebte sich in der griechischen Mythologie in sein eigenes Spiegelbild?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -510,7 +552,9 @@
       "difficulty": "HARD",
       "id": "104555",
       "outro": "",
-      "question": "Welche Korngröße ist in der Geologie die kleinste?"
+      "question": "Welche Korngröße ist in der Geologie die kleinste?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -534,7 +578,9 @@
       "difficulty": "NORMAL",
       "id": "104556",
       "outro": "",
-      "question": "Was war KEIN Motiv einer von Monets Gemäldeserien?"
+      "question": "Was war KEIN Motiv einer von Monets Gemäldeserien?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -558,7 +604,9 @@
       "difficulty": "HARD",
       "id": "104562",
       "outro": "",
-      "question": "Zu welcher Schiffsklasse gehört die U.S.S. Enterprise NCC-1701-D in [i]Raumschiff Enterprise – Das nächste Jahrhundert[/i]?"
+      "question": "Zu welcher Schiffsklasse gehört die U.S.S. Enterprise NCC-1701-D in [i]Raumschiff Enterprise – Das nächste Jahrhundert[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -582,7 +630,9 @@
       "difficulty": "NORMAL",
       "id": "104564",
       "outro": "",
-      "question": "Welches Gemüse gehört NICHT zur Gattung Lauch?"
+      "question": "Welches Gemüse gehört NICHT zur Gattung Lauch?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -606,7 +656,9 @@
       "difficulty": "NORMAL",
       "id": "104567",
       "outro": "",
-      "question": "Welcher dieser Bälle ist am größten?"
+      "question": "Welcher dieser Bälle ist am größten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -630,7 +682,9 @@
       "difficulty": "NORMAL",
       "id": "104568",
       "outro": "",
-      "question": "Wer ist Odile in [i]Schwanensee[/i]?"
+      "question": "Wer ist Odile in [i]Schwanensee[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -654,7 +708,9 @@
       "difficulty": "NORMAL",
       "id": "104584",
       "outro": "",
-      "question": "Welches Land hat einen Elefanten als Nationaltier?"
+      "question": "Welches Land hat einen Elefanten als Nationaltier?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -678,7 +734,9 @@
       "difficulty": "NORMAL",
       "id": "104594",
       "outro": "",
-      "question": "Wer moderiert die ZDF-Trödelshow [i]Bares für Rares[/i]?"
+      "question": "Wer moderiert die ZDF-Trödelshow [i]Bares für Rares[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -702,7 +760,9 @@
       "difficulty": "HARD",
       "id": "104600",
       "outro": "",
-      "question": "Welche Disziplin gehört NICHT zum olympischen Zehnkampf der Männer?"
+      "question": "Welche Disziplin gehört NICHT zum olympischen Zehnkampf der Männer?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -726,7 +786,9 @@
       "difficulty": "HARD",
       "id": "104602",
       "outro": "",
-      "question": "Wenn ich meinen Feinden sage, sie sollen mit einem offenen Auge schlafen – welche Schlafart lege ich ihnen biologisch betrachtet nahe?"
+      "question": "Wenn ich meinen Feinden sage, sie sollen mit einem offenen Auge schlafen – welche Schlafart lege ich ihnen biologisch betrachtet nahe?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -750,7 +812,9 @@
       "difficulty": "NORMAL",
       "id": "104603",
       "outro": "",
-      "question": "In welchem Jahr wurde der erste Anruf mit einem Mobiltelefon getätigt?"
+      "question": "In welchem Jahr wurde der erste Anruf mit einem Mobiltelefon getätigt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -774,7 +838,9 @@
       "difficulty": "NORMAL",
       "id": "104604",
       "outro": "",
-      "question": "Was wurde zum Jugendwort des Jahres 2012 gewählt?"
+      "question": "Was wurde zum Jugendwort des Jahres 2012 gewählt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -798,7 +864,9 @@
       "difficulty": "NORMAL",
       "id": "104605",
       "outro": "",
-      "question": "Wie viele Achttausender gibt es auf der Erde?"
+      "question": "Wie viele Achttausender gibt es auf der Erde?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -822,7 +890,9 @@
       "difficulty": "NORMAL",
       "id": "104606",
       "outro": "",
-      "question": "Welches Land gehörte NICHT zu Jugoslawien?"
+      "question": "Welches Land gehörte NICHT zu Jugoslawien?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -846,7 +916,9 @@
       "difficulty": "NORMAL",
       "id": "104607",
       "outro": "",
-      "question": "Wie nennt der Hautarzt die zarte Röte auf meinen Wangen?"
+      "question": "Wie nennt der Hautarzt die zarte Röte auf meinen Wangen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -870,7 +942,9 @@
       "difficulty": "NORMAL",
       "id": "104608",
       "outro": "",
-      "question": "Welches Tier schläft pro Tag am längsten?"
+      "question": "Welches Tier schläft pro Tag am längsten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -894,7 +968,9 @@
       "difficulty": "NORMAL",
       "id": "104611",
       "outro": "",
-      "question": "Welcher Markenname wurde erfunden, weil er sich in jeder Sprache leicht aussprechen lässt?"
+      "question": "Welcher Markenname wurde erfunden, weil er sich in jeder Sprache leicht aussprechen lässt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -918,7 +994,9 @@
       "difficulty": "NORMAL",
       "id": "104612",
       "outro": "",
-      "question": "Wer trägt die Kandidaten für das „Jugendwort des Jahres“ vor?"
+      "question": "Wer trägt die Kandidaten für das „Jugendwort des Jahres“ vor?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -942,7 +1020,9 @@
       "difficulty": "HARD",
       "id": "104613",
       "outro": "",
-      "question": "Wie viel Liter Bier wurden 2024 in Deutschland pro Kopf getrunken?"
+      "question": "Wie viel Liter Bier wurden 2024 in Deutschland pro Kopf getrunken?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -966,7 +1046,9 @@
       "difficulty": "NORMAL",
       "id": "104616",
       "outro": "",
-      "question": "Wer hat den Kultklassiker „Last Christmas“ gesungen?"
+      "question": "Wer hat den Kultklassiker „Last Christmas“ gesungen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -990,7 +1072,9 @@
       "difficulty": "HARD",
       "id": "104618",
       "outro": "",
-      "question": "Welches Länderpaar teilt sich KEINE Insel?"
+      "question": "Welches Länderpaar teilt sich KEINE Insel?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1014,7 +1098,9 @@
       "difficulty": "NORMAL",
       "id": "104619",
       "outro": "",
-      "question": "Was ist die Hauptstadt der Vereinigten Arabischen Emirate?"
+      "question": "Was ist die Hauptstadt der Vereinigten Arabischen Emirate?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1038,7 +1124,9 @@
       "difficulty": "NORMAL",
       "id": "104621",
       "outro": "",
-      "question": "Spoileralarm! Welches berühmte Wahrzeichen hat am Ende von [i]Planet der Affen[/i] einen Gastauftritt?"
+      "question": "Spoileralarm! Welches berühmte Wahrzeichen hat am Ende von [i]Planet der Affen[/i] einen Gastauftritt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1062,7 +1150,9 @@
       "difficulty": "NORMAL",
       "id": "104654",
       "outro": "",
-      "question": "In welches Land darf man als deutscher Staatsbürger NICHT visafrei einreisen?"
+      "question": "In welches Land darf man als deutscher Staatsbürger NICHT visafrei einreisen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1086,7 +1176,9 @@
       "difficulty": "NORMAL",
       "id": "104655",
       "outro": "",
-      "question": "Was ist KEIN Hersteller eines Corona-Impfstoff?"
+      "question": "Was ist KEIN Hersteller eines Corona-Impfstoff?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1110,7 +1202,9 @@
       "difficulty": "NORMAL",
       "id": "104658",
       "outro": "",
-      "question": "Wie viele LEGO-Steine hat LEGO bis 2024 ungefähr produziert? Also insgesamt."
+      "question": "Wie viele LEGO-Steine hat LEGO bis 2024 ungefähr produziert? Also insgesamt.",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1134,7 +1228,9 @@
       "difficulty": "HARD",
       "id": "104661",
       "outro": "",
-      "question": "Welcher YouTuber hat NICHT im deutschen „YouTuber-Haus“ gelebt?"
+      "question": "Welcher YouTuber hat NICHT im deutschen „YouTuber-Haus“ gelebt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1158,7 +1254,9 @@
       "difficulty": "NORMAL",
       "id": "104664",
       "outro": "",
-      "question": "In welchem Jahr verschwand die sogenannte Hausfrauenehe aus dem westdeutschen Gesetz?"
+      "question": "In welchem Jahr verschwand die sogenannte Hausfrauenehe aus dem westdeutschen Gesetz?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1182,7 +1280,9 @@
       "difficulty": "NORMAL",
       "id": "104667",
       "outro": "",
-      "question": "Kaffeebohnen sind die Samen welcher Frucht?"
+      "question": "Kaffeebohnen sind die Samen welcher Frucht?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1206,7 +1306,9 @@
       "difficulty": "NORMAL",
       "id": "104668",
       "outro": "",
-      "question": "Wer hat die Fussball-Weltmeisterschaft 2026 gewonnen?"
+      "question": "Wer hat die Fussball-Weltmeisterschaft 2026 gewonnen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1230,7 +1332,9 @@
       "difficulty": "HARD",
       "id": "104670",
       "outro": "",
-      "question": "Nach wem oder was wurde die Macadamianuss benannt?"
+      "question": "Nach wem oder was wurde die Macadamianuss benannt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1254,7 +1358,9 @@
       "difficulty": "NORMAL",
       "id": "104671",
       "outro": "",
-      "question": "Wenn Garfield 14 Jahre alt würde, wie viele Montage müsste er ungefähr ertragen?"
+      "question": "Wenn Garfield 14 Jahre alt würde, wie viele Montage müsste er ungefähr ertragen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1278,7 +1384,9 @@
       "difficulty": "NORMAL",
       "id": "104672",
       "outro": "Ich bin ein Psychopath, natürlich benutze ich Bing!",
-      "question": "Welche dieser Suchmaschinen ging zuerst online?"
+      "question": "Welche dieser Suchmaschinen ging zuerst online?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1309,7 +1417,9 @@
         ]
       },
       "outro": "",
-      "question": "Wie viel wiegt der Kopf eines durchschnittlichen Erwachsenen?"
+      "question": "Wie viel wiegt der Kopf eines durchschnittlichen Erwachsenen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1333,7 +1443,9 @@
       "difficulty": "HARD",
       "id": "104776",
       "outro": "",
-      "question": "Welcher Partei gehörte der erste Bundespräsident Deutschlands an?"
+      "question": "Welcher Partei gehörte der erste Bundespräsident Deutschlands an?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1357,7 +1469,9 @@
       "difficulty": "NORMAL",
       "id": "104778",
       "outro": "",
-      "question": "Was bedeutet es, wenn ein Minion „Poopaye!“ sagt?"
+      "question": "Was bedeutet es, wenn ein Minion „Poopaye!“ sagt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1381,7 +1495,9 @@
       "difficulty": "NORMAL",
       "id": "104780",
       "outro": "",
-      "question": "Wann verabschiedete Kanada seine eigene Verfassung und wurde vollständig unabhängig von Großbritannien?"
+      "question": "Wann verabschiedete Kanada seine eigene Verfassung und wurde vollständig unabhängig von Großbritannien?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1405,7 +1521,9 @@
       "difficulty": "NORMAL",
       "id": "104782",
       "outro": "",
-      "question": "Wofür steht die Abkürzung TÜV?"
+      "question": "Wofür steht die Abkürzung TÜV?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1429,7 +1547,9 @@
       "difficulty": "NORMAL",
       "id": "104783",
       "outro": "",
-      "question": "Was steckt im Höcker eines Kamels?"
+      "question": "Was steckt im Höcker eines Kamels?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1453,7 +1573,9 @@
       "difficulty": "NORMAL",
       "id": "104785",
       "outro": "",
-      "question": "Bei welcher Serie erklärt das Titellied NICHT, worum es geht?"
+      "question": "Bei welcher Serie erklärt das Titellied NICHT, worum es geht?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1477,7 +1599,9 @@
       "difficulty": "NORMAL",
       "id": "104787",
       "outro": "",
-      "question": "Wie entsteht ein Maultier?"
+      "question": "Wie entsteht ein Maultier?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1501,7 +1625,9 @@
       "difficulty": "NORMAL",
       "id": "104790",
       "outro": "",
-      "question": "Welcher „Lil“ steckt hinter [i]Old Town Road[/i] mit Billy Ray Cyrus?"
+      "question": "Welcher „Lil“ steckt hinter [i]Old Town Road[/i] mit Billy Ray Cyrus?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1525,7 +1651,9 @@
       "difficulty": "HARD",
       "id": "104822",
       "outro": "",
-      "question": "Wie heißt der Supermarkt in der Serie [i]Die Discounter[/i]?"
+      "question": "Wie heißt der Supermarkt in der Serie [i]Die Discounter[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1549,7 +1677,9 @@
       "difficulty": "NORMAL",
       "id": "104823",
       "outro": "",
-      "question": "Wessen Tournee überholte Taylor Swifts [i]The Eras Tour[/i], als sie zur umsatzstärksten Tournee aller Zeiten wurde?"
+      "question": "Wessen Tournee überholte Taylor Swifts [i]The Eras Tour[/i], als sie zur umsatzstärksten Tournee aller Zeiten wurde?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1573,7 +1703,9 @@
       "difficulty": "NORMAL",
       "id": "104824",
       "outro": "",
-      "question": "Welches dieser Bauwerke brauchte am längsten bis zur Fertigstellung?"
+      "question": "Welches dieser Bauwerke brauchte am längsten bis zur Fertigstellung?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1598,7 +1730,9 @@
       "difficulty": "NORMAL",
       "id": "104829",
       "outro": "",
-      "question": "Wie weit fährt man beim Ironman Rad – nach dem Schwimmen und vor dem Laufen?"
+      "question": "Wie weit fährt man beim Ironman Rad – nach dem Schwimmen und vor dem Laufen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1622,7 +1756,9 @@
       "difficulty": "NORMAL",
       "id": "104830",
       "outro": "",
-      "question": "Epheliden und Lentigines solares sind zwei Arten von …"
+      "question": "Epheliden und Lentigines solares sind zwei Arten von …",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1646,7 +1782,9 @@
       "difficulty": "NORMAL",
       "id": "104834",
       "outro": "",
-      "question": "Wer sagte: „Niemand hat die Absicht, eine Mauer zu errichten“?"
+      "question": "Wer sagte: „Niemand hat die Absicht, eine Mauer zu errichten“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1670,7 +1808,9 @@
       "difficulty": "NORMAL",
       "id": "104835",
       "outro": "",
-      "question": "Welcher Fußballweltmeister von 2014 wurde nie Deutscher Meister?"
+      "question": "Welcher Fußballweltmeister von 2014 wurde nie Deutscher Meister?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1694,7 +1834,9 @@
       "difficulty": "NORMAL",
       "id": "104836",
       "outro": "",
-      "question": "Wie viele von Daniel Craigs James-Bond-Filmen haben einen Titel aus nur einem Wort?"
+      "question": "Wie viele von Daniel Craigs James-Bond-Filmen haben einen Titel aus nur einem Wort?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1718,7 +1860,9 @@
       "difficulty": "NORMAL",
       "id": "104837",
       "outro": "",
-      "question": "Welcher Schnaps kommt NICHT in einen Long Island Iced Tea?"
+      "question": "Welcher Schnaps kommt NICHT in einen Long Island Iced Tea?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1742,7 +1886,9 @@
       "difficulty": "HARD",
       "id": "104838",
       "outro": "",
-      "question": "Wer wurde nach der Ermordung Julius Cäsars zum ersten römischen Kaiser?"
+      "question": "Wer wurde nach der Ermordung Julius Cäsars zum ersten römischen Kaiser?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1766,7 +1912,9 @@
       "difficulty": "NORMAL",
       "id": "104843",
       "outro": "",
-      "question": "Wie heißt der kleine Uhrenherr in [i]Die Schöne und das Biest[/i]?"
+      "question": "Wie heißt der kleine Uhrenherr in [i]Die Schöne und das Biest[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1790,7 +1938,9 @@
       "difficulty": "NORMAL",
       "id": "104845",
       "outro": "",
-      "question": "Welches Baufahrzeug glättet und verdichtet Asphalt mit einer großen Walze?"
+      "question": "Welches Baufahrzeug glättet und verdichtet Asphalt mit einer großen Walze?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1814,7 +1964,9 @@
       "difficulty": "NORMAL",
       "id": "104846",
       "outro": "",
-      "question": "Welche Geschmacksrichtung hatte das allererste Gatorade?"
+      "question": "Welche Geschmacksrichtung hatte das allererste Gatorade?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1838,7 +1990,9 @@
       "difficulty": "NORMAL",
       "id": "104850",
       "outro": "",
-      "question": "Wie lautet Marios vollständiger Name im Realfilm [i]Super Mario Bros.[/i] von 1993?"
+      "question": "Wie lautet Marios vollständiger Name im Realfilm [i]Super Mario Bros.[/i] von 1993?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1862,7 +2016,9 @@
       "difficulty": "NORMAL",
       "id": "104851",
       "outro": "",
-      "question": "Über welchen Fluss führt keine einzige Brücke?"
+      "question": "Über welchen Fluss führt keine einzige Brücke?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1886,7 +2042,9 @@
       "difficulty": "NORMAL",
       "id": "104852",
       "outro": "",
-      "question": "Welche Stadt liegt an keinem Fluss, See oder Meer?"
+      "question": "Welche Stadt liegt an keinem Fluss, See oder Meer?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1910,7 +2068,9 @@
       "difficulty": "NORMAL",
       "id": "104853",
       "outro": "",
-      "question": "Für welche Schraube brauchst du einen Kreuzschlitzschraubendreher?"
+      "question": "Für welche Schraube brauchst du einen Kreuzschlitzschraubendreher?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1934,7 +2094,9 @@
       "difficulty": "HARD",
       "id": "104854",
       "outro": "",
-      "question": "Wie heißen die kleinen Polster, aus denen bei Kakteen ganze Stachelbüschel wachsen?"
+      "question": "Wie heißen die kleinen Polster, aus denen bei Kakteen ganze Stachelbüschel wachsen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1958,7 +2120,9 @@
       "difficulty": "NORMAL",
       "id": "104855",
       "outro": "",
-      "question": "Welches Lebensmittel besteht zu ungefähr 80 Prozent aus Zucker?"
+      "question": "Welches Lebensmittel besteht zu ungefähr 80 Prozent aus Zucker?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -1982,7 +2146,9 @@
       "difficulty": "NORMAL",
       "id": "104856",
       "outro": "",
-      "question": "Welche Süßspeise besteht aus abwechselnden Schichten Butterkeksen und Schokoladencreme?"
+      "question": "Welche Süßspeise besteht aus abwechselnden Schichten Butterkeksen und Schokoladencreme?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2006,7 +2172,9 @@
       "difficulty": "NORMAL",
       "id": "104857",
       "outro": "",
-      "question": "Was ist ein Symptom von Hyperhidrose?"
+      "question": "Was ist ein Symptom von Hyperhidrose?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2030,7 +2198,9 @@
       "difficulty": "NORMAL",
       "id": "104859",
       "outro": "",
-      "question": "Welche Sprache wird auf den Philippinen hauptsächlich gesprochen?"
+      "question": "Welche Sprache wird auf den Philippinen hauptsächlich gesprochen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2054,7 +2224,9 @@
       "difficulty": "NORMAL",
       "id": "104860",
       "outro": "",
-      "question": "Wie heißt das Land Magyarország auf Deutsch?"
+      "question": "Wie heißt das Land Magyarország auf Deutsch?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2078,7 +2250,9 @@
       "difficulty": "NORMAL",
       "id": "104872",
       "outro": "",
-      "question": "Wann veröffentlichte Apple seine Emoji-Tastatur weltweit?"
+      "question": "Wann veröffentlichte Apple seine Emoji-Tastatur weltweit?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2102,7 +2276,9 @@
       "difficulty": "NORMAL",
       "id": "104874",
       "outro": "",
-      "question": "Woraus besteht die Mine eines Bleistifts?"
+      "question": "Woraus besteht die Mine eines Bleistifts?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2131,7 +2307,9 @@
         ]
       },
       "outro": "",
-      "question": "Woraus besteht laut Herbert Grönemeyer der Pulsschlag von Bochum?"
+      "question": "Woraus besteht laut Herbert Grönemeyer der Pulsschlag von Bochum?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2155,7 +2333,9 @@
       "difficulty": "NORMAL",
       "id": "104890",
       "outro": "",
-      "question": "Welche Nutzpflanze gehört NICHT zu den Nachtschattengewächsen?"
+      "question": "Welche Nutzpflanze gehört NICHT zu den Nachtschattengewächsen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2179,7 +2359,9 @@
       "difficulty": "NORMAL",
       "id": "104893",
       "outro": "",
-      "question": "Wo hast du KEINE Lymphknoten?"
+      "question": "Wo hast du KEINE Lymphknoten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2203,7 +2385,9 @@
       "difficulty": "NORMAL",
       "id": "104894",
       "outro": "",
-      "question": "Welches Land hat die meisten Inseln?"
+      "question": "Welches Land hat die meisten Inseln?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2227,7 +2411,9 @@
       "difficulty": "NORMAL",
       "id": "104895",
       "outro": "",
-      "question": "Was ist der meistverkaufte McDonald’s-Artikel aller Zeiten?"
+      "question": "Was ist der meistverkaufte McDonald’s-Artikel aller Zeiten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2251,7 +2437,9 @@
       "difficulty": "NORMAL",
       "id": "104897",
       "outro": "",
-      "question": "Wonach sind Cappuccino und Kapuzineraffen beide benannt?"
+      "question": "Wonach sind Cappuccino und Kapuzineraffen beide benannt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2275,7 +2463,9 @@
       "difficulty": "EASY",
       "id": "104900",
       "outro": "",
-      "question": "Wer wurde an den Iden des März ermordet?"
+      "question": "Wer wurde an den Iden des März ermordet?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2299,7 +2489,9 @@
       "difficulty": "HARD",
       "id": "104905",
       "outro": "",
-      "question": "Welches dieser Tiere ist KEIN Vogel?"
+      "question": "Welches dieser Tiere ist KEIN Vogel?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2323,7 +2515,9 @@
       "difficulty": "NORMAL",
       "id": "104906",
       "outro": "",
-      "question": "Wer spielt Bernd Stromberg in [i]Stromberg[/i]?"
+      "question": "Wer spielt Bernd Stromberg in [i]Stromberg[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2347,7 +2541,9 @@
       "difficulty": "NORMAL",
       "id": "105008",
       "outro": "",
-      "question": "Welcher Staat ist vollständig von Italien umschlossen?"
+      "question": "Welcher Staat ist vollständig von Italien umschlossen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2371,7 +2567,9 @@
       "difficulty": "NORMAL",
       "id": "105011",
       "outro": "",
-      "question": "Wer wurde im Osmanischen Reich geboren?"
+      "question": "Wer wurde im Osmanischen Reich geboren?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2396,7 +2594,9 @@
       "id": "105012",
       "outro": "",
       "question": "Welcher Satz enthält ein Partizip II?",
-      "x": true
+      "x": true,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2421,7 +2621,9 @@
       "difficulty": "NORMAL",
       "id": "105016",
       "outro": "Ich hätte ja „Carpe diem“ genommen. Passt immer irgendwie.",
-      "question": "Welchen lateinischen Satz soll Cäsar beim Überschreiten des Rubikon gesagt haben?"
+      "question": "Welchen lateinischen Satz soll Cäsar beim Überschreiten des Rubikon gesagt haben?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2450,7 +2652,9 @@
         ]
       },
       "outro": "Ich schwöre, Pikachu hatte eine schwarze Schwanzspitze!",
-      "question": "Wie heißt es, wenn viele Menschen dieselbe falsche Erinnerung teilen?"
+      "question": "Wie heißt es, wenn viele Menschen dieselbe falsche Erinnerung teilen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2474,7 +2678,9 @@
       "difficulty": "NORMAL",
       "id": "105187",
       "outro": "",
-      "question": "In welchem Sternbild befindet sich der Polarstern?"
+      "question": "In welchem Sternbild befindet sich der Polarstern?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2498,7 +2704,9 @@
       "difficulty": "NORMAL",
       "id": "105390",
       "outro": "",
-      "question": "Wie heißt das Ermittlerduo im Münsteraner [i]Tatort[/i]?"
+      "question": "Wie heißt das Ermittlerduo im Münsteraner [i]Tatort[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2529,7 +2737,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche dieser Linien ist ein Längengrad?"
+      "question": "Welche dieser Linien ist ein Längengrad?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2553,7 +2763,9 @@
       "difficulty": "NORMAL",
       "id": "105419",
       "outro": "",
-      "question": "Für welche Epoche stand die politische Metapher des Eisernen Vorhangs?"
+      "question": "Für welche Epoche stand die politische Metapher des Eisernen Vorhangs?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2584,7 +2796,9 @@
         ]
       },
       "outro": "",
-      "question": "Woraus wird Menthol gewonnen?"
+      "question": "Woraus wird Menthol gewonnen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2608,7 +2822,9 @@
       "difficulty": "NORMAL",
       "id": "105508",
       "outro": "",
-      "question": "Welches dieser Videospiele erschien zuerst?"
+      "question": "Welches dieser Videospiele erschien zuerst?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2632,7 +2848,9 @@
       "difficulty": "NORMAL",
       "id": "105512",
       "outro": "",
-      "question": "Woraus besteht der Erdkern größtenteils?"
+      "question": "Woraus besteht der Erdkern größtenteils?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2656,7 +2874,9 @@
       "difficulty": "NORMAL",
       "id": "105517",
       "outro": "",
-      "question": "Welches Bauwerk wurde NICHT für eine Weltausstellung errichtet?"
+      "question": "Welches Bauwerk wurde NICHT für eine Weltausstellung errichtet?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2680,7 +2900,9 @@
       "difficulty": "NORMAL",
       "id": "105522",
       "outro": "",
-      "question": "Welches Tier hat KEINE Zangen?"
+      "question": "Welches Tier hat KEINE Zangen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2704,7 +2926,9 @@
       "difficulty": "NORMAL",
       "id": "105542",
       "outro": "",
-      "question": "Welche Schriftart hat Serifen?"
+      "question": "Welche Schriftart hat Serifen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2728,7 +2952,9 @@
       "difficulty": "NORMAL",
       "id": "105548",
       "outro": "",
-      "question": "Welcher Popstar ist waschechter Kanadier?"
+      "question": "Welcher Popstar ist waschechter Kanadier?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2752,7 +2978,9 @@
       "difficulty": "HARD",
       "id": "105605",
       "outro": "",
-      "question": "Welches Sternzeichen hat jemand, der am 29. Februar geboren wurde?"
+      "question": "Welches Sternzeichen hat jemand, der am 29. Februar geboren wurde?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2776,7 +3004,9 @@
       "difficulty": "NORMAL",
       "id": "105607",
       "outro": "",
-      "question": "Welches Instrument spielte Udo Lindenberg, bevor er als Sänger berühmt wurde?"
+      "question": "Welches Instrument spielte Udo Lindenberg, bevor er als Sänger berühmt wurde?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2800,7 +3030,9 @@
       "difficulty": "NORMAL",
       "id": "105615",
       "outro": "",
-      "question": "Wer wählt in der katholischen Kirche den Papst?"
+      "question": "Wer wählt in der katholischen Kirche den Papst?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2825,7 +3057,9 @@
       "difficulty": "NORMAL",
       "id": "105620",
       "outro": "",
-      "question": "Welche Geschmacksrichtung haben die grünen Haribo-Goldbären heutzutage?"
+      "question": "Welche Geschmacksrichtung haben die grünen Haribo-Goldbären heutzutage?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2850,7 +3084,9 @@
       "id": "105944",
       "outro": "",
       "question": "Welcher Tod kommt in keinem [i]Final Destination[/i]-Film vor?",
-      "x": true
+      "x": true,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2874,7 +3110,9 @@
       "difficulty": "NORMAL",
       "id": "105945",
       "outro": "",
-      "question": "Hallo, Löwen! Mit wem könnte ich bei [i]Die Höhle der Löwen[/i] einen Deal machen?"
+      "question": "Hallo, Löwen! Mit wem könnte ich bei [i]Die Höhle der Löwen[/i] einen Deal machen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2898,7 +3136,9 @@
       "difficulty": "NORMAL",
       "id": "106018",
       "outro": "",
-      "question": "Wo sitzen die Ohren einer Grille?"
+      "question": "Wo sitzen die Ohren einer Grille?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2930,7 +3170,9 @@
         ]
       },
       "outro": "",
-      "question": "Wie viele Herzen hat ein Oktopus?"
+      "question": "Wie viele Herzen hat ein Oktopus?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2954,7 +3196,9 @@
       "difficulty": "NORMAL",
       "id": "106030",
       "outro": "",
-      "question": "Welche Blutzellen transportieren Sauerstoff durch den Körper?"
+      "question": "Welche Blutzellen transportieren Sauerstoff durch den Körper?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -2978,7 +3222,9 @@
       "difficulty": "HARD",
       "id": "106068",
       "outro": "",
-      "question": "Wie würdest du Dua Lipa auf Albanisch begrüßen?"
+      "question": "Wie würdest du Dua Lipa auf Albanisch begrüßen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3002,7 +3248,9 @@
       "difficulty": "NORMAL",
       "id": "106070",
       "outro": "",
-      "question": "Welche Elektronikkette wirbt mit dem Spruch „Ich bin doch nicht blöd“?"
+      "question": "Welche Elektronikkette wirbt mit dem Spruch „Ich bin doch nicht blöd“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3026,7 +3274,9 @@
       "difficulty": "NORMAL",
       "id": "106078",
       "outro": "",
-      "question": "Wer spielte Walter White in [i]Breaking Bad[/i]?"
+      "question": "Wer spielte Walter White in [i]Breaking Bad[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3050,7 +3300,9 @@
       "difficulty": "HARD",
       "id": "106085",
       "outro": "Hier nutzen wir Zwei-Faktor-Authentifizierung. Nicht, dass ich noch die falsche Person köpfe.",
-      "question": "Welches Passwort führte 2024 die weltweite NordPass-Liste der meistgenutzten Passwörter an?"
+      "question": "Welches Passwort führte 2024 die weltweite NordPass-Liste der meistgenutzten Passwörter an?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3074,7 +3326,9 @@
       "difficulty": "NORMAL",
       "id": "106094",
       "outro": "",
-      "question": "Welche Längeneinheit entspricht ungefähr dem mittleren Abstand zwischen Erde und Sonne?"
+      "question": "Welche Längeneinheit entspricht ungefähr dem mittleren Abstand zwischen Erde und Sonne?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3098,7 +3352,9 @@
       "difficulty": "NORMAL",
       "id": "106101",
       "outro": "",
-      "question": "Wer begründete in der Neuzeit das heliozentrische Weltbild, nach dem die Erde um die Sonne kreist?"
+      "question": "Wer begründete in der Neuzeit das heliozentrische Weltbild, nach dem die Erde um die Sonne kreist?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3122,7 +3378,9 @@
       "difficulty": "NORMAL",
       "id": "106105",
       "outro": "",
-      "question": "Welches Volk erbaute Machu Picchu?"
+      "question": "Welches Volk erbaute Machu Picchu?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3146,7 +3404,9 @@
       "difficulty": "NORMAL",
       "id": "106106",
       "outro": "",
-      "question": "Du Amateur nennst sie Wurfsterne. Wie heißen sie auf Japanisch?"
+      "question": "Du Amateur nennst sie Wurfsterne. Wie heißen sie auf Japanisch?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3171,7 +3431,9 @@
       "difficulty": "EASY",
       "id": "106107",
       "outro": "",
-      "question": "Welches deutsche Gesetz beginnt mit „Die Würde des Menschen ist unantastbar“?"
+      "question": "Welches deutsche Gesetz beginnt mit „Die Würde des Menschen ist unantastbar“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3195,7 +3457,9 @@
       "difficulty": "NORMAL",
       "id": "106125",
       "outro": "Die drei stecken übrigens auch in einem ganz besonderen Frühstücksmüsli, das ich erfunden habe!",
-      "question": "Zu welcher Gruppe des Periodensystems gehören Lithium, Natrium und Kalium?"
+      "question": "Zu welcher Gruppe des Periodensystems gehören Lithium, Natrium und Kalium?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3219,7 +3483,11 @@
       "difficulty": "NORMAL",
       "id": "106129",
       "outro": "",
-      "question": "Wohin versucht Odysseus in der [i]Odyssee[/i] zurückzukehren?"
+      "question": "Wohin versucht Odysseus in der [i]Odyssee[/i] zurückzukehren?",
+      "releaseVersion": 0,
+      "categories": [
+        "literature"
+      ]
     },
     {
       "choices": [
@@ -3243,7 +3511,9 @@
       "difficulty": "NORMAL",
       "id": "106137",
       "outro": "",
-      "question": "Mit welchem Werbespruch machte Saturn in Deutschland Jagd auf Schnäppchenjäger?"
+      "question": "Mit welchem Werbespruch machte Saturn in Deutschland Jagd auf Schnäppchenjäger?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3267,7 +3537,11 @@
       "difficulty": "NORMAL",
       "id": "106229",
       "outro": "",
-      "question": "Wie viele Gelbe Karten kann ein Fußballspieler in einem Spiel kassieren, bevor er vom Platz fliegt?"
+      "question": "Wie viele Gelbe Karten kann ein Fußballspieler in einem Spiel kassieren, bevor er vom Platz fliegt?",
+      "releaseVersion": 0,
+      "categories": [
+        "sports"
+      ]
     },
     {
       "choices": [
@@ -3291,7 +3565,9 @@
       "difficulty": "HARD",
       "id": "106237",
       "outro": "",
-      "question": "Wer war Marios erste große Liebe, noch bevor Prinzessin Peach auftauchte?"
+      "question": "Wer war Marios erste große Liebe, noch bevor Prinzessin Peach auftauchte?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3315,7 +3591,9 @@
       "difficulty": "NORMAL",
       "id": "106256",
       "outro": "",
-      "question": "Welche Figur hat in den ersten fünf Büchern von [i]Das Lied von Eis und Feuer[/i] die meisten Kapitel aus eigener Perspektive?"
+      "question": "Welche Figur hat in den ersten fünf Büchern von [i]Das Lied von Eis und Feuer[/i] die meisten Kapitel aus eigener Perspektive?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3346,7 +3624,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche römische Zahl folgt direkt auf LVIII?"
+      "question": "Welche römische Zahl folgt direkt auf LVIII?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3377,7 +3657,9 @@
         ]
       },
       "outro": "",
-      "question": "Welches Tier produziert KEINE Milch für seinen Nachwuchs?"
+      "question": "Welches Tier produziert KEINE Milch für seinen Nachwuchs?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3401,7 +3683,9 @@
       "difficulty": "NORMAL",
       "id": "106274",
       "outro": "",
-      "question": "Wo finde ich deine „Scapula“?"
+      "question": "Wo finde ich deine „Scapula“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3425,7 +3709,9 @@
       "difficulty": "NORMAL",
       "id": "106358",
       "outro": "",
-      "question": "Ich überlege, mir einen „Dorgi“ zuzulegen. Das ist eine Mischung aus Corgi und ...?"
+      "question": "Ich überlege, mir einen „Dorgi“ zuzulegen. Das ist eine Mischung aus Corgi und ...?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3449,7 +3735,9 @@
       "difficulty": "HARD",
       "id": "106364",
       "outro": "",
-      "question": "Auf welcher Flagge sind weder Menschen noch menschliche Körperteile zu sehen?"
+      "question": "Auf welcher Flagge sind weder Menschen noch menschliche Körperteile zu sehen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3473,7 +3761,9 @@
       "difficulty": "NORMAL",
       "id": "106381",
       "outro": "",
-      "question": "Aus welchem Reich stammte Feldherr Hannibal?"
+      "question": "Aus welchem Reich stammte Feldherr Hannibal?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3498,7 +3788,9 @@
       "difficulty": "NORMAL",
       "id": "106394",
       "outro": "",
-      "question": "Welche Sehenswürdigkeit steht NICHT in Berlin?"
+      "question": "Welche Sehenswürdigkeit steht NICHT in Berlin?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3522,7 +3814,9 @@
       "difficulty": "NORMAL",
       "id": "106397",
       "outro": "Schwebe wie ein Schmetterling, stich wie ein Schmetterling mit einer Machete.",
-      "question": "In welcher Gewichtsklasse boxte Muhammad Ali?"
+      "question": "In welcher Gewichtsklasse boxte Muhammad Ali?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3547,7 +3841,9 @@
       "difficulty": "HARD",
       "id": "106401",
       "outro": "",
-      "question": "Wer war der erste Bundespräsident der Bundesrepublik Deutschland?"
+      "question": "Wer war der erste Bundespräsident der Bundesrepublik Deutschland?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3571,7 +3867,9 @@
       "difficulty": "NORMAL",
       "id": "106402",
       "outro": "",
-      "question": "In welchem Land kannst du deine Zehen im mächtigen Nil baumeln lassen?"
+      "question": "In welchem Land kannst du deine Zehen im mächtigen Nil baumeln lassen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3595,7 +3893,9 @@
       "difficulty": "NORMAL",
       "id": "106406",
       "outro": "",
-      "question": "Wie viele Thesen soll Martin Luther 1517 an eine Tür geschlagen haben?"
+      "question": "Wie viele Thesen soll Martin Luther 1517 an eine Tür geschlagen haben?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3619,7 +3919,9 @@
       "difficulty": "HARD",
       "id": "106407",
       "outro": "",
-      "question": "Welches Land wählte 1995 die weltweit erste offen transgeschlechtliche Bürgermeisterin?"
+      "question": "Welches Land wählte 1995 die weltweit erste offen transgeschlechtliche Bürgermeisterin?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3643,7 +3945,9 @@
       "difficulty": "NORMAL",
       "id": "106410",
       "outro": "",
-      "question": "Wo spielt [i]Die Monster AG[/i]?"
+      "question": "Wo spielt [i]Die Monster AG[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3668,7 +3972,9 @@
       "difficulty": "NORMAL",
       "id": "106412",
       "outro": "",
-      "question": "Wofür steht der Name der Modekette H&M?"
+      "question": "Wofür steht der Name der Modekette H&M?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3692,7 +3998,9 @@
       "difficulty": "NORMAL",
       "id": "106413",
       "outro": "",
-      "question": "In welchem Museum kannst du van Goghs [i]Sternennacht[/i] sehen?"
+      "question": "In welchem Museum kannst du van Goghs [i]Sternennacht[/i] sehen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3716,7 +4024,9 @@
       "difficulty": "NORMAL",
       "id": "106421",
       "outro": "",
-      "question": "Welcher dieser Karaoke-Hits dauert weniger als drei Minuten?"
+      "question": "Welcher dieser Karaoke-Hits dauert weniger als drei Minuten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3740,7 +4050,9 @@
       "difficulty": "NORMAL",
       "id": "106426",
       "outro": "",
-      "question": "In welcher Stadt spielt die erste Staffel von [i]Haus des Geldes[/i]?"
+      "question": "In welcher Stadt spielt die erste Staffel von [i]Haus des Geldes[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3765,7 +4077,9 @@
       "difficulty": "NORMAL",
       "id": "106442",
       "outro": "",
-      "question": "Welcher Fluss fließt NICHT durch Berlin?"
+      "question": "Welcher Fluss fließt NICHT durch Berlin?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3789,7 +4103,9 @@
       "difficulty": "NORMAL",
       "id": "106445",
       "outro": "",
-      "question": "Welches Gas steckt üblicherweise in einer Glühlampe?"
+      "question": "Welches Gas steckt üblicherweise in einer Glühlampe?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3820,7 +4136,9 @@
         ]
       },
       "outro": "",
-      "question": "Wer singt den Hit „Havana“?"
+      "question": "Wer singt den Hit „Havana“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3845,7 +4163,9 @@
       "id": "106478",
       "outro": "",
       "question": "Wie viele Zitzen hat ein weibliches Opossum?",
-      "x": false
+      "x": false,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3869,7 +4189,9 @@
       "difficulty": "NORMAL",
       "id": "106479",
       "outro": "",
-      "question": "Wovon ernähren sich saproxylische Organismen?"
+      "question": "Wovon ernähren sich saproxylische Organismen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3893,7 +4215,9 @@
       "difficulty": "NORMAL",
       "id": "106490",
       "outro": "",
-      "question": "Wie lange dauerte der berühmte dokumentierte Rekordversuch, bei dem ein Mensch ohne Schlaf blieb?"
+      "question": "Wie lange dauerte der berühmte dokumentierte Rekordversuch, bei dem ein Mensch ohne Schlaf blieb?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3917,7 +4241,9 @@
       "difficulty": "NORMAL",
       "id": "106507",
       "outro": "",
-      "question": "Wie wird Milch pasteurisiert?"
+      "question": "Wie wird Milch pasteurisiert?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3941,7 +4267,9 @@
       "difficulty": "NORMAL",
       "id": "106508",
       "outro": "",
-      "question": "Was ist ein Caffè Americano?"
+      "question": "Was ist ein Caffè Americano?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3965,7 +4293,9 @@
       "difficulty": "NORMAL",
       "id": "106517",
       "outro": "",
-      "question": "Welches menschliche Organ wurde als erstes erfolgreich transplantiert?"
+      "question": "Welches menschliche Organ wurde als erstes erfolgreich transplantiert?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -3989,7 +4319,9 @@
       "difficulty": "NORMAL",
       "id": "106524",
       "outro": "",
-      "question": "Welches Organ ist bei einer Uveitis entzündet?"
+      "question": "Welches Organ ist bei einer Uveitis entzündet?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4013,7 +4345,9 @@
       "difficulty": "NORMAL",
       "id": "106525",
       "outro": "",
-      "question": "Messing ist eine Legierung aus Kupfer und welchem weiteren Metall?"
+      "question": "Messing ist eine Legierung aus Kupfer und welchem weiteren Metall?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4037,7 +4371,9 @@
       "difficulty": "NORMAL",
       "id": "106543",
       "outro": "",
-      "question": "Welches Tier hat KEINEN geringelten Schwanz?"
+      "question": "Welches Tier hat KEINEN geringelten Schwanz?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4061,7 +4397,9 @@
       "difficulty": "NORMAL",
       "id": "106545",
       "outro": "",
-      "question": "Welche Figur kommt in Goethes Ballade [i]Erlkönig[/i] NICHT vor?"
+      "question": "Welche Figur kommt in Goethes Ballade [i]Erlkönig[/i] NICHT vor?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4085,7 +4423,9 @@
       "difficulty": "NORMAL",
       "id": "106547",
       "outro": "",
-      "question": "In welchem Land liegt ein Teil des Kaukasus?"
+      "question": "In welchem Land liegt ein Teil des Kaukasus?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4109,7 +4449,9 @@
       "difficulty": "NORMAL",
       "id": "106548",
       "outro": "",
-      "question": "Welches Element trägt im Periodensystem das Symbol Sn?"
+      "question": "Welches Element trägt im Periodensystem das Symbol Sn?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4133,7 +4475,9 @@
       "difficulty": "NORMAL",
       "id": "106556",
       "outro": "",
-      "question": "Wie nennen Buddhisten den Kreislauf von Tod und Wiedergeburt, dem man durch das Nirwana entkommt?"
+      "question": "Wie nennen Buddhisten den Kreislauf von Tod und Wiedergeburt, dem man durch das Nirwana entkommt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4157,7 +4501,9 @@
       "difficulty": "NORMAL",
       "id": "106558",
       "outro": "",
-      "question": "Welches dieser Strickmuster gibt es wirklich?"
+      "question": "Welches dieser Strickmuster gibt es wirklich?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4188,7 +4534,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche vermeintliche Nuss ist botanisch eine Hülsenfrucht?"
+      "question": "Welche vermeintliche Nuss ist botanisch eine Hülsenfrucht?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4212,7 +4560,9 @@
       "difficulty": "NORMAL",
       "id": "106564",
       "outro": "",
-      "question": "Wie heißt der wissenschaftliche Effekt, der ein Objekt in der Nähe eines Schwarzen Lochs extrem in die Länge zieht?"
+      "question": "Wie heißt der wissenschaftliche Effekt, der ein Objekt in der Nähe eines Schwarzen Lochs extrem in die Länge zieht?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4236,7 +4586,9 @@
       "difficulty": "NORMAL",
       "id": "106577",
       "outro": "",
-      "question": "Welcher dieser winzigen Staaten ist flächenmäßig am kleinsten?"
+      "question": "Welcher dieser winzigen Staaten ist flächenmäßig am kleinsten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4260,7 +4612,9 @@
       "difficulty": "NORMAL",
       "id": "106578",
       "outro": "",
-      "question": "Welches Element ist neben Quecksilber bei Raumtemperatur flüssig?"
+      "question": "Welches Element ist neben Quecksilber bei Raumtemperatur flüssig?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4284,7 +4638,9 @@
       "difficulty": "NORMAL",
       "id": "106582",
       "outro": "",
-      "question": "Welches ist das flächenmäßig größte Land mit nur einer offiziellen Zeitzone?"
+      "question": "Welches ist das flächenmäßig größte Land mit nur einer offiziellen Zeitzone?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4308,7 +4664,9 @@
       "difficulty": "HARD",
       "id": "106584",
       "outro": "",
-      "question": "Die Milch welcher Göttin spritzte der griechischen Mythologie zufolge an den Himmel und wurde zur Milchstraße?"
+      "question": "Die Milch welcher Göttin spritzte der griechischen Mythologie zufolge an den Himmel und wurde zur Milchstraße?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4332,7 +4690,9 @@
       "difficulty": "NORMAL",
       "id": "106594",
       "outro": "",
-      "question": "Wo wohnt Patrick Star in [i]SpongeBob Schwammkopf[/i]?"
+      "question": "Wo wohnt Patrick Star in [i]SpongeBob Schwammkopf[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4356,7 +4716,9 @@
       "difficulty": "NORMAL",
       "id": "106612",
       "outro": "",
-      "question": "Wie heißt der weiße Halbmond am Ansatz deines Fingernagels?"
+      "question": "Wie heißt der weiße Halbmond am Ansatz deines Fingernagels?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4381,7 +4743,9 @@
       "difficulty": "NORMAL",
       "id": "106754",
       "outro": "",
-      "question": "Welche Vereine bestreiten das sogenannte Revierderby?"
+      "question": "Welche Vereine bestreiten das sogenannte Revierderby?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4405,7 +4769,9 @@
       "difficulty": "NORMAL",
       "id": "106755",
       "outro": "",
-      "question": "Was sammelt Sonic the Hedgehog in seinen Spielen hauptsächlich?"
+      "question": "Was sammelt Sonic the Hedgehog in seinen Spielen hauptsächlich?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4429,7 +4795,9 @@
       "difficulty": "NORMAL",
       "id": "106761",
       "outro": "",
-      "question": "Was stimmt NICHT über das Tote Meer?"
+      "question": "Was stimmt NICHT über das Tote Meer?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4453,7 +4821,9 @@
       "difficulty": "NORMAL",
       "id": "106775",
       "outro": "",
-      "question": "Welcher dickbäuchige Albtraum ist der gelbe Teletubby?"
+      "question": "Welcher dickbäuchige Albtraum ist der gelbe Teletubby?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4477,7 +4847,9 @@
       "difficulty": "NORMAL",
       "id": "106784",
       "outro": "",
-      "question": "Welches Land förderte 2023 das meiste Rohöl?"
+      "question": "Welches Land förderte 2023 das meiste Rohöl?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4502,7 +4874,9 @@
       "id": "106785",
       "outro": "",
       "question": "Welche Spirituose gehört neben Ginger Beer und Limette in einen Moscow Mule?",
-      "x": true
+      "x": true,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4526,7 +4900,9 @@
       "difficulty": "NORMAL",
       "id": "106794",
       "outro": "",
-      "question": "Wo am Körper bildet sich am ehesten ein Ganglion, also ein „Überbein“?"
+      "question": "Wo am Körper bildet sich am ehesten ein Ganglion, also ein „Überbein“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4550,7 +4926,9 @@
       "difficulty": "HARD",
       "id": "106898",
       "outro": "",
-      "question": "Was messe ich mit einem Auxanometer?"
+      "question": "Was messe ich mit einem Auxanometer?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4574,7 +4952,9 @@
       "difficulty": "HARD",
       "id": "106917",
       "outro": "",
-      "question": "Was stellst du in [i]Minecraft[/i] aus einer Amethystscherbe und zwei Kupferbarren her?"
+      "question": "Was stellst du in [i]Minecraft[/i] aus einer Amethystscherbe und zwei Kupferbarren her?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4598,7 +4978,9 @@
       "difficulty": "NORMAL",
       "id": "106939",
       "outro": "Natürlich habe ich das ausprobiert. Soll meine Legolas-Perücke etwa nur Staub ansetzen?",
-      "question": "In welchem [i]Herr-der-Ringe[/i]-Film fährt Legolas auf einem Schild wie auf einem Surfbrett?"
+      "question": "In welchem [i]Herr-der-Ringe[/i]-Film fährt Legolas auf einem Schild wie auf einem Surfbrett?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4622,7 +5004,9 @@
       "difficulty": "NORMAL",
       "id": "106942",
       "outro": "",
-      "question": "Welche leuchtende Erfindung gab es zuerst?"
+      "question": "Welche leuchtende Erfindung gab es zuerst?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4646,7 +5030,9 @@
       "difficulty": "NORMAL",
       "id": "106948",
       "outro": "",
-      "question": "Wer war König Artus’ Vater?"
+      "question": "Wer war König Artus’ Vater?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4670,7 +5056,9 @@
       "difficulty": "EASY",
       "id": "106954",
       "outro": "",
-      "question": "Wie heißt SpongeBobs Haustierschnecke?"
+      "question": "Wie heißt SpongeBobs Haustierschnecke?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4694,7 +5082,9 @@
       "difficulty": "HARD",
       "id": "107006",
       "outro": "",
-      "question": "Wie heißt die Hautpartie zwischen deinen hübschen kleinen Augenbrauen medizinisch?"
+      "question": "Wie heißt die Hautpartie zwischen deinen hübschen kleinen Augenbrauen medizinisch?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4720,7 +5110,9 @@
       "id": "107017",
       "outro": "",
       "question": "Welche Band vertrat Deutschland beim Eurovision Song Contest 2023?",
-      "x": true
+      "x": true,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4744,7 +5136,9 @@
       "difficulty": "NORMAL",
       "id": "107052",
       "outro": "Ich weiß, ich ermorde alle. Aber bei schlechten Trinkgeldgebern macht es deutlich mehr Spaß.",
-      "question": "Na, ihr Genies: Wie viel sind 20 Prozent Trinkgeld auf eine Rechnung von 577,50 Euro?"
+      "question": "Na, ihr Genies: Wie viel sind 20 Prozent Trinkgeld auf eine Rechnung von 577,50 Euro?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4768,7 +5162,9 @@
       "difficulty": "HARD",
       "id": "107092",
       "outro": "",
-      "question": "Welcher Vertrag wurde im Februar 1992 in Maastricht unterzeichnet?"
+      "question": "Welcher Vertrag wurde im Februar 1992 in Maastricht unterzeichnet?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4793,7 +5189,9 @@
       "difficulty": "NORMAL",
       "id": "107100",
       "outro": "",
-      "question": "Wer wurde 2021 die erste Außenministerin Deutschlands?"
+      "question": "Wer wurde 2021 die erste Außenministerin Deutschlands?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4817,7 +5215,9 @@
       "difficulty": "NORMAL",
       "id": "107114",
       "outro": "",
-      "question": "Welcher Snack hat ungefähr 260 Kilokalorien?"
+      "question": "Welcher Snack hat ungefähr 260 Kilokalorien?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4841,7 +5241,9 @@
       "difficulty": "HARD",
       "id": "107119",
       "outro": "",
-      "question": "Wie heißt das Raumschiff im Film [i]Interstellar[/i]?"
+      "question": "Wie heißt das Raumschiff im Film [i]Interstellar[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4865,7 +5267,9 @@
       "difficulty": "HARD",
       "id": "107121",
       "outro": "",
-      "question": "Wie heißt die bekannte Hauptmelodie aus [i]Tetris[/i]?"
+      "question": "Wie heißt die bekannte Hauptmelodie aus [i]Tetris[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4889,7 +5293,9 @@
       "difficulty": "NORMAL",
       "id": "107124",
       "outro": "",
-      "question": "Welche Farbe verleiht Safran Speisen typischerweise?"
+      "question": "Welche Farbe verleiht Safran Speisen typischerweise?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4913,7 +5319,9 @@
       "difficulty": "NORMAL",
       "id": "107132",
       "outro": "",
-      "question": "Welche Hunderasse ist Kabosu, das Gesicht der Kryptowährung Dogecoin?"
+      "question": "Welche Hunderasse ist Kabosu, das Gesicht der Kryptowährung Dogecoin?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4937,7 +5345,9 @@
       "difficulty": "NORMAL",
       "id": "107148",
       "outro": "",
-      "question": "Welches Gewässer grenzt an Rumänien, die Türkei und die Ukraine?"
+      "question": "Welches Gewässer grenzt an Rumänien, die Türkei und die Ukraine?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4968,7 +5378,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche essenzielle Aminosäure müssen Katzen über fleischreiche Nahrung aufnehmen?"
+      "question": "Welche essenzielle Aminosäure müssen Katzen über fleischreiche Nahrung aufnehmen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -4992,7 +5404,9 @@
       "difficulty": "HARD",
       "id": "107156",
       "outro": "",
-      "question": "Welches Vieleck hat die meisten Seiten?"
+      "question": "Welches Vieleck hat die meisten Seiten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5016,7 +5430,9 @@
       "difficulty": "NORMAL",
       "id": "107163",
       "outro": "Hoffentlich sind die Exponate nicht so klobig wie dieser Witz. Danke, ich bin die ganze Woche hier!",
-      "question": "In welchem Land steht das Internationale Holzschuhmuseum?"
+      "question": "In welchem Land steht das Internationale Holzschuhmuseum?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5040,7 +5456,9 @@
       "difficulty": "NORMAL",
       "id": "107166",
       "outro": "",
-      "question": "Wie heißt Beethovens einzige Oper?"
+      "question": "Wie heißt Beethovens einzige Oper?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5064,7 +5482,9 @@
       "difficulty": "NORMAL",
       "id": "107182",
       "outro": "",
-      "question": "Welche Zeile passt als zweite Zeile in ein Haiku?"
+      "question": "Welche Zeile passt als zweite Zeile in ein Haiku?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5088,7 +5508,9 @@
       "difficulty": "NORMAL",
       "id": "107231",
       "outro": "",
-      "question": "Welches Bauwerk gehört NICHT zu den 2007 gewählten neuen sieben Weltwundern?"
+      "question": "Welches Bauwerk gehört NICHT zu den 2007 gewählten neuen sieben Weltwundern?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5117,7 +5539,9 @@
         ]
       },
       "outro": "Ich bin kein Profi. Ich morde nur aus Liebe zum Spiel.",
-      "question": "Welches Wort stammt von einem lateinischen Wort für „Liebhaber“?"
+      "question": "Welches Wort stammt von einem lateinischen Wort für „Liebhaber“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5141,7 +5565,9 @@
       "difficulty": "NORMAL",
       "id": "107247",
       "outro": "",
-      "question": "Welches Tier ist das einzige wirklich flugfähige Säugetier?"
+      "question": "Welches Tier ist das einzige wirklich flugfähige Säugetier?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5165,7 +5591,9 @@
       "difficulty": "NORMAL",
       "id": "107251",
       "outro": "",
-      "question": "Wie heißt die Währung in [i]Pokémon Go[/i]?"
+      "question": "Wie heißt die Währung in [i]Pokémon Go[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5190,7 +5618,9 @@
       "difficulty": "NORMAL",
       "id": "107263",
       "outro": "",
-      "question": "Was ist neben Espresso die wichtigste Zutat eines Cappuccinos?"
+      "question": "Was ist neben Espresso die wichtigste Zutat eines Cappuccinos?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5214,7 +5644,9 @@
       "difficulty": "HARD",
       "id": "107267",
       "outro": "Mach nicht den offensichtlichen Furzwitz ... mach ihn nicht ... Mist, der ist mir einfach rausgerutscht!",
-      "question": "Welches Gas macht den größten Teil der Venusatmosphäre aus?"
+      "question": "Welches Gas macht den größten Teil der Venusatmosphäre aus?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5238,7 +5670,9 @@
       "difficulty": "HARD",
       "id": "107269",
       "outro": "",
-      "question": "Welches Ereignis geschah NACH der Entdeckung von Tutanchamuns Grab?"
+      "question": "Welches Ereignis geschah NACH der Entdeckung von Tutanchamuns Grab?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5262,7 +5696,9 @@
       "difficulty": "NORMAL",
       "id": "107302",
       "outro": "",
-      "question": "Welches davon ist ein offizielles Emoji? (Stand 2026)"
+      "question": "Welches davon ist ein offizielles Emoji? (Stand 2026)",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5286,7 +5722,9 @@
       "difficulty": "NORMAL",
       "id": "107354",
       "outro": "",
-      "question": "Welche Farbe kommt in den olympischen Ringen NICHT vor?"
+      "question": "Welche Farbe kommt in den olympischen Ringen NICHT vor?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5310,7 +5748,9 @@
       "difficulty": "NORMAL",
       "id": "107356",
       "outro": "",
-      "question": "Der Schrei welches Fabelwesens gilt als Todesomen?"
+      "question": "Der Schrei welches Fabelwesens gilt als Todesomen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5334,7 +5774,9 @@
       "difficulty": "NORMAL",
       "id": "107380",
       "outro": "",
-      "question": "Welches Land gehörte im Zweiten Weltkrieg NICHT zu den Achsenmächten?"
+      "question": "Welches Land gehörte im Zweiten Weltkrieg NICHT zu den Achsenmächten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5359,7 +5801,9 @@
       "difficulty": "NORMAL",
       "id": "107398",
       "outro": "",
-      "question": "Wie heißt der Burger den SpongeBob üblicherweise zubereitet?"
+      "question": "Wie heißt der Burger den SpongeBob üblicherweise zubereitet?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5383,7 +5827,9 @@
       "difficulty": "NORMAL",
       "id": "107455",
       "outro": "",
-      "question": "Wo besitzen Katzen KEINE Duftdrüsen?"
+      "question": "Wo besitzen Katzen KEINE Duftdrüsen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5407,7 +5853,9 @@
       "difficulty": "NORMAL",
       "id": "107457",
       "outro": "",
-      "question": "Welches Tier hat an jeder Hand zwei Daumen?"
+      "question": "Welches Tier hat an jeder Hand zwei Daumen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5431,7 +5879,9 @@
       "difficulty": "NORMAL",
       "id": "107460",
       "outro": "Reich mir eine Dose Limette-das-Kreuz! Ich liebe Limette-das-Kreuz!",
-      "question": "Was bedeutet „La Croix“ auf Französisch?"
+      "question": "Was bedeutet „La Croix“ auf Französisch?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5455,7 +5905,9 @@
       "difficulty": "NORMAL",
       "id": "107497",
       "outro": "",
-      "question": "Was folgt in der biologischen Systematik auf „Stamm, Klasse, Ordnung“?"
+      "question": "Was folgt in der biologischen Systematik auf „Stamm, Klasse, Ordnung“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5479,7 +5931,9 @@
       "difficulty": "NORMAL",
       "id": "107500",
       "outro": "Immer noch besser als mein Werbespruch: „Hoppla! Ich habe einen Salat ertränkt!“",
-      "question": "Welcher Werbespruch gehört zu Maggi?"
+      "question": "Welcher Werbespruch gehört zu Maggi?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5503,7 +5957,9 @@
       "difficulty": "HARD",
       "id": "107501",
       "outro": "",
-      "question": "Wer plünderte Rom im Jahr 410?"
+      "question": "Wer plünderte Rom im Jahr 410?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5527,7 +5983,9 @@
       "difficulty": "NORMAL",
       "id": "107508",
       "outro": "",
-      "question": "Welches Reich war auf seinem Höhepunkt das flächenmäßig größte der Geschichte?"
+      "question": "Welches Reich war auf seinem Höhepunkt das flächenmäßig größte der Geschichte?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5551,7 +6009,9 @@
       "difficulty": "HARD",
       "id": "107511",
       "outro": "",
-      "question": "In welchem Land tagt das älteste noch bestehende Parlament der Welt?"
+      "question": "In welchem Land tagt das älteste noch bestehende Parlament der Welt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5582,7 +6042,9 @@
         ]
       },
       "outro": "",
-      "question": "Welches Tempo ist am schnellsten?"
+      "question": "Welches Tempo ist am schnellsten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5606,7 +6068,9 @@
       "difficulty": "NORMAL",
       "id": "107693",
       "outro": "",
-      "question": "Wer stand in der mittelalterlichen Feudalordnung ganz unten?"
+      "question": "Wer stand in der mittelalterlichen Feudalordnung ganz unten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5630,7 +6094,9 @@
       "difficulty": "NORMAL",
       "id": "107698",
       "outro": "",
-      "question": "Wer genehmigt dir in [i]Animal Crossing: New Horizons[/i] den Hauskredit?"
+      "question": "Wer genehmigt dir in [i]Animal Crossing: New Horizons[/i] den Hauskredit?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5654,7 +6120,9 @@
       "difficulty": "NORMAL",
       "id": "107706",
       "outro": "",
-      "question": "Welches Mitglied der Kong-Familie trägt im [i]Donkey-Kong[/i]-Universum eine Sonnenbrille?"
+      "question": "Welches Mitglied der Kong-Familie trägt im [i]Donkey-Kong[/i]-Universum eine Sonnenbrille?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5678,7 +6146,9 @@
       "difficulty": "NORMAL",
       "id": "107708",
       "outro": "",
-      "question": "Welches Tier ernährt sich ausschließlich pflanzlich?"
+      "question": "Welches Tier ernährt sich ausschließlich pflanzlich?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5702,7 +6172,9 @@
       "difficulty": "NORMAL",
       "id": "107714",
       "outro": "",
-      "question": "Welches Wort ist KEIN Akronym?"
+      "question": "Welches Wort ist KEIN Akronym?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5726,7 +6198,9 @@
       "difficulty": "NORMAL",
       "id": "107807",
       "outro": "",
-      "question": "Für welche Figur ist Rowan Atkinson am bekanntesten?"
+      "question": "Für welche Figur ist Rowan Atkinson am bekanntesten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5757,7 +6231,9 @@
         ]
       },
       "outro": "In meinem Set fehlt das X. Dafür nehme ich einfach einen herausgebrochenen Zahn.",
-      "question": "Wie viele Felder hat ein [i]Scrabble[/i]-Spielbrett?"
+      "question": "Wie viele Felder hat ein [i]Scrabble[/i]-Spielbrett?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5781,7 +6257,9 @@
       "difficulty": "NORMAL",
       "id": "107924",
       "outro": "",
-      "question": "Woraus besteht der größte Teil deines Blutes?"
+      "question": "Woraus besteht der größte Teil deines Blutes?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5805,7 +6283,9 @@
       "difficulty": "NORMAL",
       "id": "107927",
       "outro": "",
-      "question": "Wer wurde bei der Oscarverleihung 2022 geohrfeigt?"
+      "question": "Wer wurde bei der Oscarverleihung 2022 geohrfeigt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5829,7 +6309,9 @@
       "difficulty": "NORMAL",
       "id": "107928",
       "outro": "",
-      "question": "Wie viele Würfel braucht man für [i]Kniffel[/i]?"
+      "question": "Wie viele Würfel braucht man für [i]Kniffel[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5853,7 +6335,9 @@
       "difficulty": "NORMAL",
       "id": "107950",
       "outro": "",
-      "question": "Welcher griechische Held hatte die Idee zum Trojanischen Pferd?"
+      "question": "Welcher griechische Held hatte die Idee zum Trojanischen Pferd?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5877,7 +6361,9 @@
       "difficulty": "NORMAL",
       "id": "108197",
       "outro": "",
-      "question": "Wie viele Karat entsprechen reinem Gold?"
+      "question": "Wie viele Karat entsprechen reinem Gold?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5901,7 +6387,9 @@
       "difficulty": "NORMAL",
       "id": "108205",
       "outro": "",
-      "question": "Welches Gas kommt in der Erdatmosphäre am häufigsten vor?"
+      "question": "Welches Gas kommt in der Erdatmosphäre am häufigsten vor?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5925,7 +6413,9 @@
       "difficulty": "NORMAL",
       "id": "108226",
       "outro": "",
-      "question": "Zwischen New York und welcher Stadt übertrug die Kunstinstallation „The Portal“ 2024 einen Livestream?"
+      "question": "Zwischen New York und welcher Stadt übertrug die Kunstinstallation „The Portal“ 2024 einen Livestream?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5949,7 +6439,9 @@
       "difficulty": "NORMAL",
       "id": "108282",
       "outro": "",
-      "question": "Finde das Antibiotikum."
+      "question": "Finde das Antibiotikum.",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -5973,7 +6465,9 @@
       "difficulty": "HARD",
       "id": "108283",
       "outro": "",
-      "question": "Mit welchem Schwert beginnt Cloud Strife [i]Final Fantasy VII Remake[/i]?"
+      "question": "Mit welchem Schwert beginnt Cloud Strife [i]Final Fantasy VII Remake[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6005,7 +6499,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche Form haben Planetenbahnen nach Keplers erstem Gesetz?"
+      "question": "Welche Form haben Planetenbahnen nach Keplers erstem Gesetz?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6029,7 +6525,9 @@
       "difficulty": "NORMAL",
       "id": "108473",
       "outro": "Wo bleibt IHR Freizeitpark in Tennessee?",
-      "question": "Was für ein Tier war Dolly, das erste aus einer adulten Zelle geklonte Säugetier?"
+      "question": "Was für ein Tier war Dolly, das erste aus einer adulten Zelle geklonte Säugetier?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6053,7 +6551,9 @@
       "difficulty": "NORMAL",
       "id": "108475",
       "outro": "Ich liebe D&D. Hier ist ein Lied auf meiner Laute über meinen Mut: OHHH—",
-      "question": "Welches Videospiel spielt in der Welt von [i]Dungeons & Dragons[/i]?"
+      "question": "Welches Videospiel spielt in der Welt von [i]Dungeons & Dragons[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6077,7 +6577,9 @@
       "difficulty": "NORMAL",
       "id": "108477",
       "outro": "",
-      "question": "Welches Videospiel entstand mithilfe eines ehemaligen CIA-Direktors und eines früheren KGB-Generalmajors?"
+      "question": "Welches Videospiel entstand mithilfe eines ehemaligen CIA-Direktors und eines früheren KGB-Generalmajors?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6101,7 +6603,9 @@
       "difficulty": "NORMAL",
       "id": "108487",
       "outro": "",
-      "question": "Ionen welches Metalls setzt eine hormonfreie Spirale frei?"
+      "question": "Ionen welches Metalls setzt eine hormonfreie Spirale frei?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6125,7 +6629,9 @@
       "difficulty": "NORMAL",
       "id": "108489",
       "outro": "",
-      "question": "Wohin musst du auf einer Dartscheibe zielen, um mit einem Pfeil die meisten Punkte zu erzielen?"
+      "question": "Wohin musst du auf einer Dartscheibe zielen, um mit einem Pfeil die meisten Punkte zu erzielen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6149,7 +6655,9 @@
       "difficulty": "NORMAL",
       "id": "108491",
       "outro": "",
-      "question": "Welche dieser Hunderassen ist ein Terrier?"
+      "question": "Welche dieser Hunderassen ist ein Terrier?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6173,7 +6681,9 @@
       "difficulty": "NORMAL",
       "id": "108524",
       "outro": "",
-      "question": "Welches Land grenzt NICHT an Russland?"
+      "question": "Welches Land grenzt NICHT an Russland?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6198,7 +6708,9 @@
       "id": "108561",
       "outro": "",
       "question": "Welches Bier nutzt man für das Biermischgetränk „Radler“?",
-      "x": true
+      "x": true,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6222,7 +6734,9 @@
       "difficulty": "NORMAL",
       "id": "108566",
       "outro": "",
-      "question": "Wie heißt das kombinierte Ausrufe- und Fragezeichen?"
+      "question": "Wie heißt das kombinierte Ausrufe- und Fragezeichen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6246,7 +6760,9 @@
       "difficulty": "NORMAL",
       "id": "108599",
       "outro": "",
-      "question": "Wofür steht WWE?"
+      "question": "Wofür steht WWE?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6270,7 +6786,9 @@
       "difficulty": "HARD",
       "id": "108651",
       "outro": "",
-      "question": "Welches Land liegt vollständig innerhalb der Grenzen eines anderen Landes?"
+      "question": "Welches Land liegt vollständig innerhalb der Grenzen eines anderen Landes?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6294,7 +6812,9 @@
       "difficulty": "NORMAL",
       "id": "108656",
       "outro": "[Forrest-Gump-Stimme] Lieutenant Biene, Sie haben gar keine Lunge! [normale Stimme] Gut, reicht jetzt.",
-      "question": "Welches Lebewesen besitzt KEINE Lunge?"
+      "question": "Welches Lebewesen besitzt KEINE Lunge?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6325,7 +6845,9 @@
         ]
       },
       "outro": "",
-      "question": "Was ist grammatisch gesehen das Subjekt dieser Frage?"
+      "question": "Was ist grammatisch gesehen das Subjekt dieser Frage?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6349,7 +6871,9 @@
       "difficulty": "NORMAL",
       "id": "108712",
       "outro": "Montreal liegt um den Mont Royal – oder, wie die Franzosen sagen: Montréal. [französisches Lachen]",
-      "question": "Welche Stadt wurde um einen Berg herum gebaut?"
+      "question": "Welche Stadt wurde um einen Berg herum gebaut?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6373,7 +6897,9 @@
       "difficulty": "NORMAL",
       "id": "108720",
       "outro": "",
-      "question": "Welches fiktive Metall überzieht Wolverines Skelett?"
+      "question": "Welches fiktive Metall überzieht Wolverines Skelett?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6397,7 +6923,9 @@
       "difficulty": "NORMAL",
       "id": "108761",
       "outro": "Cool. Schlag ein.",
-      "question": "Welches Zeichen beziehungsweise Kürzel bedeutet NICHT „Pfund“?"
+      "question": "Welches Zeichen beziehungsweise Kürzel bedeutet NICHT „Pfund“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6421,7 +6949,9 @@
       "difficulty": "NORMAL",
       "id": "108827",
       "outro": "",
-      "question": "Wer ist eine echte Figur aus [i]Die Tribute von Panem[/i]?"
+      "question": "Wer ist eine echte Figur aus [i]Die Tribute von Panem[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6445,7 +6975,9 @@
       "difficulty": "NORMAL",
       "id": "108880",
       "outro": "",
-      "question": "Was ist KEIN offizielles Teil, das man bei [i]Doktor Bibber[/i] entfernen muss?"
+      "question": "Was ist KEIN offizielles Teil, das man bei [i]Doktor Bibber[/i] entfernen muss?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6469,7 +7001,11 @@
       "difficulty": "HARD",
       "id": "108897",
       "outro": "",
-      "question": "Welche Sportart kam zuletzt ins olympische Programm?"
+      "question": "Welche Sportart kam zuletzt ins olympische Programm?",
+      "releaseVersion": 0,
+      "categories": [
+        "sports"
+      ]
     },
     {
       "choices": [
@@ -6493,7 +7029,9 @@
       "difficulty": "NORMAL",
       "id": "108901",
       "outro": "",
-      "question": "Welche Region gibt es im ersten [i]Red Dead Redemption[/i] NICHT?"
+      "question": "Welche Region gibt es im ersten [i]Red Dead Redemption[/i] NICHT?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6517,7 +7055,9 @@
       "difficulty": "NORMAL",
       "id": "109405",
       "outro": "",
-      "question": "Wie buchstabiert Mr. T seinen Namen im NATO-Alphabet?"
+      "question": "Wie buchstabiert Mr. T seinen Namen im NATO-Alphabet?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6542,7 +7082,9 @@
       "difficulty": "NORMAL",
       "id": "109412",
       "outro": "",
-      "question": "Welches Motiv zeigen die deutschen 10-, 20- und 50-Cent-Münzen?"
+      "question": "Welches Motiv zeigen die deutschen 10-, 20- und 50-Cent-Münzen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6566,7 +7108,9 @@
       "difficulty": "NORMAL",
       "id": "109500",
       "outro": "",
-      "question": "Welches griechische Gericht solltest du meiden, wenn du Reis und Fleisch in Weinblättern hasst?"
+      "question": "Welches griechische Gericht solltest du meiden, wenn du Reis und Fleisch in Weinblättern hasst?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6590,7 +7134,9 @@
       "difficulty": "NORMAL",
       "id": "109501",
       "outro": "",
-      "question": "Das Geräusch von Donner entsteht durch die schnelle Ausdehnung und Kontraktion wovon?"
+      "question": "Das Geräusch von Donner entsteht durch die schnelle Ausdehnung und Kontraktion wovon?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6614,7 +7160,9 @@
       "difficulty": "NORMAL",
       "id": "109504",
       "outro": "",
-      "question": "Welche beiden Dinge kann der menschliche Körper NICHT gleichzeitig tun?"
+      "question": "Welche beiden Dinge kann der menschliche Körper NICHT gleichzeitig tun?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6638,7 +7186,9 @@
       "difficulty": "NORMAL",
       "id": "109528",
       "outro": "",
-      "question": "Welchen Horrorfilm erwähnte der Zodiac-Killer in einem Brief lobend?"
+      "question": "Welchen Horrorfilm erwähnte der Zodiac-Killer in einem Brief lobend?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6669,7 +7219,9 @@
         ]
       },
       "outro": "",
-      "question": "Wie heißt das unheimliche Geistermädchen in [i]The Ring[/i]?"
+      "question": "Wie heißt das unheimliche Geistermädchen in [i]The Ring[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6693,7 +7245,9 @@
       "difficulty": "NORMAL",
       "id": "109599",
       "outro": "",
-      "question": "Wie viel sind ein Terabyte voller „Til Schweiger“-Bilder?"
+      "question": "Wie viel sind ein Terabyte voller „Til Schweiger“-Bilder?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6723,7 +7277,9 @@
       },
       "outro": "",
       "question": "Welche Zahl liest sich auf einem umgedrehten Taschenrechner als „BOOBIES“?",
-      "x": true
+      "x": true,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6747,7 +7303,9 @@
       "difficulty": "NORMAL",
       "id": "109677",
       "outro": "",
-      "question": "In welchem [i]Super-Mario[/i]-Spiel verbünden sich Mario und Bowser gegen einen gemeinsamen Feind?"
+      "question": "In welchem [i]Super-Mario[/i]-Spiel verbünden sich Mario und Bowser gegen einen gemeinsamen Feind?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6771,7 +7329,9 @@
       "difficulty": "NORMAL",
       "id": "109679",
       "outro": "",
-      "question": "In den Ruinen welcher Stadt spielt die Serie [i]Fallout[/i]?"
+      "question": "In den Ruinen welcher Stadt spielt die Serie [i]Fallout[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6795,7 +7355,9 @@
       "difficulty": "NORMAL",
       "id": "109682",
       "outro": "",
-      "question": "Welcher Fisch steckt im Filet-o-Fish von McDonald’s?"
+      "question": "Welcher Fisch steckt im Filet-o-Fish von McDonald’s?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6819,7 +7381,9 @@
       "difficulty": "NORMAL",
       "id": "109690",
       "outro": "",
-      "question": "Welche Band ist ein Quartett?"
+      "question": "Welche Band ist ein Quartett?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6843,7 +7407,9 @@
       "difficulty": "HARD",
       "id": "109709",
       "outro": "",
-      "question": "Welche schwarze Klaviertaste gibt es NICHT?"
+      "question": "Welche schwarze Klaviertaste gibt es NICHT?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6867,7 +7433,9 @@
       "difficulty": "NORMAL",
       "id": "109861",
       "outro": "",
-      "question": "Welche Pokerhand gibt es in [i]Balatro[/i] NICHT?"
+      "question": "Welche Pokerhand gibt es in [i]Balatro[/i] NICHT?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6891,7 +7459,9 @@
       "difficulty": "NORMAL",
       "id": "109870",
       "outro": "",
-      "question": "Wer ist im ersten [i]Freitag der 13.[/i] der Mörder?"
+      "question": "Wer ist im ersten [i]Freitag der 13.[/i] der Mörder?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6915,7 +7485,9 @@
       "difficulty": "NORMAL",
       "id": "109964",
       "outro": "",
-      "question": "Welches Handelsunternehmen wurde zuerst gegründet?"
+      "question": "Welches Handelsunternehmen wurde zuerst gegründet?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6939,7 +7511,9 @@
       "difficulty": "NORMAL",
       "id": "111190",
       "outro": "",
-      "question": "Welche Reissorte ist Langkornreis?"
+      "question": "Welche Reissorte ist Langkornreis?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6963,7 +7537,9 @@
       "difficulty": "NORMAL",
       "id": "111797",
       "outro": "",
-      "question": "Welches Ereignis geschah zuerst?"
+      "question": "Welches Ereignis geschah zuerst?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -6987,7 +7563,9 @@
       "difficulty": "NORMAL",
       "id": "111832",
       "outro": "",
-      "question": "Welcher Gehirnlappen liegt ganz vorn?"
+      "question": "Welcher Gehirnlappen liegt ganz vorn?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7011,7 +7589,9 @@
       "difficulty": "NORMAL",
       "id": "111838",
       "outro": "",
-      "question": "Welchen Pokémon-Typ gibt es wirklich?"
+      "question": "Welchen Pokémon-Typ gibt es wirklich?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7035,7 +7615,9 @@
       "difficulty": "HARD",
       "id": "112158",
       "outro": "",
-      "question": "Welcher europäische Seefahrer wurde von einem philippinischen Stammesführer getötet?"
+      "question": "Welcher europäische Seefahrer wurde von einem philippinischen Stammesführer getötet?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7060,7 +7642,9 @@
       "difficulty": "NORMAL",
       "id": "112170",
       "outro": "",
-      "question": "Wovon gibt es am meisten?"
+      "question": "Wovon gibt es am meisten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7084,7 +7668,9 @@
       "difficulty": "EASY",
       "id": "112272",
       "outro": "Grün – aber du musst es selbst zusammenbauen, und eine winzige Schraube fehlt.",
-      "question": "Welche Farbe entsteht beim Mischen der beiden IKEA-Logofarben?"
+      "question": "Welche Farbe entsteht beim Mischen der beiden IKEA-Logofarben?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7113,7 +7699,9 @@
         ]
       },
       "outro": "",
-      "question": "Was gehört NICHT zum modernen Fünfkampf?"
+      "question": "Was gehört NICHT zum modernen Fünfkampf?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7144,7 +7732,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche Band eröffnete 2023 Konzerte von Taylor Swifts Eras Tour?"
+      "question": "Welche Band eröffnete 2023 Konzerte von Taylor Swifts Eras Tour?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7175,7 +7765,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche Flagge sieht kopfüber genauso aus?"
+      "question": "Welche Flagge sieht kopfüber genauso aus?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7199,7 +7791,9 @@
       "difficulty": "NORMAL",
       "id": "112358",
       "outro": "",
-      "question": "Welcher Song trägt wirklich ein Ausrufezeichen im Titel?"
+      "question": "Welcher Song trägt wirklich ein Ausrufezeichen im Titel?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7223,7 +7817,9 @@
       "difficulty": "NORMAL",
       "id": "112361",
       "outro": "",
-      "question": "In welchem Land ist die Hauptstadt zugleich die bevölkerungsreichste Stadt?"
+      "question": "In welchem Land ist die Hauptstadt zugleich die bevölkerungsreichste Stadt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7255,7 +7851,9 @@
       },
       "outro": "",
       "question": "Was stimmt über die Werbefigur von Captain Morgan?",
-      "x": true
+      "x": true,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7279,7 +7877,9 @@
       "difficulty": "EASY",
       "id": "112396",
       "outro": "",
-      "question": "Welches Tier wird ungefähr 30-mal häufiger vom Blitz getötet als ein Mensch?"
+      "question": "Welches Tier wird ungefähr 30-mal häufiger vom Blitz getötet als ein Mensch?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7303,7 +7903,9 @@
       "difficulty": "NORMAL",
       "id": "112398",
       "outro": "",
-      "question": "Wie viel Speichel produziert ein menschlicher Mund ungefähr täglich?"
+      "question": "Wie viel Speichel produziert ein menschlicher Mund ungefähr täglich?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7327,7 +7929,9 @@
       "difficulty": "NORMAL",
       "id": "112399",
       "outro": "",
-      "question": "In welchem Land treten durchschnittlich die meisten Tornados auf?"
+      "question": "In welchem Land treten durchschnittlich die meisten Tornados auf?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7351,7 +7955,9 @@
       "difficulty": "NORMAL",
       "id": "112510",
       "outro": "",
-      "question": "Bis in welches heutige Land reichte das Römische Reich bei seiner größten Ausdehnung?"
+      "question": "Bis in welches heutige Land reichte das Römische Reich bei seiner größten Ausdehnung?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7375,7 +7981,9 @@
       "difficulty": "NORMAL",
       "id": "112554",
       "outro": "",
-      "question": "Wer gab das erste virtuelle Konzert in [i]Fortnite[/i]?"
+      "question": "Wer gab das erste virtuelle Konzert in [i]Fortnite[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7399,7 +8007,9 @@
       "difficulty": "NORMAL",
       "id": "112562",
       "outro": "",
-      "question": "Wo paaren sich Honigbienen?"
+      "question": "Wo paaren sich Honigbienen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7423,7 +8033,9 @@
       "difficulty": "NORMAL",
       "id": "112567",
       "outro": "Hebst du überhaupt, Bro? Rennst du überhaupt regelmäßig schreiend vor maskierten Mördern durch den Wald, Bro?",
-      "question": "Welche Übung stärkt vor allem deinen Latissimus, Bro?"
+      "question": "Welche Übung stärkt vor allem deinen Latissimus, Bro?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7447,7 +8059,9 @@
       "difficulty": "NORMAL",
       "id": "112740",
       "outro": "",
-      "question": "Welcher Popstar schrieb einen Song für [i]Barbie[/i] und spielte Meerjungfrau-Barbie?"
+      "question": "Welcher Popstar schrieb einen Song für [i]Barbie[/i] und spielte Meerjungfrau-Barbie?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7471,7 +8085,9 @@
       "difficulty": "NORMAL",
       "id": "112746",
       "outro": "",
-      "question": "Welches noch essbare Lebensmittel fanden Archäologen in Tutanchamuns Grab?"
+      "question": "Welches noch essbare Lebensmittel fanden Archäologen in Tutanchamuns Grab?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7495,7 +8111,9 @@
       "difficulty": "NORMAL",
       "id": "112747",
       "outro": "",
-      "question": "Wie lange braucht der Körper ungefähr, um das Knochengewebe des Skeletts zu erneuern?"
+      "question": "Wie lange braucht der Körper ungefähr, um das Knochengewebe des Skeletts zu erneuern?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7519,7 +8137,9 @@
       "difficulty": "HARD",
       "id": "112750",
       "outro": "",
-      "question": "Welches Tier gilt als das schleimigste der Welt?"
+      "question": "Welches Tier gilt als das schleimigste der Welt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7543,7 +8163,9 @@
       "difficulty": "NORMAL",
       "id": "112919",
       "outro": "",
-      "question": "Bei welchem Computerbegriff steht das T für „Turing“?"
+      "question": "Bei welchem Computerbegriff steht das T für „Turing“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7567,7 +8189,9 @@
       "difficulty": "NORMAL",
       "id": "112947",
       "outro": "",
-      "question": "Welches Musikinstrument zeigt Irlands Staatswappen?"
+      "question": "Welches Musikinstrument zeigt Irlands Staatswappen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7591,7 +8215,9 @@
       "difficulty": "NORMAL",
       "id": "112968",
       "outro": "",
-      "question": "Zu welchem Spiel erschien wegen des unbeliebten Endes eine erweiterte Fassung?"
+      "question": "Zu welchem Spiel erschien wegen des unbeliebten Endes eine erweiterte Fassung?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7615,7 +8241,9 @@
       "difficulty": "NORMAL",
       "id": "112969",
       "outro": "",
-      "question": "Welche Ghibli-Figur ist eine Hexe mit eigenem Lieferservice?"
+      "question": "Welche Ghibli-Figur ist eine Hexe mit eigenem Lieferservice?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7639,7 +8267,9 @@
       "difficulty": "NORMAL",
       "id": "112972",
       "outro": "Ich erkenne ... Rindnoten, Rindaroma und einen blumigen Hauch von ungeputzter Toilette.",
-      "question": "Welchen Wein brachte eine Fast-Food-Kette 2015 für ihre spanischen Filialen heraus?"
+      "question": "Welchen Wein brachte eine Fast-Food-Kette 2015 für ihre spanischen Filialen heraus?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7663,7 +8293,9 @@
       "difficulty": "NORMAL",
       "id": "112974",
       "outro": "",
-      "question": "Aus welchem Metall muss eine olympische Goldmedaille zu mindestens 92,5 Prozent bestehen?"
+      "question": "Aus welchem Metall muss eine olympische Goldmedaille zu mindestens 92,5 Prozent bestehen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7687,7 +8319,9 @@
       "difficulty": "HARD",
       "id": "113094",
       "outro": "",
-      "question": "Wer regierte am längsten?"
+      "question": "Wer regierte am längsten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7711,7 +8345,9 @@
       "difficulty": "NORMAL",
       "id": "113095",
       "outro": "Kann ich bestätigen. Ich sehe nur kurz in meiner Gefriertruhe nach.",
-      "question": "Welcher Körperteil eines Erwachsenen enthält die meisten Knochen?"
+      "question": "Welcher Körperteil eines Erwachsenen enthält die meisten Knochen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7740,7 +8376,9 @@
         ]
       },
       "outro": "Während du Quizspiele gespielt hast, habe ich die Kunst der Klinge studiert.",
-      "question": "Welches davon ist ein traditionelles japanisches Schwert?"
+      "question": "Welches davon ist ein traditionelles japanisches Schwert?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7769,7 +8407,9 @@
         ]
       },
       "outro": "",
-      "question": "Welche Muschel zeigt das Shell-Logo?"
+      "question": "Welche Muschel zeigt das Shell-Logo?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7794,7 +8434,9 @@
       "difficulty": "NORMAL",
       "id": "113255",
       "outro": "",
-      "question": "Welche Fast-Food-Kette verkauft den Whopper?"
+      "question": "Welche Fast-Food-Kette verkauft den Whopper?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7818,7 +8460,9 @@
       "difficulty": "NORMAL",
       "id": "113259",
       "outro": "",
-      "question": "Welches Land besitzt mehr Pyramiden als Ägypten?"
+      "question": "Welches Land besitzt mehr Pyramiden als Ägypten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7842,7 +8486,9 @@
       "difficulty": "NORMAL",
       "id": "113266",
       "outro": "",
-      "question": "Die Mutter welcher Disney-Prinzessin tritt im Film tatsächlich auf?"
+      "question": "Die Mutter welcher Disney-Prinzessin tritt im Film tatsächlich auf?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7866,7 +8512,9 @@
       "difficulty": "NORMAL",
       "id": "113287",
       "outro": "",
-      "question": "Es ist 22 Uhr. Wo befindet sich deine Milz?"
+      "question": "Es ist 22 Uhr. Wo befindet sich deine Milz?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7890,7 +8538,9 @@
       "difficulty": "NORMAL",
       "id": "113367",
       "outro": "",
-      "question": "Welche Farbe haben die Wunschpunkte im Gesicht des Sams?"
+      "question": "Welche Farbe haben die Wunschpunkte im Gesicht des Sams?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7914,7 +8564,9 @@
       "difficulty": "NORMAL",
       "id": "113368",
       "outro": "",
-      "question": "Worauf beziehen sich „35 Millimeter“ bei einem Film?"
+      "question": "Worauf beziehen sich „35 Millimeter“ bei einem Film?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7938,7 +8590,9 @@
       "difficulty": "NORMAL",
       "id": "113376",
       "outro": "Ich hasse es, wenn ich meine 90 Meter hohe Kupferstatue draußen stehen lasse und sie oxidiert.",
-      "question": "Welche Farbe hatte die Freiheitsstatue ursprünglich?"
+      "question": "Welche Farbe hatte die Freiheitsstatue ursprünglich?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7962,7 +8616,9 @@
       "difficulty": "NORMAL",
       "id": "113416",
       "outro": "",
-      "question": "Weshalb geht man zu einem Hämatologen?"
+      "question": "Weshalb geht man zu einem Hämatologen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -7987,7 +8643,9 @@
       "difficulty": "NORMAL",
       "id": "113433",
       "outro": "",
-      "question": "Welche Schreibweise ist richtig?"
+      "question": "Welche Schreibweise ist richtig?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8011,7 +8669,9 @@
       "difficulty": "NORMAL",
       "id": "113439",
       "outro": "",
-      "question": "Gegen welchen Vogel führte Australien 1932 erfolglos Krieg?"
+      "question": "Gegen welchen Vogel führte Australien 1932 erfolglos Krieg?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8035,7 +8695,9 @@
       "difficulty": "NORMAL",
       "id": "113442",
       "outro": "",
-      "question": "Wer spielt in [i]Star Wars: Episode I[/i] das Double von Natalie Portmans Königin Amidala?"
+      "question": "Wer spielt in [i]Star Wars: Episode I[/i] das Double von Natalie Portmans Königin Amidala?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8060,7 +8722,9 @@
       "id": "113447",
       "outro": "",
       "question": "Ohne sein Leben darauf zu reduzieren: Wer starb an Syphilis?",
-      "x": true
+      "x": true,
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8089,7 +8753,9 @@
         ]
       },
       "outro": "",
-      "question": "Welcher Film gewann den allerersten Oscar als bester Animationsfilm?"
+      "question": "Welcher Film gewann den allerersten Oscar als bester Animationsfilm?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8113,7 +8779,9 @@
       "difficulty": "HARD",
       "id": "113527",
       "outro": "",
-      "question": "Welche Vorsilbe stammt aus dem Griechischen statt dem Lateinischen?"
+      "question": "Welche Vorsilbe stammt aus dem Griechischen statt dem Lateinischen?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8137,7 +8805,9 @@
       "difficulty": "NORMAL",
       "id": "113528",
       "outro": "",
-      "question": "Welcher Planet ist der kälteste unseres Sonnensystems?"
+      "question": "Welcher Planet ist der kälteste unseres Sonnensystems?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8161,7 +8831,9 @@
       "difficulty": "NORMAL",
       "id": "113535",
       "outro": "",
-      "question": "Welche Yogahaltung wird im Stehen ausgeführt?"
+      "question": "Welche Yogahaltung wird im Stehen ausgeführt?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8185,7 +8857,11 @@
       "difficulty": "NORMAL",
       "id": "113554",
       "outro": "",
-      "question": "Welche Sportart konnte man in einem antiken griechischen Hippodrom sehen?"
+      "question": "Welche Sportart konnte man in einem antiken griechischen Hippodrom sehen?",
+      "releaseVersion": 0,
+      "categories": [
+        "sports"
+      ]
     },
     {
       "choices": [
@@ -8209,7 +8885,9 @@
       "difficulty": "NORMAL",
       "id": "113569",
       "outro": "",
-      "question": "Bei welcher olympischen Wurfdisziplin ist das Wurfgerät am leichtesten?"
+      "question": "Bei welcher olympischen Wurfdisziplin ist das Wurfgerät am leichtesten?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8233,7 +8911,9 @@
       "difficulty": "NORMAL",
       "id": "113594",
       "outro": "",
-      "question": "Welche Kampfkunst stammt NICHT aus Japan?"
+      "question": "Welche Kampfkunst stammt NICHT aus Japan?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8257,7 +8937,9 @@
       "difficulty": "NORMAL",
       "id": "113600",
       "outro": "",
-      "question": "Welcher Film spielt im Ersten Weltkrieg?"
+      "question": "Welcher Film spielt im Ersten Weltkrieg?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8281,7 +8963,9 @@
       "difficulty": "NORMAL",
       "id": "113696",
       "outro": "",
-      "question": "Was beginnt mit D?"
+      "question": "Was beginnt mit D?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8305,7 +8989,9 @@
       "difficulty": "HARD",
       "id": "113699",
       "outro": "",
-      "question": "Welche Zahl steht auf der Dartscheibe unten mittig direkt unter dem Bullseye?"
+      "question": "Welche Zahl steht auf der Dartscheibe unten mittig direkt unter dem Bullseye?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8329,7 +9015,9 @@
       "difficulty": "NORMAL",
       "id": "113707",
       "outro": "",
-      "question": "Was isst das Krümelmonster am Set der [i]Sesamstraße[/i] tatsächlich?"
+      "question": "Was isst das Krümelmonster am Set der [i]Sesamstraße[/i] tatsächlich?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8353,7 +9041,9 @@
       "difficulty": "NORMAL",
       "id": "113859",
       "outro": "",
-      "question": "Was ist KEINE klassische Spielfigur beim [i]Monopoly[/i]?"
+      "question": "Was ist KEINE klassische Spielfigur beim [i]Monopoly[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8377,7 +9067,9 @@
       "difficulty": "NORMAL",
       "id": "113860",
       "outro": "",
-      "question": "Was entsteht tatsächlich, wenn der Körper Fett „verbrennt“?"
+      "question": "Was entsteht tatsächlich, wenn der Körper Fett „verbrennt“?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8401,7 +9093,9 @@
       "difficulty": "NORMAL",
       "id": "113879",
       "outro": "",
-      "question": "Welches Tier besitzt kein Gehirn?"
+      "question": "Welches Tier besitzt kein Gehirn?",
+      "releaseVersion": 0,
+      "categories": []
     },
     {
       "choices": [
@@ -8425,7 +9119,9 @@
       "difficulty": "NORMAL",
       "id": "121802",
       "outro": "",
-      "question": "Wer schrieb das Gedicht [i]Der Zauberlehrling[/i]?"
+      "question": "Wer schrieb das Gedicht [i]Der Zauberlehrling[/i]?",
+      "releaseVersion": 0,
+      "categories": []
     }
   ]
 }

@@ -96,7 +96,9 @@
    ],
    "context": "",
    "id": "115208",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Weichkäse",
@@ -179,7 +181,9 @@
    ],
    "context": "",
    "id": "115209",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Generation Z",
@@ -287,7 +291,9 @@
    ],
    "context": "",
    "id": "115210",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Wasserpokémon",
@@ -380,7 +386,9 @@
    ],
    "context": "",
    "id": "115211",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Wird von der kleinen Raupe Nimmersatt gefressen",
@@ -493,7 +501,9 @@
    ],
    "context": "",
    "id": "115212",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Boybands",
@@ -601,7 +611,9 @@
    ],
    "context": "",
    "id": "115213",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Ist in den 80ern passiert",
@@ -709,7 +721,9 @@
    ],
    "context": "",
    "id": "115214",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Hat ein Säugetier als Titelfigur",
@@ -812,7 +826,9 @@
    ],
    "context": "",
    "id": "115215",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Dinge im Happy Meal von [i]McDonald's[/i]",
@@ -915,7 +931,9 @@
    ],
    "context": "",
    "id": "115216",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "[i]Der Preis ist heiß[/i]-Spiele",
@@ -1038,7 +1056,9 @@
    ],
    "context": "",
    "id": "115311",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Kann auf dem deutschen Personalausweis stehen",
@@ -1141,7 +1161,9 @@
    ],
    "context": "",
    "id": "115312",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Tragödien von Shakespeare",
@@ -1234,7 +1256,9 @@
    ],
    "context": "",
    "id": "115313",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "James-Bond-Darsteller",
@@ -1322,7 +1346,9 @@
    ],
    "context": "",
    "id": "115314",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Bohnen",
@@ -1425,7 +1451,9 @@
    ],
    "context": "",
    "id": "115315",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Japanische Automarken",
@@ -1538,7 +1566,9 @@
    ],
    "context": "",
    "id": "115316",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "EU-Länder mit dem Euro als Währung",
@@ -1662,7 +1692,9 @@
    "context": "",
    "countrySpecific": true,
    "id": "115317",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Teilnehmer der ersten Staffel von „7 vs. Wild“",
@@ -1741,7 +1773,9 @@
    "context": "",
    "countrySpecific": true,
    "id": "115318",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Richtig geschrieben",
@@ -1854,7 +1888,9 @@
    ],
    "context": "",
    "id": "115319",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Palindrome",
@@ -1947,7 +1983,9 @@
    ],
    "context": "",
    "id": "115320",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "[i]Star Trek[/i]-Serien",
@@ -2045,7 +2083,11 @@
    ],
    "context": "",
    "id": "115321",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": [
+    "filmtv"
+   ]
   },
   {
    "categoryName": "Worte, die nicht Unheil sind",
@@ -2173,7 +2215,9 @@
    ],
    "context": "",
    "id": "115322",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Länger als zwei Stunden",
@@ -2266,7 +2310,9 @@
    ],
    "context": "",
    "id": "115323",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Impressionisten",
@@ -2364,7 +2410,9 @@
    ],
    "context": "",
    "id": "115324",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Wirbellose Tiere",
@@ -2447,7 +2495,9 @@
    ],
    "context": "",
    "id": "115325",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Edelgase",
@@ -2530,7 +2580,9 @@
    ],
    "context": "",
    "id": "115326",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Olympische Sportarten 2024",
@@ -2648,7 +2700,9 @@
    ],
    "context": "",
    "id": "115327",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Tanzschritte beim [i]KiKA TanzAlarm[/i]",
@@ -2731,7 +2785,9 @@
    ],
    "context": "",
    "id": "115328",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Grenzt an Russland",
@@ -2859,7 +2915,9 @@
    ],
    "context": "",
    "id": "115329",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Scrabble-Steine mit mindestens vier Punkten",
@@ -2987,7 +3045,9 @@
    ],
    "context": "",
    "id": "115330",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Deutsche Bundeskanzler",
@@ -3086,7 +3146,9 @@
    "context": "",
    "countrySpecific": true,
    "id": "115331",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "[i]Harry Potter[/i]-Filme",
@@ -3154,7 +3216,9 @@
    ],
    "context": "",
    "id": "115332",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Pferderassen",
@@ -3252,7 +3316,9 @@
    ],
    "context": "",
    "id": "115333",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Songs von Herbert Grönemeyer",
@@ -3350,7 +3416,9 @@
    ],
    "context": "",
    "id": "115334",
-   "triviaType": "UNCONVENTIONAL"
+   "triviaType": "UNCONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Im NATO-Buchstabieralphabet",
@@ -3458,7 +3526,9 @@
    ],
    "context": "",
    "id": "115335",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   },
   {
    "categoryName": "Musicals, die in Hamburg aufgeführt wurden",
@@ -3536,7 +3606,9 @@
    ],
    "context": "",
    "id": "115336",
-   "triviaType": "CONVENTIONAL"
+   "triviaType": "CONVENTIONAL",
+   "releaseVersion": 0,
+   "categories": []
   }
  ]
 }

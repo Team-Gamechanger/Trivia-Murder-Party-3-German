@@ -2765,6 +2765,18 @@
      {
       "file": "VO/108155/audio/0.ogg",
       "subtitle": "Genug! Zeit, das hier ein für alle Mal zu beenden."
+     },
+     {
+      "file": "VO/108155/audio/1.ogg",
+      "subtitle": "Mal sehen, wer sich sein Fluchtabzeichen verdient."
+     },
+     {
+      "file": "VO/108155/audio/2.ogg",
+      "subtitle": "Tut mir leid, aber das Ferienlager geht zu Ende!"
+     },
+     {
+      "file": "VO/108155/audio/3.ogg",
+      "subtitle": "Zeit für einen morgendlichen Lauf!"
      }
     ]
    },
@@ -9430,6 +9442,22 @@
      {
       "file": "VO/117789/audio/0.ogg",
       "subtitle": "Ich weiß, ich muss besser werden. Ich bin nicht verrückt, Stimme meiner toten Mutter, die telepathisch mit mir redet!"
+     },
+     {
+      "file": "VO/117789/audio/1.ogg",
+      "subtitle": "Bitte verzeih mir, Mama!"
+     },
+     {
+      "file": "VO/117789/audio/2.ogg",
+      "subtitle": "Die hatten nur Glück! Das kommt nicht wieder vor!"
+     },
+     {
+      "file": "VO/117789/audio/3.ogg",
+      "subtitle": "Keine Sorge. Bis Sonnenaufgang sind sie alle tot."
+     },
+     {
+      "file": "VO/117789/audio/4.ogg",
+      "subtitle": "Ich weiß, ich muss besser werden!"
      }
     ]
    },
@@ -11682,7 +11710,7 @@
     "versions": [
      {
       "file": "VO/122303/audio/0.ogg",
-      "subtitle": "Dreht eure abgetrennte Hand so, dass ihr Schatten vor Ablauf der Zeit zu möglichst vielen Zielformen passt."
+      "subtitle": "Dreht eure Hand so, dass ihr Schatten vor Ablauf der Zeit zu möglichst vielen Zielformen passt."
      }
     ]
    },
@@ -11738,7 +11766,7 @@
      },
      {
       "file": "VO/122306/audio/1.ogg",
-      "subtitle": "Gib mir deine Hand ..."
+      "subtitle": "Du da, gib mir deine Hand ..."
      },
      {
       "file": "VO/122306/audio/2.ogg",
@@ -11830,7 +11858,7 @@
     "versions": [
      {
       "file": "VO/122651/audio/0.ogg",
-      "subtitle": "Wir spielen jetzt Marshmallow-Rösten."
+      "subtitle": "Wir spielen jetzt Rösten."
      },
      {
       "file": "VO/122651/audio/1.ogg",
@@ -11846,7 +11874,7 @@
      },
      {
       "file": "VO/122651/audio/4.ogg",
-      "subtitle": "Zeit für einen tödlichen Nachtisch."
+      "subtitle": "Tod durch Schokolade? Nee, Tod durch Marshmallow!"
      },
      {
       "file": "VO/122651/audio/5.ogg",
@@ -11966,11 +11994,11 @@
     "versions": [
      {
       "file": "VO/122658/audio/0.ogg",
-      "subtitle": "Der traurigste Marshmallow gehörte DIR!"
+      "subtitle": "Und der traurigste Marshmallow gehörte DIR!"
      },
      {
       "file": "VO/122658/audio/1.ogg",
-      "subtitle": "Der Titel für den schlechtesten Röster geht an DICH!"
+      "subtitle": "Glückwunsch! Du bist der SCHLECHTESTE Röster!"
      }
     ]
    },
@@ -12024,6 +12052,70 @@
    },
    "id": "122660",
    "name": "ROASTED_SAFE_NOVICTORY"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122679/audio/0.ogg",
+      "subtitle": "Meine Güte, stinkt das hier!"
+     },
+     {
+      "file": "VO/122679/audio/1.ogg",
+      "subtitle": "Kann bitte jemand ein Fenster aufmachen?!"
+     },
+     {
+      "file": "VO/122679/audio/2.ogg",
+      "subtitle": "Konntet ihr nicht warten, bis wir draußen sind?!"
+     },
+     {
+      "file": "VO/122679/audio/3.ogg",
+      "subtitle": "Mein Gott, stinkt das hier! Ihr müsst zum Arzt!"
+     },
+     {
+      "file": "VO/122679/audio/4.ogg",
+      "subtitle": "Ihr räuchert hier die ganze Bude aus!"
+     },
+     {
+      "file": "VO/122679/audio/5.ogg",
+      "subtitle": "Igitt, das stinkt hier! Ich fühle mich geschmeichelt. Ihr habt wohl Angst!"
+     }
+    ]
+   },
+   "id": "122679",
+   "name": "FART_REACTION_INSIDE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122680/audio/0.ogg",
+      "subtitle": "Ihr furzt ja wie die Weltmeister! Gut, dass wir draußen sind!"
+     },
+     {
+      "file": "VO/122680/audio/1.ogg",
+      "subtitle": "Solange wir draußen sind, könnt ihr furzen, so viel ihr wollt!"
+     },
+     {
+      "file": "VO/122680/audio/2.ogg",
+      "subtitle": "Wenn ihr schon Stinkwolken produziert, dann bitte hier draußen."
+     },
+     {
+      "file": "VO/122680/audio/3.ogg",
+      "subtitle": "Eure Fürze treiben die Erderwärmung voran."
+     },
+     {
+      "file": "VO/122680/audio/4.ogg",
+      "subtitle": "Falls ihr glaubt, Furzwolken ersetzen eine Leuchtpistole, dann liegt ihr falsch."
+     },
+     {
+      "file": "VO/122680/audio/5.ogg",
+      "subtitle": "Leute, wenn ihr aufs Plumpsklo müsst, fragt einfach, okay?!"
+     }
+    ]
+   },
+   "id": "122680",
+   "name": "FART_REACTION_OUTSIDE"
   }
  ]
 }
