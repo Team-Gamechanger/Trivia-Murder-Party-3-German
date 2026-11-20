@@ -8,349 +8,349 @@
     {
      "textKey": "TUT_CANOES_0",
      "value": [
-     "Gefährdete Spieler wählen ein Kanu, in das sie sich setzen."
+      "Alle gefährdeten Spieler wählen ein Kanu."
      ]
     },
     {
      "textKey": "TUT_CANOES_1",
      "value": [
-     "Wählt ihr alle dasselbe Kanu, stirbt niemand."
+      "Sitzen alle im selben Boot, bleiben alle am Leben."
      ]
     },
     {
      "textKey": "TUT_CANOES_3",
      "value": [
-     "Seid ihr euch nicht einig, bestrafe ich die schwerere Seite."
+      "Seid ihr euch nicht einig, bestrafe ich die schwerere Seite."
      ]
     },
     {
      "textKey": "TUT_PITS_0",
      "value": [
-     "Gefährdete Spieler wählen einen Punkthaufen."
+      "Alle gefährdeten Spieler wählen einen Punktehaufen."
      ]
     },
     {
      "textKey": "TUT_PITS_1",
      "value": [
-     "Ihr behaltet ihn, wenn niemand denselben Haufen wählt."
+      "Du behältst ihn, wenn kein anderer Spieler den gleichen wählt."
      ]
     },
     {
      "textKey": "TUT_PITS_2",
      "value": [
-     "Andernfalls fallt ihr in die Grube."
+      "Sonst sterben alle, die das Gleiche genommen haben."
      ]
     },
     {
      "textKey": "TUT_MINDMELD_0",
      "value": [
-     "Ihr bekommt eine Vorgabe. Gebt eine gültige und einzigartige Antwort."
+      "Ihr bekommt eine Kategorie. Gebt eine Antwort ein, die in diese Kategorie passt."
      ]
     },
     {
      "textKey": "TUT_MINDMELD_1",
      "value": [
-     "Seid ihr gefährdet und jemand gibt dieselbe Antwort, sterbt ihr."
+      "Bist du gefährdet und stimmt irgendjemand mit dir überein, stirbst du."
      ]
     },
     {
      "textKey": "TUT_JUMPSCARE_0",
      "value": [
-     "Jeder Spieler kann in dieser Partie mindestens einen Jump Scare auslösen."
+      "Jeder Spieler kann in dieser Runde mindestens einen Jump Scare auslösen."
      ]
     },
     {
      "textKey": "TUT_JUMPSCARE_1",
      "value": [
-     "Der Knopf zum Auslösen befindet sich oben auf eurem Gerät."
+      "Der Knopf dazu ist oben auf eurem Gerät"
      ]
     },
     {
      "textKey": "TUT_JUMPSCARE_2",
      "value": [
-     "Dort seht ihr auch, wie viele ihr noch habt. Setzt sie klug ein."
+      "und zeigt auch an, wie viele ihr noch übrig habt. Setzt sie taktisch ein."
      ]
     },
     {
      "textKey": "TUT_COUNTING_0",
      "value": [
-     "Gleich fallen jede Menge Augäpfel vom Himmel."
+      "Gleich fallen Augen vom Himmel."
      ]
     },
     {
      "textKey": "TUT_COUNTING_1",
      "value": [
-     "Schätzt, wie viele im Gefäß landen."
+      "Ihr schätzt, wie viele im Glas landen."
      ]
     },
     {
      "textKey": "TUT_COUNTING_2",
      "value": [
-     "Wer am weitesten danebenliegt, wird bestraft!"
+      "Wer am weitesten von der richtigen Antwort entfernt ist, wird bestraft!"
      ]
     },
     {
      "textKey": "TUT_COUNTING_SAFE_0",
      "value": [
-     "Gleich fallen jede Menge Augäpfel vom Himmel."
+      "Gleich fallen Augen vom Himmel."
      ]
     },
     {
      "textKey": "TUT_COUNTING_SAFE_1",
      "value": [
-     "Schätzt, wie viele im Gefäß landen."
+      "Alle schätzen, wie viele im Glas landen."
      ]
     },
     {
      "textKey": "TUT_COUNTING_SAFE_2",
      "value": [
-     "Schätzt ein sicherer Spieler besser als ihr, sterbt ihr!"
+      "Schätzt ein sicherer Spieler besser als du, stirbst du!"
      ]
     },
     {
      "textKey": "TUT_KILLERCAM_0",
      "value": [
-     "Ich kreise mit einer Kettensäge um euch herum."
+      "Ich werde mit einer Kettensäge um euch kreisen."
      ]
     },
     {
      "textKey": "TUT_KILLERCAM_1",
      "value": [
-     "Ich zeige euch ein Bild von der Stelle, an der ich zusteche."
+      "Ich zeige euch ein Bild von den Stellen, an denen ich zustechen werde."
      ]
     },
     {
      "textKey": "TUT_KILLERCAM_2",
      "value": [
-     "Orientiert euch am Graffiti und geht aus dem Weg."
+      "Nutzt die Graffitis, um den Kettensägen auszuweichen."
      ]
     },
     {
      "textKey": "TUT_KILLERCAM_3",
      "value": [
-     "Berührt euch meine Kettensäge, verliert ihr."
+      "Wer von meiner Kettensäge getroffen wird, stirbt."
      ]
     },
     {
      "textKey": "TUT_POURING_0",
      "value": [
-     "Ihr bekommt einen Opferbecher mit einer bestimmten Menge Blut."
+      "Ihr bekommt einen Becher mit einer bestimmten Menge Blut."
      ]
     },
     {
      "textKey": "TUT_POURING_1",
      "value": [
-     "Schätzt, wie viel mehr Blut nötig ist, um ihn zu füllen."
+      "Schätzt, wie viel Blut man braucht, um ihn zu füllen."
      ]
     },
     {
      "textKey": "TUT_POURING_2",
      "value": [
-     "Haltet auf eurem Gerät den Messbecher für die fehlende Menge gedrückt."
+      "Haltet dafür auf eurem Gerät den Messbecher so lange gedrückt, bis die fehlende Menge im Messbecher ist."
      ]
     },
     {
      "textKey": "TUT_POURING_3",
      "value": [
-     "Anschließend wird der Messbecher in euren Opferbecher geleert."
+      "Danach kippen wir die Messbecher in eure Becher."
      ]
     },
     {
      "textKey": "TUT_POURING_4",
      "value": [
-     "Ich bestrafe euch, wenn er überläuft oder ihr am wenigsten Blut habt."
+      "Du wirst bestraft, wenn dein Becher überläuft oder wenn du am wenigsten Blut in deinem Becher hast."
      ]
     },
     {
      "textKey": "TUT_POURING_SAFE_1",
      "value": [
-     "Schätzt, wie viel mehr Blut nötig ist, um ihn zu füllen."
+      "Schätzt, wie viel Blut man braucht, um ihn zu füllen."
      ]
     },
     {
      "textKey": "TUT_POURING_SAFE_2",
      "value": [
-     "Haltet auf eurem Gerät den Messbecher für die fehlende Menge gedrückt."
+      "Haltet dafür auf eurem Gerät den Messbecher so lange gedrückt, bis die fehlende Menge im Messbecher ist."
      ]
     },
     {
      "textKey": "TUT_POURING_SAFE_3",
      "value": [
-     "Anschließend wird der Messbecher in euren Opferbecher geleert."
+      "Danach kippen wir die Messbecher in eure Becher."
      ]
     },
     {
      "textKey": "TUT_POURING_SAFE_4",
      "value": [
-     "Ich bestrafe euch, wenn er überläuft oder ihr weniger habt als ein sicherer Spieler."
+      "Du wirst bestraft, wenn dein Becher überläuft oder wenn du weniger im Becher hast als ein sicherer Spieler."
      ]
     },
     {
      "textKey": "TUT_CHALICES_0",
      "value": [
-     "Alle wählen heimlich einen Kelch zum Vergiften."
+      "Alle wählen einen Kelch zum Vergiften aus."
      ]
     },
     {
      "textKey": "TUT_CHALICES_1",
      "value": [
-     "Danach wählt jeder einen Kelch zum Trinken."
+      "Danach wählt jeder von euch einen Kelch zum Trinken."
      ]
     },
     {
      "textKey": "TUT_CHALICES_2",
      "value": [
-     "Enthält euer Getränk Gift, sterbt ihr."
+      "Ist dein Kelch vergiftet, stirbst du."
      ]
     },
     {
      "textKey": "TUT_CHALICES_SAFE_0",
      "value": [
-     "Jeder sichere Spieler vergiftet heimlich einen Kelch."
+      "Alle wählen einen Kelch zum Vergiften aus."
      ]
     },
     {
      "textKey": "TUT_CHALICES_SAFE_1",
      "value": [
-     "Danach wählen die gefährdeten Spieler einen Kelch zum Trinken."
+      "Danach wählen die gefährdeten Spieler einen Kelch zum Trinken."
      ]
     },
     {
      "textKey": "TUT_CHALICES_SAFE_2",
      "value": [
-     "Enthält euer Getränk Gift, sterbt ihr."
+      "Ist dein Kelch vergiftet, stirbst du."
      ]
     },
     {
      "textKey": "TUT_MATH_0",
      "value": [
-     "Löst so viele einfache Gleichungen wie möglich, bevor die Zeit abläuft."
+      "Beantworte so viele Matheaufgaben, wie du kannst, bevor die Zeit abläuft."
      ]
     },
     {
      "textKey": "TUT_MATH_1",
      "value": [
-     "Aber Vorsicht: Bei einem Fehler müsst ihr kurz aussetzen."
+      "Aber Achtung: Bei einem Fehler frierst du kurz ein."
      ]
     },
     {
      "textKey": "TUT_MATH_2",
      "value": [
-     "Wer die niedrigste Punktzahl hat, stirbt."
+      "Wer die wenigsten Aufgaben richtig gelöst hat, stirbt."
      ]
     },
     {
      "textKey": "TUT_MATH_SAFE_0",
      "value": [
-     "Löst so viele einfache Gleichungen wie möglich, bevor die Zeit abläuft."
+      "Beantworte so viele Matheaufgaben, wie du kannst, bevor die Zeit abläuft."
      ]
     },
     {
      "textKey": "TUT_MATH_SAFE_1",
      "value": [
-     "Aber Vorsicht: Bei einem Fehler müsst ihr kurz aussetzen."
+      "Aber Achtung: Bei einem Fehler frierst du kurz ein."
      ]
     },
     {
      "textKey": "TUT_MATH_SAFE_2",
      "value": [
-     "Erzielt ein sicherer Spieler mehr Punkte als ihr, sterbt ihr."
+      "Ist ein sicherer Spieler besser als du, stirbst du."
      ]
     },
     {
      "textKey": "TUT_ARCHERY_0",
      "value": [
-     "Gefährdete Spieler wählen eine Stelle der Zielscheibe, wo sie befestigt werden sollen."
+      "Gefährdete Spieler wählen eine Stelle der Zielscheibe, wo sie befestigt werden sollen."
      ]
     },
     {
      "textKey": "TUT_ARCHERY_1",
      "value": [
-     "Die sicheren Spieler schießen auf euch."
+      "Die sicheren Spieler schießen anschließend auf euch."
      ]
     },
     {
      "textKey": "TUT_ARCHERY_2",
      "value": [
-     "Wer von einem Pfeil getroffen wird, stirbt."
+      "Wer von einem Pfeil getroffen wird, stirbt."
      ]
     },
     {
      "textKey": "TUT_FINGERVOTE_0",
      "value": [
-     "Getötete Spieler wählen, wer einen Finger verlieren soll."
+      "Alle getöteten Spieler stimmen ab, wer einen Finger verlieren soll."
      ]
     },
     {
      "textKey": "TUT_FINGERVOTE_1",
      "value": [
-     "Diese Person verliert bis zur Finalrunde eine zufällige Antwortmöglichkeit."
+      "Der gewählte Spieler verliert bis zur Finalrunde eine zufällige Antwortmöglichkeit."
      ]
     },
     {
      "textKey": "TUT_SUBJECTIVEQUESTION_0",
      "value": [
-     "Ich ersetze meine normalen Fragen durch meinungsbasierte Fragen."
+      "Ich ersetze meine normalen Fragen durch meinungsbasierte Fragen."
      ]
     },
     {
      "textKey": "TUT_SUBJECTIVEQUESTION_1",
      "value": [
-     "Ist deine Antwort in der Minderheit, wirst du bestraft."
+      "Ist deine Antwort in der Minderheit, wirst du bestraft."
      ]
     },
     {
      "textKey": "TUT_FLASHLIGHT_0",
      "value": [
-     "Trivia wird jetzt im Dunkeln gespielt. Ich gebe jedem von euch eine Taschenlampe."
+      "Wir spielen jetzt im Dunkeln. Jeder von euch bekommt eine Taschenlampe."
      ]
     },
     {
      "textKey": "TUT_FLASHLIGHT_1",
      "value": [
-     "Aber es gibt einen Haken: Sobald ihr sie einschaltet, könnt ihr sie nicht mehr bewegen."
+      "Aber sobald ihr sie einschaltet, könnt ihr sie nicht mehr bewegen."
      ]
     },
     {
      "textKey": "TUT_FLASHLIGHT_2",
      "value": [
-     "Stimmt euch also gut ab, sonst seht ihr wichtige Teile der Frage nicht. Und das wäre doch schade!"
+      "Sprecht euch gut ab, sonst fehlen euch vielleicht einige wichtige Teile der Frage. Das wäre echt schade, oder?"
      ]
     },
     {
      "textKey": "TUT_TRUNKS_0",
      "value": [
-     "Jeder sichere Spieler hat eine Bombenform, die er heimlich auf einem Kofferraster platziert."
+      "Jeder sichere Spieler erhält Bomben in einer bestimmten Form und wird sie auf dem Feld platzieren."
      ]
     },
     {
      "textKey": "TUT_TRUNKS_1",
      "value": [
-     "Jeder gefährdete Spieler wählt einen Koffer als Versteck."
+      "Jeder gefährdete Spieler versteckt sich in einem Koffer."
      ]
     },
     {
      "textKey": "TUT_TRUNKS_2",
      "value": [
-     "Wird euer Koffer getroffen, sterbt ihr."
+      "Wird dein Koffer gefunden, stirbst du."
      ]
     },
     {
      "textKey": "TUT_PASSWORDS_0",
      "value": [
-     "Jeder gefährdete Spieler erstellt ein Passwort aus einem echten Wort mit fünf Buchstaben."
+      "Jeder gefährdete Spieler gibt ein echtes deutsches Wort mit fünf Buchstaben ein."
      ]
     },
     {
      "textKey": "TUT_PASSWORDS_1",
      "value": [
-     "Die sicheren Spieler versuchen, euer Passwort zu knacken."
+      "Die sicheren Spieler versuchen, es zu knacken."
      ]
     },
     {
      "textKey": "TUT_PASSWORDS_2",
      "value": [
-     "Wenn sie erfolgreich sind, sterbt ihr."
+      "Wenn dein Passwort geknackt wird, stirbst du."
      ]
     },
     {
@@ -362,13 +362,13 @@
     {
      "textKey": "TUT_PUPPETS_1",
      "value": [
-      "Dreht sie, damit der Schatten zur Zielform passt."
+      "Dreht sie, damit der Schatten zu den Zielformen passt."
      ]
     },
     {
      "textKey": "TUT_PUPPETS_2",
      "value": [
-      "Wer die wenigsten Punkte hat, stirbt!"
+      "Wer die wenigsten Formen hinbekommt, stirbt!"
      ]
     },
     {
@@ -380,19 +380,67 @@
     {
      "textKey": "TUT_PUPPETS_SAFE_1",
      "value": [
-      "Dreht sie, damit der Schatten zur Zielform passt."
+      "Dreht sie, damit der Schatten zu den Zielformen passt."
      ]
     },
     {
      "textKey": "TUT_PUPPETS_SAFE_2",
      "value": [
-      "Erzielt ein sicherer Spieler mehr Punkte als du, stirbst du!"
+      "Erzielt ein sicherer Spieler mehr Formen als du, stirbst du!"
      ]
     },
     {
      "textKey": "TUT_POURING_SAFE_0",
      "value": [
-      "Ihr bekommt einen Opferbecher mit einer bestimmten Menge Blut."
+      "Ihr bekommt einen Becher mit einer bestimmten Menge Blut."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_0",
+     "value": [
+      "Ihr bekommt nacheinander verschieden stark geröstete Marshmallows gezeigt."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_1",
+     "value": [
+      "Röstet neue Marshmallows, die jeder Vorgabe möglichst ähnlich sehen."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_2",
+     "value": [
+      "Am Ende wird euer bester Treffer aufgedeckt."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_3",
+     "value": [
+      "Wer die wenigsten Punkte hat, stirbt!"
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_SAFE_0",
+     "value": [
+      "Ihr bekommt nacheinander verschieden stark geröstete Marshmallows gezeigt."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_SAFE_1",
+     "value": [
+      "Röstet neue Marshmallows, die der Vorlage möglichst ähnlich sehen."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_SAFE_2",
+     "value": [
+      "Erzielt ein sicherer Spieler mehr Punkte als du, stirbst du."
+     ]
+    },
+    {
+     "textKey": "TUT_ROASTED_SAFE_3",
+     "value": [
+      ""
      ]
     }
    ]

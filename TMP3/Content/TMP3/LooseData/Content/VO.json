@@ -11883,6 +11883,14 @@
      {
       "file": "VO/122651/audio/6.ogg",
       "subtitle": "Kommt, macht es euch IM Feuer gemütlich."
+     },
+     {
+      "file": "VO/122651/audio/7.ogg",
+      "subtitle": "Ich werfe nur noch ein Bein ins Feuer."
+     },
+     {
+      "file": "VO/122651/audio/8.ogg",
+      "subtitle": "Werdet ihr Grillmeister oder selbst gegrillt?"
      }
     ]
    },
@@ -11999,6 +12007,18 @@
      {
       "file": "VO/122658/audio/1.ogg",
       "subtitle": "Glückwunsch! Du bist der SCHLECHTESTE Röster!"
+     },
+     {
+      "file": "VO/122658/audio/2.ogg",
+      "subtitle": "Ihr seid in Flammen aufgegangen!"
+     },
+     {
+      "file": "VO/122658/audio/3.ogg",
+      "subtitle": "Ihr habt die Hitze nicht ausgehalten!"
+     },
+     {
+      "file": "VO/122658/audio/4.ogg",
+      "subtitle": "Ihr habt gefährlich mit dem Feuer gespielt!"
      }
     ]
    },
@@ -12023,6 +12043,14 @@
      {
       "file": "VO/122659/audio/3.ogg",
       "subtitle": "Da habt ihr euch verbrannt!"
+     },
+     {
+      "file": "VO/122659/audio/4.ogg",
+      "subtitle": "Die sicheren Spieler sind Feuer und Flamme!"
+     },
+     {
+      "file": "VO/122659/audio/5.ogg",
+      "subtitle": "Gut gemacht! Esst ihr das noch, oder ...?"
      }
     ]
    },
@@ -12047,6 +12075,22 @@
      {
       "file": "VO/122660/audio/3.ogg",
       "subtitle": "Ich bin euch nicht böse, sichere Spieler. Nur enttäuscht."
+     },
+     {
+      "file": "VO/122660/audio/4.ogg",
+      "subtitle": "Niemand ist gestorben, aber wenigstens haben wir Essen verschwendet."
+     },
+     {
+      "file": "VO/122660/audio/5.ogg",
+      "subtitle": "Ihr habt mich vor diesem coolen Feuer blamiert."
+     },
+     {
+      "file": "VO/122660/audio/6.ogg",
+      "subtitle": "Niemand ist gestorben? Was ist das denn für ein Lagerfeuer?"
+     },
+     {
+      "file": "VO/122660/audio/7.ogg",
+      "subtitle": "Schlimmer wäre es nur gewesen, wenn jemand eine Gitarre ausgepackt hätte."
      }
     ]
    },
@@ -12111,11 +12155,502 @@
      {
       "file": "VO/122680/audio/5.ogg",
       "subtitle": "Leute, wenn ihr aufs Plumpsklo müsst, fragt einfach, okay?!"
+     },
+     {
+      "file": "VO/122680/audio/6.ogg",
+      "subtitle": "Ob ihr's glaubt oder nicht: Animierte Fürze stinken schlimmer als echte."
+     },
+     {
+      "file": "VO/122680/audio/7.ogg",
+      "subtitle": "Es wärmt mir das Herz, euch alle mit solchen Magen-Darm-Problemen zu sehen."
+     },
+     {
+      "file": "VO/122680/audio/8.ogg",
+      "subtitle": "Ist es nicht wunderschön, dass kein Furz wie der andere riecht?"
+     },
+     {
+      "file": "VO/122680/audio/9.ogg",
+      "subtitle": "Bitte hört auf zu furzen. Meine Bindehautentzündung ist schon im Endstadium."
+     },
+     {
+      "file": "VO/122680/audio/10.ogg",
+      "subtitle": "Meine Güte. Als würdet ihr durch euren Hintern atmen."
+     },
+     {
+      "file": "VO/122680/audio/11.ogg",
+      "subtitle": "Igitt. Das gibt eine Blase in der Badehose."
+     },
+     {
+      "file": "VO/122680/audio/12.ogg",
+      "subtitle": "Uäh, ich verbrenne etwas Menschenfleisch, um den Gestank zu überdecken."
+     },
+     {
+      "file": "VO/122680/audio/13.ogg",
+      "subtitle": "Bei dem ständigen Gefurze merkt man, dass ihr nicht die hellste Gruppe seid."
+     },
+     {
+      "file": "VO/122680/audio/14.ogg",
+      "subtitle": "Leichen entleeren ihren Darm, aber dem Geruch nach legt ihr schon mal vor."
      }
     ]
    },
    "id": "122680",
    "name": "FART_REACTION_OUTSIDE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122870/audio/0.ogg",
+      "subtitle": "30 Sekunden stehen auf der Uhr. Los geht's!"
+     },
+     {
+      "file": "VO/122870/audio/1.ogg",
+      "subtitle": "Ihr habt 30 Sekunden, ab JETZT!"
+     }
+    ]
+   },
+   "id": "122870",
+   "name": "ROASTED_0"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122871/audio/0.ogg",
+      "subtitle": "Uff ..."
+     }
+    ]
+   },
+   "id": "122871",
+   "name": "ROASTED_OUTRO"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122872/audio/0.ogg",
+      "subtitle": "Wenn ihr wütend seid, atmet tief durch. Bald könnt ihr das nicht mehr."
+     },
+     {
+      "file": "VO/122872/audio/1.ogg",
+      "subtitle": "Ach je, hätte ich gewusst, dass ihr euch aufregt, hätte ich euch nie gefoltert."
+     },
+     {
+      "file": "VO/122872/audio/2.ogg",
+      "subtitle": "Wütend? Ich hole meinen Vorgesetzten. Der hängt im Kühlraum."
+     },
+     {
+      "file": "VO/122872/audio/3.ogg",
+      "subtitle": "Es ist gesünder, eure Wut in etwas Produktives zu stecken. Zum Beispiel Folter."
+     },
+     {
+      "file": "VO/122872/audio/4.ogg",
+      "subtitle": "Ihr seid stinksauer, und daran wird sich auf absehbare Zeit nichts ändern!"
+     },
+     {
+      "file": "VO/122872/audio/5.ogg",
+      "subtitle": "Oh, ihr seid sauer? Dann lernt nächstes Mal Allgemeinwissen, statt ein Sozialleben zu haben!"
+     },
+     {
+      "file": "VO/122872/audio/6.ogg",
+      "subtitle": "IHR seid sauer? Ich ersticke hier schon den ganzen Abend an euren Furzwolken!"
+     },
+     {
+      "file": "VO/122872/audio/7.ogg",
+      "subtitle": "Okay, euer Blut kocht. Kann ich jetzt die Nudeln reintun?"
+     },
+     {
+      "file": "VO/122872/audio/8.ogg",
+      "subtitle": "Hey, ich bin auch nicht ganz bei mir. Aber eher so auf die durchgeknallte Art."
+     },
+     {
+      "file": "VO/122872/audio/9.ogg",
+      "subtitle": "Selbst für Opfer übertreibt ihr es ein bisschen mit eurer Wut."
+     }
+    ]
+   },
+   "id": "122872",
+   "name": "MAD_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122873/audio/0.ogg",
+      "subtitle": "Fröhlich sein? Bei DIESER Wirtschaftslage?!"
+     },
+     {
+      "file": "VO/122873/audio/1.ogg",
+      "subtitle": "Wenn ihr so glücklich seid, dann tötet doch eure Freunde!"
+     },
+     {
+      "file": "VO/122873/audio/2.ogg",
+      "subtitle": "Es ist so cringe, wenn ihr Freude zeigt."
+     },
+     {
+      "file": "VO/122873/audio/3.ogg",
+      "subtitle": "Genießt Wolke sieben. Bald liegt ihr zwei Meter unter der Erde."
+     },
+     {
+      "file": "VO/122873/audio/4.ogg",
+      "subtitle": "Falls ihr euch euphorisch fühlt: Das liegt an den Dämpfen aus der Reifengrube."
+     },
+     {
+      "file": "VO/122873/audio/5.ogg",
+      "subtitle": "Okay, genug gefreut! Ihr lasst mich schlecht aussehen!"
+     },
+     {
+      "file": "VO/122873/audio/6.ogg",
+      "subtitle": "Beruhigt euch, ihr Spinner!"
+     }
+    ]
+   },
+   "id": "122873",
+   "name": "JOY_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122874/audio/0.ogg",
+      "subtitle": "Oh, ihr findet das lustig? Hier werden Spieler sterben. Jetzt mal ernsthaft."
+     },
+     {
+      "file": "VO/122874/audio/1.ogg",
+      "subtitle": "Was ist so lustig? Läuft Rainer hinter mir?!"
+     },
+     {
+      "file": "VO/122874/audio/2.ogg",
+      "subtitle": "Wenn ihr euch totlachen könntet, würde mir das echt Zeit sparen."
+     },
+     {
+      "file": "VO/122874/audio/3.ogg",
+      "subtitle": "Euer Lachen ist Musik in meinen Ohren. Experimenteller Jazz, um genau zu sein."
+     },
+     {
+      "file": "VO/122874/audio/4.ogg",
+      "subtitle": "Vielen Dank! Ich bin noch die ganze Nacht hier. Ihr aber nicht!"
+     },
+     {
+      "file": "VO/122874/audio/5.ogg",
+      "subtitle": "Ihr lacht doch nicht über meinen Hut, oder?"
+     },
+     {
+      "file": "VO/122874/audio/6.ogg",
+      "subtitle": "Was ist so lustig?! Hat sich jemand verletzt?!"
+     }
+    ]
+   },
+   "id": "122874",
+   "name": "LAUGH_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122944/audio/0.ogg",
+      "subtitle": "Stellt den Regler auf eurem Gerät so ein, dass ihr höchstens 15 % von der richtigen Antwort abweicht."
+     }
+    ]
+   },
+   "id": "122944",
+   "name": "DIAL_INTRO_FIRST_TIME"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122946/audio/0.ogg",
+      "subtitle": "Hier kommt eure nächste Prozentfrage."
+     },
+     {
+      "file": "VO/122946/audio/1.ogg",
+      "subtitle": "Macht die Regler bereit – hier kommt eure nächste Frage."
+     },
+     {
+      "file": "VO/122946/audio/2.ogg",
+      "subtitle": "Zeit, die nächste Antwort einzustellen."
+     },
+     {
+      "file": "VO/122946/audio/3.ogg",
+      "subtitle": "Noch eine Prozentfrage für euch."
+     },
+     {
+      "file": "VO/122946/audio/4.ogg",
+      "subtitle": "Legt die Finger wieder an den Regler ..."
+     }
+    ]
+   },
+   "id": "122946",
+   "name": "DIAL_INTRO_SUBSEQUENT"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122947/audio/0.ogg",
+      "subtitle": "Wer lag höchstens 15 % daneben?"
+     },
+     {
+      "file": "VO/122947/audio/1.ogg",
+      "subtitle": "Mal sehen, wer im richtigen Bereich gelandet ist."
+     },
+     {
+      "file": "VO/122947/audio/2.ogg",
+      "subtitle": "Und der richtige Antwortbereich ist ..."
+     },
+     {
+      "file": "VO/122947/audio/3.ogg",
+      "subtitle": "Habt ihr euren Regler auf diesen Bereich eingestellt?"
+     }
+    ]
+   },
+   "id": "122947",
+   "name": "DIAL_ANSWER_REVEAL"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122949/audio/0.ogg",
+      "subtitle": "Ach, weint doch nicht über verschüttete Gedärme."
+     },
+     {
+      "file": "VO/122949/audio/1.ogg",
+      "subtitle": "Heult euch ruhig die Augen aus. Mir gehen die Augen aus."
+     },
+     {
+      "file": "VO/122949/audio/2.ogg",
+      "subtitle": "Ja, ja, heult wie ein Wasserfall, baut mir eine Brücke, setzt ein paar Kois und Seerosen rein und macht mir einen netten kleinen Garten."
+     },
+     {
+      "file": "VO/122949/audio/3.ogg",
+      "subtitle": "Was ist los? Was an der drohenden Todesgefahr macht euch traurig?"
+     },
+     {
+      "file": "VO/122949/audio/4.ogg",
+      "subtitle": "Ihr weint? Bei Mordspielen wird nicht geweint!"
+     },
+     {
+      "file": "VO/122949/audio/5.ogg",
+      "subtitle": "Weint nicht, weil es anfängt. Lächelt, weil bald alles vorbei ist."
+     },
+     {
+      "file": "VO/122949/audio/6.ogg",
+      "subtitle": "Ihr weint? Hier, etwas Gewebe zum Abtupfen. Hautgewebe."
+     },
+     {
+      "file": "VO/122949/audio/7.ogg",
+      "subtitle": "Reißt euch zusammen, damit ich euch auseinandernehmen kann."
+     },
+     {
+      "file": "VO/122949/audio/8.ogg",
+      "subtitle": "Nicht weinen! Denkt an etwas Schönes, wie Sonnenblumen oder das Ende von Titanic."
+     },
+     {
+      "file": "VO/122949/audio/9.ogg",
+      "subtitle": "Wenn ihr wen zum Ausheulen braucht: Ich habe hier ein ganzes Fass voll."
+     }
+    ]
+   },
+   "id": "122949",
+   "name": "SAD_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122950/audio/0.ogg",
+      "subtitle": "Tanzt, als würde niemand versuchen, einem Partyspiel zu folgen."
+     },
+     {
+      "file": "VO/122950/audio/1.ogg",
+      "subtitle": "Immer mit der Ruhe. Das ist hier nicht das Casting für ,Das Supertalentlose‘."
+     },
+     {
+      "file": "VO/122950/audio/2.ogg",
+      "subtitle": "Ihr findet diesen Tanz schwierig? Versucht ihn mal auf hohen Absätzen."
+     },
+     {
+      "file": "VO/122950/audio/3.ogg",
+      "subtitle": "Uff, ihr habt Glück, dass das kein Rhythmusspiel ist."
+     },
+     {
+      "file": "VO/122950/audio/4.ogg",
+      "subtitle": "Ihr seid Poesie in Bewegung. Und ich hasse Poesie! Und Bewegung!"
+     },
+     {
+      "file": "VO/122950/audio/5.ogg",
+      "subtitle": "Whoa, verletzt euch nicht beim Tanzen. Das ist mein Job."
+     },
+     {
+      "file": "VO/122950/audio/6.ogg",
+      "subtitle": "Wer ist euer Choreograf? Den will ich auch umbringen."
+     }
+    ]
+   },
+   "id": "122950",
+   "name": "DANCE_REACTION"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Das nächste Spiel wird euch ... UMHAUEN!"
+     },
+     {
+      "subtitle": "Zeit, euch ein paar Stufen runterzuholen."
+     },
+     {
+      "subtitle": "Wer hat Lust auf eine Nagelprobe?"
+     }
+    ]
+   },
+   "id": "123013",
+   "name": "PEGS_TITLE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Mögen die Spiele beginnen."
+     },
+     {
+      "subtitle": "Jetzt lasst die Dinger fallen!"
+     },
+     {
+      "subtitle": "Wir sehen uns beim nächsten Fall!"
+     },
+     {
+      "subtitle": "Wie ein unartiger Hund müsst ihr jetzt SOFORT loslassen!"
+     },
+     {
+      "subtitle": "Jetzt machen wir uns bereit zum PURZELN!"
+     },
+     {
+      "subtitle": "Jetzt lasst die Scheiben fallen."
+     },
+     {
+      "subtitle": "Lasst die Scheiben fallen wie ein nagelneues Handy ohne Versicherung!"
+     }
+    ]
+   },
+   "id": "123014",
+   "name": "PEGS_START"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Wenn ihr irgendwie jeden Stift trefft, gewinnt ihr ein Küsschen!"
+     },
+     {
+      "subtitle": "Oh, wow, ich sehe schon, ihr habt richtig Talent dafür."
+     },
+     {
+      "subtitle": "Wer dabei Free Fallin' singt, wird doppelt ermordet."
+     },
+     {
+      "subtitle": "Denkt dran: Die Stifte haben mehr Angst vor euch als ihr vor ihnen."
+     },
+     {
+      "subtitle": "Wie schräg wäre es, wenn eine Scheibe plötzlich nach oben fliegt? Sorry, ich hatte ein lustiges Gummibärchen."
+     },
+     {
+      "subtitle": "Einer dieser Stifte ist eigentlich ein Dübel! Findet ihr ihn?!"
+     }
+    ]
+   },
+   "id": "123015",
+   "name": "PEGS_DROPPING"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Ich glaube, das war keine Absicht!"
+     },
+     {
+      "subtitle": "Denkt dran: Ihr seid ganz allein schuld!"
+     },
+     {
+      "subtitle": "Ihr seid jetzt in der ... Todeszone!"
+     },
+     {
+      "subtitle": "Wow, der Zufall hasst euch!"
+     },
+     {
+      "subtitle": "Die Glücksfee kann euch nicht leiden!"
+     },
+     {
+      "subtitle": "Ihr fragt euch sicher, warum die Todeszonen heißen. Ich zeig's euch!"
+     },
+     {
+      "subtitle": "Ja, in den Todeszonen kann man auch unangemeldet reinfallen!"
+     },
+     {
+      "subtitle": "Einen Applaus für die Todeszonen!"
+     },
+     {
+      "subtitle": "Bäm! Voll in die Todeszone!"
+     },
+     {
+      "subtitle": "Was habt ihr der Schwerkraft getan? Sie hasst euch."
+     }
+    ]
+   },
+   "id": "123016",
+   "name": "PEGS_VICTIMS"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Pah! Was bringt Glücksspiel, wenn es niemandem das Leben ruiniert?!"
+     },
+     {
+      "subtitle": "Niemand ist gestorben? Tja, ich habe eure Sachen schon verkauft."
+     },
+     {
+      "subtitle": "Das war das Schlimmste, was ich je gesehen habe. Und ich habe ganz Glee gesehen!"
+     },
+     {
+      "subtitle": "Im Nachhinein hätte ich überall Todeszonen einbauen sollen."
+     },
+     {
+      "subtitle": "Uäh, wer hat dieses Spiel entworfen? Das hängt viel zu sehr vom Zufall ab!"
+     },
+     {
+      "subtitle": "Na gut, eure Haustiere lasse ich trotzdem kastrieren."
+     },
+     {
+      "subtitle": "Warum?! Warum hasst du mich, Schwerkraft?!"
+     },
+     {
+      "subtitle": "Drew Carey würde so was nie passieren!"
+     },
+     {
+      "subtitle": "Da stehe ich ja schön mit Ei auf der Maske da!"
+     },
+     {
+      "subtitle": "Na, ich weiß schon, worüber ich nachher mit meinem Therapeuten rede!"
+     }
+    ]
+   },
+   "id": "123017",
+   "name": "PEGS_NO_VICTIMS"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "subtitle": "Zu einfach, was? Mal sehen, wie ihr euch schlagt, wenn ihr höchstens 10 % danebenliegen dürft!"
+     }
+    ]
+   },
+   "id": "123080",
+   "name": "DIAL_HARD_INTRO"
   }
  ]
 }
